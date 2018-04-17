@@ -1,0 +1,39 @@
+\t (02:43:34) allegro 16.6-2015 S054 (v16-6-112EE) Windows 32
+\t (02:43:34)     Journal start - Tue Mar 27 14:02:21 2018
+\t (02:43:34)         Host=DESKTOP-FB3FC0F User=MikeJ Pid=15328 CPUs=8
+\t (02:43:34) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe E:\Project\LEXUN\HDMI2LVDS\allegro\lexun_hdmi-b-2017-06-15.brd
+\t (02:43:34) 
+\d (02:43:34) Design opened: D:/Cadence/lib/allegro/hsymbol/SO-8.dra
+\i (02:43:34) generaledit 
+\i (02:43:35) zoom in 1 
+\i (02:43:35) setwindow pcb
+\i (02:43:35) zoom in 0.2018 -0.1350
+\i (02:43:35) trapsize 743
+\i (02:43:36) zoom in 1 
+\i (02:43:36) setwindow pcb
+\i (02:43:36) zoom in -0.2587 0.2390
+\i (02:43:36) trapsize 371
+\i (02:43:37) zoom out 1 
+\i (02:43:37) setwindow pcb
+\i (02:43:37) zoom out -0.2587 0.2390
+\i (02:43:37) trapsize 743
+\i (02:43:37) zoom out 1 
+\i (02:43:37) setwindow pcb
+\i (02:43:37) zoom out -0.2586 0.2389
+\i (02:43:37) trapsize 1485
+\i (02:43:37) zoom in 1 
+\i (02:43:37) setwindow pcb
+\i (02:43:37) zoom in -2.2343 1.8258
+\i (02:43:37) trapsize 743
+\i (02:43:38) zoom in 1 
+\i (02:43:38) setwindow pcb
+\i (02:43:38) zoom in -2.2343 1.8258
+\i (02:43:38) trapsize 371
+\i (02:43:39) open 
+\e (02:43:39) Do you want to save the changes you made to SO-8.dra?
+\i (02:43:40) fillin no 
+\i (02:44:08) fillin "D:\Cadence\lib\allegro\psm_draSymbols\sop8_50_150.dra"
+\i (02:44:08) cd "D:\Cadence\lib\allegro\psm_draSymbols"
+\t (02:44:08) Opening existing design...
+\i (02:44:08) trapsize 10664
+\t (02:44:08)     Journal end - Tue Mar 27 14:02:55 2018

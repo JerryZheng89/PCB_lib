@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : so-8fl-5p.dra                                 )
+(    Software Version : 16.6-2015S054                                 )
+(    Date/Time        : Wed Apr 04 20:08:55 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = D:/Cadence/lib/allegro/tm4210
+    Name      = so-8fl-5p.psm
+    User      = Jerry
+    Machine   = JERRY-PC
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+
