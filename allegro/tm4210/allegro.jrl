@@ -1,0 +1,23 @@
+\t (00:00:00) allegro 16.6-2015 S054 (v16-6-112EE) Windows 32
+\t (00:00:00)     Journal start - Mon Apr 09 09:51:33 2018
+\t (00:00:00)         Host=DESKTOP-FB3FC0F User=MikeJ Pid=14300 CPUs=8
+\t (00:00:00) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:00:00) 
+\t (00:00:02) Starting new design...
+\i (00:00:02) trapsize 1094
+\i (00:00:02) trapsize 1061
+\i (00:00:02) trapsize 1099
+\i (00:00:02) trapsize 1116
+\i (00:00:02) trapsize 1464
+\i (00:00:02) trapsize 1464
+\i (00:00:03) generaledit 
+\i (00:00:04) open 
+\i (00:00:16) fillin "D:\Cadence\lib\allegro\psm_draSymbols\SOD-106.dra"
+\i (00:00:16) cd "D:\Cadence\lib\allegro\psm_draSymbols"
+\t (00:00:16) Opening existing design...
+\i (00:00:16) trapsize 51
+\i (00:00:16) trapsize 49
+\i (00:00:16) trapsize 51
+\i (00:00:16) trapsize 40
+\i (00:00:16) trapsize 40
+\t (00:00:16)     Journal end - Mon Apr 09 09:51:50 2018

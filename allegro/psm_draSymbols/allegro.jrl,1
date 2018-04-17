@@ -1,0 +1,19 @@
+\t (00:16:05) allegro 16.6-2015 S054 (v16-6-112EE) Windows 32
+\t (00:16:05)     Journal start - Thu Apr 12 10:53:54 2018
+\t (00:16:05)         Host=DESKTOP-FB3FC0F User=MikeJ Pid=15332 CPUs=8
+\t (00:16:05) CmdLine= allegro.exe -s D:\FPM\fpmyi.scr
+\t (00:16:05) 
+\d (00:16:05) Design opened: D:/Cadence/lib/allegro/psm_draSymbols/qfn16_50p300x300x80-17w4.dra
+\i (00:16:05) generaledit 
+\i (00:16:09) pick grid -2.585 2.271
+\t (00:16:09) last pick:  -2.600 2.300
+\i (00:16:10) save 
+\i (00:16:14) fillin yes 
+\t (00:16:14) Symbol 'qfn16_50p300x300x80-17w4.psm' created.
+\i (00:16:14) generaledit 
+\i (00:16:16) pick grid -2.834 1.626
+\t (00:16:16) last pick:  -2.800 1.600
+\i (00:16:20) pick grid 2.683 2.092
+\t (00:16:20) last pick:  2.700 2.100
+\i (00:16:41) exit 
+\t (00:16:41)     Journal end - Thu Apr 12 10:54:30 2018

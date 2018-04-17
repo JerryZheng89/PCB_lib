@@ -1,0 +1,1 @@
+del *.txt,*.log,*".txt,1"

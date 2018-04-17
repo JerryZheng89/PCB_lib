@@ -1,0 +1,61 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Allegro NETLIST IN Log File                                      )
+(                                                                     )
+(    Drawing          : 1.brd                                         )
+(    Software Version : 16.6S038                                      )
+(    Date/Time        : Mon Apr 09 16:15:50 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Mon Apr 09 16:15:50 2018				Page     1
+
+
+
+
+Netlist File: 'D:/Cadence/lib/test\1.TXT'      Physical Design File: 'D:/Caden~
+ce/lib/test\1.brd'
+
+===========================================================
+
+$PACKAGES
+BM08B ! 'BM08B' ; J1
+$END
+
+===========================================================
+End of NETLIST IN Syntax/Logic Check
+===========================================================
+
+Total Netlist Warnings =  0.
+Total Netlist Errors   =  0.
+Mon Apr 09 16:15:50 2018				Page     1
+
+Parsing device file: 'D:/Cadence/lib/test/bm08b.txt'.
+
+
+(DEVICE DESCRIPTION FILE: BM08B)
+PACKAGE BM08B
+PINCOUNT 10
+CLASS IC
+
+PINORDER 'BM08B' 1 2 3 4 5 6 7 8 0/1 0/2 
+
+FUNCTION F1 'BM08B' 1 2 3 4 5 6 7 8 0/1 0/2 
+
+END
+
+
+===========================================================
+
+Total Device File Warnings =  0.
+Total Device File Errors   =  0.
+
+===========================================================
+
+Total Combined Netlist and Device File Warnings =  0.
+Total Combined Netlist and Device File Errors   =  0.
+
+===========================================================
+End of Allegro NETLIST IN Log
+===========================================================

@@ -1,0 +1,25 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : SLP127.dra                                    )
+(    Software Version : 16.6-2015S054                                 )
+(    Date/Time        : Tue Aug 23 13:18:25 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Users/cai/lib/allegro/linbell/symbol
+    Name      = slp127.psm
+    User      = cai
+    Machine   = CAI-PC
+
+
+Create symbol started.
+ 
+ ERROR(SPMHCS-1): Symbol is missing a refdes. 
+ ERROR(SPMHCS-1): Symbol is missing a refdes. 
+
+ERROR(SPMHA1-291): Create symbol has been aborted.
+

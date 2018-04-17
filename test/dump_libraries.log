@@ -1,0 +1,39 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Dump Library Log                                                 )
+(                                                                     )
+(    Software Version : 16.6-2015S054                                 )
+(    Date/Time        : Mon Apr 09 16:16:41 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+*** file: D:/Cadence/lib/test/1.brd ***
+
+
+
+  *** Creating all device files (see create_devices.log) ***
+
+
+  *** Creating padstacks. ***
+
+  PAD1 being dumped.
+
+  PAD2 being dumped.
+
+
+  *** Creating package symbols (.dra and .psm) ***
+
+  bm08b being dumped.
+
+
+
+*********************** Summary *********************
+ERRORs reported:                           0
+
+Number of padstacks dumped:                2
+Number of package symbols dumped:          1
+
+Total number of symbols dumped:            1
+*****************************************************
+

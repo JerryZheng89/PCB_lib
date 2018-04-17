@@ -1,0 +1,104 @@
+\t (00:00:03) apd 16.6-2015 S054 (v16-6-112EE) Windows 32
+\t (00:00:03)     Journal start - Tue Aug 23 10:00:12 2016
+\t (00:00:03)         Host=CAI-PC User=cai Pid=1824 CPUs=8
+\t (00:00:03) CmdLine= C:\Cadence\SPB_16.6\tools\pcb\bin\apd.exe
+\t (00:00:03) 
+\t (00:00:03) Opening existing design...
+\d (00:00:03) Design opened: C:/Users/cai/lib/allegro/linbell/symbol/SD214AA.dra
+\i (00:00:03) trapsize 3151
+\i (00:00:03) trapsize 3055
+\i (00:00:03) trapsize 3135
+\i (00:00:03) trapsize 3168
+\i (00:00:03) trapsize 2580
+\i (00:00:03) trapsize 2580
+\i (00:00:04) generaledit 
+\i (00:00:06) open 
+\i (00:00:48) fillin "TSQFP50P1600X1600-100.dra"
+\t (00:00:48) Opening existing design...
+\i (00:00:48) trapsize 138
+\d (00:00:48) Design opened: C:/Users/cai/lib/allegro/linbell/symbol/TSQFP50P1600X1600-100.dra
+\i (00:00:48) generaledit 
+\i (00:00:50) zoom in 1 
+\i (00:00:50) setwindow pcb
+\i (00:00:50) zoom in -7.982 5.878
+\i (00:00:50) trapsize 69
+\i (00:00:50) zoom in 1 
+\i (00:00:50) setwindow pcb
+\i (00:00:50) zoom in -7.982 5.878
+\i (00:00:50) trapsize 35
+\i (00:00:53) zoom out 1 
+\i (00:00:53) setwindow pcb
+\i (00:00:53) zoom out -7.084 6.016
+\i (00:00:53) trapsize 69
+\i (00:00:53) zoom out 1 
+\i (00:00:53) setwindow pcb
+\i (00:00:53) zoom out -6.946 6.017
+\i (00:00:53) trapsize 138
+\i (00:00:53) zoom out 1 
+\i (00:00:53) setwindow pcb
+\i (00:00:53) zoom out -4.392 6.430
+\i (00:00:53) trapsize 138
+\i (00:00:53) zoom out 1 
+\i (00:00:53) setwindow pcb
+\i (00:00:53) zoom out -4.392 6.430
+\i (00:00:53) trapsize 138
+\i (00:00:54) zoom in 1 
+\i (00:00:54) setwindow pcb
+\i (00:00:54) zoom in -8.617 6.071
+\i (00:00:54) trapsize 69
+\i (00:00:54) zoom in 1 
+\i (00:00:54) setwindow pcb
+\i (00:00:54) zoom in -8.616 6.071
+\i (00:00:54) trapsize 35
+\i (00:01:04) zoom out 1 
+\i (00:01:04) setwindow pcb
+\i (00:01:04) zoom out -7.422 4.484
+\i (00:01:04) trapsize 69
+\i (00:01:04) zoom out 1 
+\i (00:01:04) setwindow pcb
+\i (00:01:04) zoom out -6.670 4.485
+\i (00:01:04) trapsize 138
+\i (00:01:04) zoom out 1 
+\i (00:01:04) setwindow pcb
+\i (00:01:04) zoom out -3.840 -0.279
+\i (00:01:04) trapsize 138
+\i (00:01:04) zoom out 1 
+\i (00:01:04) setwindow pcb
+\i (00:01:04) zoom out -3.840 -0.279
+\i (00:01:04) trapsize 138
+\i (00:01:08) zoom in 1 
+\i (00:01:08) setwindow pcb
+\i (00:01:08) zoom in 8.418 6.044
+\i (00:01:08) trapsize 69
+\i (00:01:13) zoom in 1 
+\i (00:01:13) setwindow pcb
+\i (00:01:13) zoom in 6.265 6.679
+\i (00:01:13) trapsize 35
+\i (00:01:13) zoom out 1 
+\i (00:01:13) setwindow pcb
+\i (00:01:13) zoom out 4.595 6.748
+\i (00:01:13) trapsize 69
+\i (00:01:13) zoom out 1 
+\i (00:01:13) setwindow pcb
+\i (00:01:13) zoom out 2.910 6.680
+\i (00:01:13) trapsize 138
+\i (00:01:15) zoom in 1 
+\i (00:01:15) setwindow pcb
+\i (00:01:15) zoom in -7.871 5.381
+\i (00:01:15) trapsize 69
+\i (00:01:15) zoom in 1 
+\i (00:01:15) setwindow pcb
+\i (00:01:15) zoom in -7.871 5.381
+\i (00:01:15) trapsize 35
+\i (00:01:17) roam start
+\i (00:01:17) roam x -112
+\i (00:01:17) roam x -64
+\i (00:01:17) roam y 16
+\i (00:01:17) roam y 16
+\i (00:01:17) roam end
+\i (00:01:22) pick grid -9.134 6.686
+\t (00:01:22) last pick:  -9.100 6.700
+\i (00:01:34) pick grid -3.157 5.816
+\t (00:01:34) last pick:  -3.200 5.800
+\i (00:01:35) exit 
+\t (00:01:35)     Journal end - Tue Aug 23 10:01:44 2016

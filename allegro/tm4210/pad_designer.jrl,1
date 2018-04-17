@@ -1,0 +1,16 @@
+\t (00:00:00) pad_designer 16.6-2015 S051 (v16-6-112DY) Windows 32
+\t (00:00:00)     Journal start - Mon Apr 09 11:58:37 2018
+\t (00:00:00)         Host=DESKTOP-FB3FC0F User=MikeJ Pid=3064 CPUs=8
+\t (00:00:00) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\pad_designer.exe
+\t (00:00:00) 
+\i (00:00:02) setwindow form.padedit
+\i (00:00:02) pse_open 
+\i (00:00:34) fillin "s122.pad"
+\i (00:00:36) FORM padedit layers  
+\i (00:01:03) FORM padedit parameters  
+\i (00:01:04) FORM padedit layers  
+\i (00:01:06) FORM padedit parameters  
+\i (00:01:08) pse_save_as 
+\i (00:01:13) fillin "D:\Cadence\lib\allegro\pad\s122.pad"
+\i (00:01:14) pse_exit
+\t (00:01:14)     Journal end - Mon Apr 09 11:59:52 2018

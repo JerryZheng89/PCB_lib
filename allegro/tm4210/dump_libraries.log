@@ -1,0 +1,811 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Dump Library Log                                                 )
+(                                                                     )
+(    Software Version : 16.6-2015S054                                 )
+(    Date/Time        : Wed Apr 04 16:35:52 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+*** file: E:/Project/OpenHard/TM4210.brd ***
+
+
+
+  *** Creating all device files (see create_devices.log) ***
+
+
+  *** Creating padstacks. ***
+
+  C276I182D142P2 being dumped.
+
+  TPT3050V24D12 being dumped.
+
+  RE9X59 being dumped.
+
+  RE59X9 being dumped.
+
+  C276I158D118P2 being dumped.
+
+  SO-8FL being dumped.
+
+  C31D31N being dumped.
+
+  C51D51N being dumped.
+
+  C43D43N being dumped.
+
+  C61D61N being dumped.
+
+  C63D63N being dumped.
+
+  C45D45N being dumped.
+
+  C37D37N being dumped.
+
+  C83D83N being dumped.
+
+  C67D67N being dumped.
+
+  C77D77N being dumped.
+
+  TPB2650 being dumped.
+
+  TPB3075 being dumped.
+
+  RE20X40 being dumped.
+
+  RE11X50 being dumped.
+
+  RE30X40 being dumped.
+
+  RE13X30 being dumped.
+
+  RE12X51 being dumped.
+
+  RE12X33 being dumped.
+
+  RE32X40 being dumped.
+
+  RE11X61 being dumped.
+
+  RE12X60 being dumped.
+
+  RE40X50 being dumped.
+
+  RE12X42 being dumped.
+
+  RE40X60 being dumped.
+
+  RE24X40 being dumped.
+
+  RE10X45 being dumped.
+
+  RE12X43 being dumped.
+
+  RE20X53 being dumped.
+
+  RE10X55 being dumped.
+
+  RE20X63 being dumped.
+
+  RE24X51 being dumped.
+
+  RE12X45 being dumped.
+
+  RE45X12 being dumped.
+
+  RE31X63 being dumped.
+
+  RE39X11 being dumped.
+
+  RE11X39 being dumped.
+
+  RE24X53 being dumped.
+
+  RE32X63 being dumped.
+
+  RE16X43 being dumped.
+
+  RE30X39 being dumped.
+
+  RE12X57 being dumped.
+
+  RE12X39 being dumped.
+
+  RE39X12 being dumped.
+
+  RE27X24 being dumped.
+
+  RE32X28 being dumped.
+
+  RE10X59 being dumped.
+
+  RE59X10 being dumped.
+
+  RE20X59 being dumped.
+
+  RE11X59 being dumped.
+
+  RE59X11 being dumped.
+
+  RE20X69 being dumped.
+
+  RE20X87 being dumped.
+
+  RE21X68 being dumped.
+
+  RE12X68 being dumped.
+
+  RE69X20 being dumped.
+
+  TPT3050 being dumped.
+
+  RE12X59 being dumped.
+
+  RE39X51 being dumped.
+
+  RE51X39 being dumped.
+
+  RE20X79 being dumped.
+
+  RE71X55 being dumped.
+
+  RE37X53 being dumped.
+
+  RE21X69 being dumped.
+
+  RE43X47 being dumped.
+
+  RE67X24 being dumped.
+
+  RE16X57 being dumped.
+
+  RE24X59 being dumped.
+
+  R81X142D51L3P2 being dumped.
+
+  RE18X39 being dumped.
+
+  RE14X79 being dumped.
+
+  RE83X91 being dumped.
+
+  RE70X68 being dumped.
+
+  RE85X90 being dumped.
+
+  RE80X95 being dumped.
+
+  RE71X59 being dumped.
+
+  RE24X79 being dumped.
+
+  RE16X79 being dumped.
+
+  TPT2850 being dumped.
+
+  RE18X87 being dumped.
+
+  RE71X79 being dumped.
+
+  TPT3075 being dumped.
+
+  RE39X67 being dumped.
+
+  RE63X79 being dumped.
+
+  RE28X79 being dumped.
+
+  RE79X55 being dumped.
+
+  RE39X59 being dumped.
+
+  R81X142D51R3P2 being dumped.
+
+  RE47X79 being dumped.
+
+  RE94X87 being dumped.
+
+  RE83X98 being dumped.
+
+  C24D12M0 being dumped.
+
+  RE59X79 being dumped.
+
+  TC197BC98D59P2 being dumped.
+
+  C40D24P2 being dumped.
+
+  C50D34P2 being dumped.
+
+  C51D35P2 being dumped.
+
+  SOT89-C being dumped.
+
+  C36D24P2 being dumped.
+
+  O75X40D59X24P2 being dumped.
+
+  C47D31P2 being dumped.
+
+  C56D40P2 being dumped.
+
+  C36D26P2 being dumped.
+
+  C44D28P2 being dumped.
+
+  O99X60D59X20P2 being dumped.
+
+  C38D28P2 being dumped.
+
+  O91X63D67X39P2 being dumped.
+
+  C79D39P2 being dumped.
+
+  RE63X102 being dumped.
+
+  RE60X142 being dumped.
+
+  RE47X102 being dumped.
+
+  TPB3050A being dumped.
+
+  RE110X59 being dumped.
+
+  RE102X67 being dumped.
+
+  RE95X111 being dumped.
+
+  RE142X91 being dumped.
+
+  RE85X150 being dumped.
+
+  RE67X150 being dumped.
+
+  RE91X126 being dumped.
+
+  RE28X118 being dumped.
+
+  RE150X59 being dumped.
+
+  RE103X79 being dumped.
+
+  RE83X118 being dumped.
+
+  RE67X126 being dumped.
+
+  RE55X157 being dumped.
+
+  RE984X20 being dumped.
+
+  RE94X118 being dumped.
+
+  RE59X118 being dumped.
+
+  RE185X94 being dumped.
+
+  RE79X138 being dumped.
+
+  O72X120D32X80P2 being dumped.
+
+  VIAT30B24D12A27 being dumped.
+
+  TPT3050A being dumped.
+
+  RE98X189 being dumped.
+
+  C106D106N being dumped.
+
+  C131D91P2 being dumped.
+
+  C236D236N being dumped.
+
+  O121X79D81X39P2 being dumped.
+
+  O123X79D83X39P2 being dumped.
+
+  O138X64D98X24P2 being dumped.
+
+  RE130X110 being dumped.
+
+  O138X79D98X39P2 being dumped.
+
+  O79X138D39X98P2 being dumped.
+
+  RE150X181 being dumped.
+
+  RE236X118 being dumped.
+
+  RE177X181 being dumped.
+
+  RE209X189 being dumped.
+
+  TS157BC197D104P2 being dumped.
+
+  O87X150D47X110P2 being dumped.
+
+  C20 being dumped.
+
+  C217D130P2 being dumped.
+
+  C40 being dumped.
+
+  C31 being dumped.
+
+  C14 being dumped.
+
+  C24 being dumped.
+
+  C236D142P2 being dumped.
+
+  C16 being dumped.
+
+  C217D118P2 being dumped.
+
+  C18 being dumped.
+
+  C24D12MPT being dumped.
+
+  C276D118P2 being dumped.
+
+  S31 being dumped.
+
+  S43 being dumped.
+
+  S35 being dumped.
+
+  S63 being dumped.
+
+  S64 being dumped.
+
+  S59 being dumped.
+
+  S79 being dumped.
+
+  O106X126D106X126N being dumped.
+
+  E71X59-28_47-D-L4 being dumped.
+
+  E71X59-28_47-D-R4 being dumped.
+
+  S102 being dumped.
+
+  S122 being dumped.
+
+  PCI-13065-1-RVS-R being dumped.
+
+  S146 being dumped.
+
+  S138 being dumped.
+
+  S157 being dumped.
+
+  S168 being dumped.
+
+  VIA20D10A25 being dumped.
+
+  E22-51X65-57 being dumped.
+
+  E51-22X65-57 being dumped.
+
+  VIA40D24A39 being dumped.
+
+  TR4_2X5BC5D2_5P2 being dumped.
+
+  E148X40-70-N being dumped.
+
+  E148X40-70-U being dumped.
+
+  R252X132D87X39D8P2 being dumped.
+
+  R252X132D87X39U8P2 being dumped.
+
+  TE60X35-DBC20D12PT being dumped.
+
+  VIAOB45X39B being dumped.
+
+  TE60X35-UBC20D12PT being dumped.
+
+  VIAOB45X39T being dumped.
+
+  E211X175D91P2 being dumped.
+
+  TPB2050V20D10 being dumped.
+
+  TPB3050V20D10 being dumped.
+
+  E175X656D91P2 being dumped.
+
+  TPT2050V20D10 being dumped.
+
+  TPT3050V20D10 being dumped.
+
+  C236I182D142P2 being dumped.
+
+
+  *** Creating shape symbols (.dra and .ssm) ***
+
+  so-8lf being dumped.
+
+  e211x175 being dumped.
+
+  sot89-c being dumped.
+
+  e175x656 being dumped.
+
+  e60x35-d being dumped.
+
+  e60x35-u being dumped.
+
+  e71x59-28_47-d-l4 being dumped.
+
+  e71x59-28_47-d-r4 being dumped.
+
+  e51-22x65-57 being dumped.
+
+  e22-51x65-57 being dumped.
+
+  e148x40-70-n being dumped.
+
+  e148x40-70-u being dumped.
+
+  tp30-a being dumped.
+
+  pci-130651-4-r being dumped.
+
+
+  *** Creating flash symbols (.dra and .fsm) ***
+
+  tr28x42x15-45 being dumped.
+
+  tr42x56x15-45 being dumped.
+
+  tr51x65x15-45 being dumped.
+
+  tr47x61x15-45 being dumped.
+
+  tr56x70x15-45 being dumped.
+
+  tr61x75x15-45 being dumped.
+
+  tr53x67x15-45 being dumped.
+
+  tr44x58x15-45 being dumped.
+
+  tr67x81x15-45 being dumped.
+
+  tr59x73x15-45 being dumped.
+
+  tr55x69x15-45 being dumped.
+
+  tr77x91x25-45 being dumped.
+
+  tr79x93x15-45 being dumped.
+
+  tr83x97x25-45 being dumped.
+
+  tr75x89x15-45 being dumped.
+
+  tr96x110x25-45 being dumped.
+
+  tr93x107x25-45 being dumped.
+
+  tr99x113x25-45 being dumped.
+
+  tr120x134x25-45 being dumped.
+
+  tr107x121x25-45 being dumped.
+
+  tr103x117x25-45 being dumped.
+
+  tr126x140x25-45 being dumped.
+
+  tr146x160x40-45 being dumped.
+
+  tr122x136x25-45 being dumped.
+
+  tr142x156x40-45 being dumped.
+
+  tr114x128x25-45 being dumped.
+
+  tr134x148x40-45 being dumped.
+
+  tr252x266x40-45 being dumped.
+
+  tr158x172x40-45 being dumped.
+
+  tr20x34x12-45 being dumped.
+
+  tr40x54x15-45 being dumped.
+
+  tr50x64x15-45 being dumped.
+
+
+  *** Creating package symbols (.dra and .psm) ***
+
+  53398-0310-3p-l being dumped.
+
+  fsx-7b being dumped.
+
+  sc70-2_1-65-6p being dumped.
+
+  diodea being dumped.
+
+  sot-223 being dumped.
+
+  cc0402-c being dumped.
+
+  cc0603-c being dumped.
+
+  stqfp64-9x9-4 being dumped.
+
+  hdd-127067fr022gx05zx-22p-r being dumped.
+
+  sv-030017fb007t100fr-rvs-7p being dumped.
+
+  tssop64-8_1-5 being dumped.
+
+  choke-etqp4lr36wfc being dumped.
+
+  rc0402-c being dumped.
+
+  tssop8-6_4-65 being dumped.
+
+  rc0603-c being dumped.
+
+  mipciexp-as0b22x-s56x-xx-52p-nh being dumped.
+
+  sop8-6-1_27-9p being dumped.
+
+  xtl-5x3_2-3_8 being dumped.
+
+  fcbga1466-intel-calistoga being dumped.
+
+  r-pdso-g24-6_4-65-25p being dumped.
+
+  20175a-07g1-7p-d being dumped.
+
+  mdc-1-179373-2-12p-ruv being dumped.
+
+  mbga-196 being dumped.
+
+  20288-04xx-4p-r being dumped.
+
+  85205-08xx-8p-l being dumped.
+
+  ssop5-p-a-toshiba-b being dumped.
+
+  ledltst-s270tbkt-5a being dumped.
+
+  lvc-c40sfyg-40p-l-nh being dumped.
+
+  qfn40-6x6-5-50p being dumped.
+
+  20175a-07g1-7p-r being dumped.
+
+  qfn24-4x4-5-29p being dumped.
+
+  88264-08xx-8p-r being dumped.
+
+  lqfp176-26x26-5 being dumped.
+
+  qfn28-5x5-5-29p being dumped.
+
+  4p2r-0404 being dumped.
+
+  tssop16-6_4-65 being dumped.
+
+  8p4r-0402 being dumped.
+
+  l32x25-22 being dumped.
+
+  h-c236i182d142p2 being dumped.
+
+  h-c276i182d142p2 being dumped.
+
+  cdrh104r being dumped.
+
+  cdr-c1241b-250xx-50p-v being dumped.
+
+  cdrh125s being dumped.
+
+  pad-c3050 being dumped.
+
+  h-c276i158d118p2 being dumped.
+
+  sot23-2_8-95-6p being dumped.
+
+  rc3720-4p being dumped.
+
+  pad-c3075 being dumped.
+
+  88264-20xx-20p-r being dumped.
+
+  sw-tc901-aa1g-a160t-6p being dumped.
+
+  d-sod-106 being dumped.
+
+  88264-25xx-25p-l being dumped.
+
+  bga479m-socket being dumped.
+
+  osc-7_3x4_8-5_08x4_2 being dumped.
+
+  msop8-4_9-65-9p being dumped.
+
+  h-tc197bc98d59p2 being dumped.
+
+  tqfn36-6x6-5-37p being dumped.
+
+  so-8fl-5p being dumped.
+
+  lqfp48-9x9-5-58p being dumped.
+
+  sbm1040-3p being dumped.
+
+  ecap10x6s being dumped.
+
+  af7080-a2g1t-8p-l being dumped.
+
+  mda_bay-ql11253-a606-tr-50p-v being dumped.
+
+  imd being dumped.
+
+  88242-4000-40p-luv being dumped.
+
+  1394-020115fb004s517zl-rvs-4p-h being dumped.
+
+  dsm being dumped.
+
+  5in1-msx039-x0-2xx1-44p being dumped.
+
+  ssop8-4-65 being dumped.
+
+  pbga84-samsung-k4n51163qc-zc being dumped.
+
+  h-c106d106n being dumped.
+
+  h-c236d236n being dumped.
+
+  cwp023-a0g1z-2p-l being dumped.
+
+  umt being dumped.
+
+  ledltst-s326kgjskt-3p being dumped.
+
+  mbga880-ati-m56-p being dumped.
+
+  tsop40-20-5 being dumped.
+
+  8p4r being dumped.
+
+  qsop16-6-64 being dumped.
+
+  ss-fm_cmp being dumped.
+
+  mipci-02a-0795a0-a500-124p being dumped.
+
+  h-c217d130p2 being dumped.
+
+  h-c236d142p2 being dumped.
+
+  h-c217d118p2 being dumped.
+
+  fsmd100-2018 being dumped.
+
+  h-c276d118p2 being dumped.
+
+  trf-10-1-24p being dumped.
+
+  ddr-a5640d-a0g16-rvs-200p being dumped.
+
+  ddr-a5680b-a0g16-rvs-200p being dumped.
+
+  pbga257-ti-pci7412 being dumped.
+
+  10p8r being dumped.
+
+  dvi-070939fr024s535pr-24p being dumped.
+
+  ledltst-c190tgkt being dumped.
+
+  sw-nss607-212n-eeeg1t-4p being dumped.
+
+  crt-070546fr015s223cr-rvs-15p-v being dumped.
+
+  h-o106x126d106x126n being dumped.
+
+  tssop20-6_4-65-21p being dumped.
+
+  cc1210 being dumped.
+
+  qsop28-6-635 being dumped.
+
+  cc0402 being dumped.
+
+  cc0603 being dumped.
+
+  cc1206 being dumped.
+
+  dockql11303-c4444r-4f-124p being dumped.
+
+  hdd-200062fb044xx01zx-rvs-44p-r being dumped.
+
+  cc0805 being dumped.
+
+  emipad94x87 being dumped.
+
+  lan-jm74113-p2101-tr-12p-h being dumped.
+
+  mc-306 being dumped.
+
+  cc7343 being dumped.
+
+  cc1808 being dumped.
+
+  cc3528 being dumped.
+
+  sot23 being dumped.
+
+  rc0402 being dumped.
+
+  expcard-peca04-000lbxx002n0-26p being dumped.
+
+  rc0603 being dumped.
+
+  soic8-6-1_27 being dumped.
+
+  rc0805 being dumped.
+
+  lqfp48-9x9-5 being dumped.
+
+  sot89 being dumped.
+
+  4in1-r013-000-xx-40p being dumped.
+
+  qfn64-9x9-5-65p-zb1 being dumped.
+
+  msop10-4_9-5 being dumped.
+
+  pbga652-intel-ich7 being dumped.
+
+  emipad142x91 being dumped.
+
+  usb020173mr004sx07zx-4p-h being dumped.
+
+  pci-130651-1-rvs-68p being dumped.
+
+  soic16-6-1_27 being dumped.
+
+  85204-0400-4p-l being dumped.
+
+
+  *** Creating mechanical symbols (.dra and .bsm) ***
+
+  seal-s being dumped.
+
+  seal being dumped.
+
+  drill being dumped.
+
+
+  *** Creating format symbols (.dra and .osm) ***
+
+  quanta-15 being dumped.
+
+
+
+*********************** Summary *********************
+ERRORs reported:                           0
+
+Number of padstacks dumped:              203
+Number of package symbols dumped:        128
+Number of mechanical symbols dumped:       3
+Number of format symbols dumped:           1
+Number of shape symbols dumped:           14
+Number of flash symbols dumped:           32
+
+Total number of symbols dumped:          178
+*****************************************************
+

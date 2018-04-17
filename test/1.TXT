@@ -1,0 +1,3 @@
+$PACKAGES
+BM08B ! 'BM08B' ; J1
+$END

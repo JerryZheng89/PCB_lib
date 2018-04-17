@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : bm08b.dra                                     )
+(    Software Version : 16.6-2015S054                                 )
+(    Date/Time        : Mon Apr 09 16:30:37 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = D:/Cadence/lib/test
+    Name      = bm08b.psm
+    User      = MikeJ
+    Machine   = DESKTOP-FB3FC0F
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+
