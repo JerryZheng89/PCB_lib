@@ -1,0 +1,20 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Parameter File READ                                              )
+(                                                                     )
+(    Drawing          : dip2_100.dra                                  )
+(    Software Version : 16.6-2015S054                                 )
+(    Date/Time        : Thu Apr 19 10:41:25 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+	Paramfile Name : D:/Cadence/lib/allegro/text_size_hisilicon.prm
+	Layout Name   : D:/Cadence/lib/allegro/psm_draSymbols/dip2_100.dra
+
+Reading...parameter_header:
+Reading...text_size_table:
+
+
+..... Total number of errors: 0.
+..... Total number of warnings: 0.

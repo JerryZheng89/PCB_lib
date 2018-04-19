@@ -1,19 +1,392 @@
-\t (00:16:05) allegro 16.6-2015 S054 (v16-6-112EE) Windows 32
-\t (00:16:05)     Journal start - Thu Apr 12 10:53:54 2018
-\t (00:16:05)         Host=DESKTOP-FB3FC0F User=MikeJ Pid=15332 CPUs=8
-\t (00:16:05) CmdLine= allegro.exe -s D:\FPM\fpmyi.scr
-\t (00:16:05) 
-\d (00:16:05) Design opened: D:/Cadence/lib/allegro/psm_draSymbols/qfn16_50p300x300x80-17w4.dra
-\i (00:16:05) generaledit 
-\i (00:16:09) pick grid -2.585 2.271
-\t (00:16:09) last pick:  -2.600 2.300
-\i (00:16:10) save 
-\i (00:16:14) fillin yes 
-\t (00:16:14) Symbol 'qfn16_50p300x300x80-17w4.psm' created.
-\i (00:16:14) generaledit 
-\i (00:16:16) pick grid -2.834 1.626
-\t (00:16:16) last pick:  -2.800 1.600
-\i (00:16:20) pick grid 2.683 2.092
-\t (00:16:20) last pick:  2.700 2.100
-\i (00:16:41) exit 
-\t (00:16:41)     Journal end - Thu Apr 12 10:54:30 2018
+\t (00:00:00) allegro 16.6-2015 S054 (v16-6-112EE) Windows 32
+\t (00:00:00)     Journal start - Thu Apr 12 13:31:22 2018
+\t (00:00:00)         Host=DESKTOP-FB3FC0F User=MikeJ Pid=15040 CPUs=8
+\t (00:00:00) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:00:00) 
+\t (00:00:01) Opening existing design...
+\d (00:00:01) Design opened: D:/Cadence/lib/allegro/psm_draSymbols/qfn16_50p300x300x80-17w4.dra
+\i (00:00:01) trapsize 37
+\i (00:00:01) trapsize 36
+\i (00:00:01) trapsize 38
+\i (00:00:01) trapsize 39
+\i (00:00:01) trapsize 39
+\i (00:00:02) generaledit 
+\i (00:00:05) zoom in 1 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom in -0.542 0.468
+\i (00:00:05) trapsize 19
+\i (00:00:08) setwindow form.vf_vis
+\i (00:00:08) FORM vf_vis all_all_visible NO 
+\i (00:00:09) FORM vf_vis all_all_visible YES 
+\i (00:00:10) FORM vf_vis all_all_visible NO 
+\i (00:00:10) FORM vf_vis all_all_visible YES 
+\i (00:00:11) FORM vf_vis all_all_visible NO 
+\i (00:00:12) FORM vf_vis all_all_visible YES 
+\i (00:00:14) FORM vf_vis all_all_visible NO 
+\i (00:00:15) FORM vf_vis all_all_visible YES 
+\i (00:00:20) setwindow pcb
+\i (00:00:20) zoom out 1 
+\i (00:00:20) setwindow pcb
+\i (00:00:20) zoom out -0.787 0.915
+\i (00:00:20) trapsize 39
+\i (00:00:31) setwindow form.vf_vis
+\i (00:00:31) FORM vf_vis all_etch_visible NO 
+\i (00:00:32) FORM vf_vis all_etch_visible YES 
+\i (00:00:33) FORM vf_vis all_etch_visible NO 
+\i (00:00:34) FORM vf_vis all_etch_visible YES 
+\i (00:00:34) FORM vf_vis all_etch_visible NO 
+\i (00:00:36) setwindow pcb
+\i (00:00:36) pick grid 3.289 2.256
+\t (00:00:36) last pick:  3.300 2.300
+\i (00:00:48) setwindow form.mini
+\i (00:00:48) FORM mini subclass PASTEMASK_TOP 
+\i (00:00:48) FORM mini subcolor 0 
+\i (00:00:49) FORM mini subcolor 1 
+\i (00:00:50) FORM mini subcolor 0 
+\i (00:00:50) FORM mini subcolor 1 
+\i (00:00:51) FORM mini subcolor 0 
+\i (00:00:52) FORM mini subcolor 1 
+\i (00:00:52) FORM mini subcolor 0 
+\i (00:00:53) FORM mini subcolor 1 
+\i (00:00:53) setwindow pcb
+\i (00:00:53) zoom in 1 
+\i (00:00:54) setwindow pcb
+\i (00:00:54) zoom in -0.441 0.484
+\i (00:00:54) trapsize 19
+\i (00:00:54) zoom in 1 
+\i (00:00:54) setwindow pcb
+\i (00:00:54) zoom in -0.440 0.484
+\i (00:00:54) trapsize 10
+\i (00:01:18) setwindow form.mini
+\i (00:01:18) FORM mini subclass SOLDERMASK_TOP 
+\i (00:01:19) FORM mini subcolor 0 
+\i (00:01:20) FORM mini subcolor 1 
+\i (00:01:21) FORM mini subcolor 0 
+\i (00:01:21) FORM mini subcolor 1 
+\i (00:01:22) FORM mini subcolor 0 
+\i (00:01:22) FORM mini subcolor 1 
+\i (00:01:23) FORM mini subcolor 0 
+\i (00:01:23) FORM mini subcolor 1 
+\i (00:01:23) FORM mini subcolor 0 
+\i (00:01:24) FORM mini subcolor 1 
+\i (00:01:24) FORM mini subcolor 0 
+\i (00:01:29) FORM mini subclass PASTEMASK_TOP 
+\i (00:01:29) FORM mini subcolor 0 
+\i (00:01:30) FORM mini subcolor 1 
+\i (00:01:30) setwindow pcb
+\i (00:01:30) zoom out 1 
+\i (00:01:30) setwindow pcb
+\i (00:01:30) zoom out -0.157 0.630
+\i (00:01:30) trapsize 19
+\i (00:01:30) zoom out 1 
+\i (00:01:31) setwindow pcb
+\i (00:01:31) zoom out -0.156 0.629
+\i (00:01:31) trapsize 39
+\i (00:01:31) zoom in 1 
+\i (00:01:31) setwindow pcb
+\i (00:01:31) zoom in -0.153 0.585
+\i (00:01:31) trapsize 19
+\i (00:01:32) zoom out 1 
+\i (00:01:32) setwindow pcb
+\i (00:01:32) zoom out -0.114 0.582
+\i (00:01:32) trapsize 39
+\i (00:01:33) zoom in 1 
+\i (00:01:33) setwindow pcb
+\i (00:01:33) zoom in -0.130 0.468
+\i (00:01:33) trapsize 19
+\i (00:01:35) zoom out 1 
+\i (00:01:35) setwindow pcb
+\i (00:01:35) zoom out -0.577 0.313
+\i (00:01:35) trapsize 39
+\i (00:01:38) zoom in 1 
+\i (00:01:38) setwindow pcb
+\i (00:01:38) zoom in -0.503 0.569
+\i (00:01:38) trapsize 19
+\i (00:01:49) zoom out 1 
+\i (00:01:49) setwindow pcb
+\i (00:01:49) zoom out -0.444 0.601
+\i (00:01:49) trapsize 39
+\i (00:02:01) zoom in 1 
+\i (00:02:01) setwindow pcb
+\i (00:02:01) zoom in -0.534 1.479
+\i (00:02:01) trapsize 19
+\i (00:02:04) zoom out 1 
+\i (00:02:04) setwindow pcb
+\i (00:02:04) zoom out -0.398 0.426
+\i (00:02:04) trapsize 39
+\i (00:02:04) zoom out 1 
+\i (00:02:04) setwindow pcb
+\i (00:02:04) zoom out -0.262 -0.627
+\i (00:02:04) trapsize 39
+\i (00:02:05) zoom in 1 
+\i (00:02:05) setwindow pcb
+\i (00:02:05) zoom in -0.627 -0.658
+\i (00:02:05) trapsize 19
+\i (00:02:05) zoom in 1 
+\i (00:02:05) setwindow pcb
+\i (00:02:05) zoom in -0.627 -0.658
+\i (00:02:05) trapsize 10
+\i (00:02:05) zoom out 1 
+\i (00:02:05) setwindow pcb
+\i (00:02:05) zoom out -0.621 -0.621
+\i (00:02:05) trapsize 19
+\i (00:02:05) zoom out 1 
+\i (00:02:05) setwindow pcb
+\i (00:02:05) zoom out -0.621 -0.620
+\i (00:02:05) trapsize 39
+\i (00:02:06) zoom in 1 
+\i (00:02:06) setwindow pcb
+\i (00:02:06) zoom in -0.456 0.196
+\i (00:02:06) trapsize 19
+\i (00:02:15) setwindow form.mini
+\i (00:02:15) FORM mini subclass DFA_BOUND_TOP 
+\i (00:02:16) FORM mini subcolor 0 
+\i (00:02:16) FORM mini subcolor 1 
+\i (00:02:17) FORM mini subcolor 0 
+\i (00:02:17) FORM mini subcolor 1 
+\i (00:02:18) FORM mini subcolor 0 
+\i (00:02:18) FORM mini subcolor 1 
+\i (00:02:19) FORM mini subcolor 0 
+\i (00:02:23) FORM mini subclass PASTEMASK_TOP 
+\i (00:02:25) FORM mini subclass SOLDERMASK_TOP 
+\i (00:02:26) FORM mini subcolor 1 
+\i (00:02:31) setwindow form.vf_vis
+\i (00:02:31) FORM vf_vis all_etch_visible YES 
+\i (00:02:33) setwindow form.mini
+\i (00:02:33) FORM mini subcolor 0 
+\i (00:02:43) setwindow pcb
+\i (00:02:43) zcopy shape 
+\t (00:02:43) Select cline, shape, rectangle or closed polygon.
+   (00:02:43) Loading cmds.cxt 
+   (00:02:43) Loading axlcore.cxt 
+\i (00:02:51) setwindow form.mini
+\i (00:02:51) FORM mini offset 0.100 
+\i (00:03:01) FORM mini class_name PACKAGE GEOMETRY 
+\i (00:03:15) FORM mini subclass_name PASTEMASK_TOP 
+\i (00:03:22) setwindow pcb
+\i (00:03:22) pick -0.522 0.903
+\t (00:03:22) last pick:  -0.522 0.903
+\i (00:03:23) prepopup -0.394 1.000
+\i (00:03:24) pop Done 
+\i (00:03:24) generaledit 
+\i (00:03:27) setwindow form.mini
+\i (00:03:27) FORM mini subcolor 1 
+\i (00:03:28) FORM mini subcolor 0 
+\i (00:03:28) FORM mini subcolor 1 
+\i (00:03:29) FORM mini subcolor 0 
+\i (00:03:29) FORM mini subcolor 1 
+\i (00:03:30) FORM mini subcolor 0 
+\i (00:03:30) FORM mini subcolor 1 
+\i (00:03:31) FORM mini subcolor 0 
+\i (00:03:32) FORM mini subcolor 1 
+\i (00:03:39) FORM mini subcolor 0 
+\i (00:03:40) FORM mini subcolor 1 
+\i (00:03:40) FORM mini subcolor 0 
+\i (00:03:41) FORM mini subcolor 1 
+\i (00:03:42) FORM mini subcolor 0 
+\i (00:03:42) FORM mini subcolor 1 
+\i (00:03:43) FORM mini subcolor 0 
+\i (00:03:43) FORM mini subcolor 1 
+\i (00:03:44) FORM mini subcolor 0 
+\i (00:03:44) FORM mini subcolor 1 
+\i (00:03:45) FORM mini subcolor 0 
+\i (00:03:46) FORM mini subcolor 1 
+\i (00:03:48) FORM mini subcolor 0 
+\i (00:03:48) FORM mini subcolor 1 
+\i (00:03:51) FORM mini subcolor 0 
+\i (00:03:51) FORM mini subcolor 1 
+\i (00:03:52) FORM mini subcolor 0 
+\i (00:03:52) FORM mini subcolor 1 
+\i (00:03:53) FORM mini subcolor 0 
+\i (00:03:53) FORM mini subcolor 1 
+\i (00:03:54) FORM mini subcolor 0 
+\i (00:03:54) FORM mini subcolor 1 
+\i (00:03:54) FORM mini subcolor 0 
+\i (00:03:55) FORM mini subcolor 1 
+\i (00:03:55) FORM mini subcolor 0 
+\i (00:03:55) FORM mini subcolor 1 
+\i (00:03:56) FORM mini subcolor 0 
+\i (00:03:56) FORM mini subcolor 1 
+\i (00:03:56) FORM mini subcolor 0 
+\i (00:03:57) FORM mini subcolor 1 
+\i (00:03:57) FORM mini subcolor 0 
+\i (00:03:57) FORM mini subcolor 1 
+\i (00:03:57) FORM mini subcolor 0 
+\i (00:03:58) FORM mini subcolor 1 
+\i (00:03:59) FORM mini subcolor 0 
+\i (00:03:59) FORM mini subcolor 1 
+\i (00:04:00) FORM mini subcolor 0 
+\i (00:04:00) FORM mini subcolor 1 
+\i (00:04:00) FORM mini subcolor 0 
+\i (00:04:01) FORM mini subcolor 1 
+\i (00:04:19) FORM mini subclass PASTEMASK_TOP 
+\i (00:04:20) FORM mini subcolor 0 
+\i (00:04:21) FORM mini subcolor 1 
+\i (00:04:21) FORM mini subcolor 0 
+\i (00:04:22) FORM mini subcolor 1 
+\i (00:04:22) setwindow pcb
+\i (00:04:22) zoom out 1 
+\i (00:04:22) setwindow pcb
+\i (00:04:22) zoom out -0.779 0.709
+\i (00:04:22) trapsize 39
+\i (00:04:22) zoom out 1 
+\i (00:04:22) setwindow pcb
+\i (00:04:22) zoom out -1.101 1.222
+\i (00:04:22) trapsize 39
+\i (00:04:24) pick grid -2.562 2.294
+\t (00:04:24) last pick:  -2.600 2.300
+\i (00:04:25) save 
+\i (00:04:27) fillin yes 
+\t (00:04:27) Symbol 'qfn16_50p300x300x80-17w4.psm' created.
+\i (00:04:27) generaledit 
+\i (00:04:27) pick grid 2.706 1.432
+\t (00:04:27) last pick:  2.700 1.400
+\i (00:04:28) zoom in 1 
+\i (00:04:28) setwindow pcb
+\i (00:04:28) zoom in -0.293 0.235
+\i (00:04:28) trapsize 19
+\i (00:04:35) zoom in 1 
+\i (00:04:35) setwindow pcb
+\i (00:04:35) zoom in -0.790 0.523
+\i (00:04:35) trapsize 10
+\i (00:04:45) prepopup -0.947 0.489
+\i (00:04:46) pop dyn_option_select '@:@Show element' 
+\i (00:04:46) show element 
+\i (00:04:47) generaledit 
+\i (00:04:50) setwindow text
+\i (00:04:50) close 
+\i (00:04:50) setwindow pcb
+\i (00:04:50) zoom out 1 
+\i (00:04:50) setwindow pcb
+\i (00:04:50) zoom out -0.714 0.518
+\i (00:04:50) trapsize 19
+\i (00:04:50) zoom out 1 
+\i (00:04:50) setwindow pcb
+\i (00:04:50) zoom out -0.714 0.517
+\i (00:04:50) trapsize 39
+\i (00:04:52) pick grid -2.601 0.841
+\t (00:04:52) last pick:  -2.600 0.800
+\i (00:04:52) zoom in 1 
+\i (00:04:52) setwindow pcb
+\i (00:04:52) zoom in -1.249 0.849
+\i (00:04:52) trapsize 19
+\i (00:04:52) zoom in 1 
+\i (00:04:52) setwindow pcb
+\i (00:04:52) zoom in -1.248 0.850
+\i (00:04:52) trapsize 10
+\i (00:04:53) zoom out 1 
+\i (00:04:53) setwindow pcb
+\i (00:04:53) zoom out -1.248 0.850
+\i (00:04:53) trapsize 19
+\i (00:04:53) zoom out 1 
+\i (00:04:53) setwindow pcb
+\i (00:04:53) zoom out -1.248 0.851
+\i (00:04:53) trapsize 39
+\i (00:04:54) zoom out 1 
+\i (00:04:54) setwindow pcb
+\i (00:04:54) zoom out -1.249 0.849
+\i (00:04:54) trapsize 39
+\i (00:04:55) pick grid -2.484 0.616
+\t (00:04:55) last pick:  -2.500 0.600
+\i (00:24:16) zoom in 1 
+\i (00:24:16) setwindow pcb
+\i (00:24:16) zoom in 1.984 0.764
+\i (00:24:16) trapsize 19
+\i (00:24:16) zoom in 1 
+\i (00:24:16) setwindow pcb
+\i (00:24:16) zoom in 1.984 0.764
+\i (00:24:16) trapsize 10
+\i (00:24:16) zoom out 1 
+\i (00:24:16) setwindow pcb
+\i (00:24:16) zoom out 2.073 0.793
+\i (00:24:16) trapsize 19
+\i (00:24:17) zoom out 1 
+\i (00:24:17) setwindow pcb
+\i (00:24:17) zoom out 2.074 0.793
+\i (00:24:17) trapsize 39
+\i (00:24:18) zoom in 1 
+\i (00:24:18) setwindow pcb
+\i (00:24:18) zoom in -2.197 0.499
+\i (00:24:18) trapsize 19
+\i (00:24:18) zoom out 1 
+\i (00:24:18) setwindow pcb
+\i (00:24:18) zoom out -2.196 0.500
+\i (00:24:18) trapsize 39
+\i (00:24:18) zoom out 1 
+\i (00:24:18) setwindow pcb
+\i (00:24:18) zoom out -2.197 0.499
+\i (00:24:18) trapsize 39
+\i (00:24:18) zoom out 1 
+\i (00:24:18) setwindow pcb
+\i (00:24:18) zoom out -2.197 0.499
+\i (00:24:18) trapsize 39
+\i (00:24:19) zoom in 1 
+\i (00:24:19) setwindow pcb
+\i (00:24:19) zoom in -2.197 0.499
+\i (00:24:19) trapsize 19
+\i (00:24:19) zoom in 1 
+\i (00:24:19) setwindow pcb
+\i (00:24:19) zoom in -2.196 0.500
+\i (00:24:19) trapsize 10
+\i (00:24:19) zoom in 1 
+\i (00:24:19) setwindow pcb
+\i (00:24:19) zoom in -2.196 0.500
+\i (00:24:19) trapsize 5
+\i (00:24:20) zoom out 1 
+\i (00:24:20) setwindow pcb
+\i (00:24:20) zoom out -2.196 0.500
+\i (00:24:20) trapsize 10
+\i (00:24:21) zoom out 1 
+\i (00:24:21) setwindow pcb
+\i (00:24:21) zoom out -2.195 0.501
+\i (00:24:21) trapsize 19
+\i (00:24:21) zoom out 1 
+\i (00:24:21) setwindow pcb
+\i (00:24:21) zoom out -2.195 0.501
+\i (00:24:21) trapsize 39
+\i (00:24:22) zoom out 1 
+\i (00:24:22) setwindow pcb
+\i (00:24:22) zoom out -2.197 0.499
+\i (00:24:22) trapsize 39
+\i (00:24:22) zoom out 1 
+\i (00:24:22) setwindow pcb
+\i (00:24:22) zoom out -2.197 0.499
+\i (00:24:22) trapsize 39
+\i (00:24:22) zoom in 1 
+\i (00:24:22) setwindow pcb
+\i (00:24:22) zoom in -2.197 0.499
+\i (00:24:23) trapsize 19
+\i (00:24:23) zoom in 1 
+\i (00:24:23) setwindow pcb
+\i (00:24:23) zoom in -2.196 0.500
+\i (00:24:23) trapsize 10
+\i (00:24:29) zoom out 1 
+\i (00:24:29) setwindow pcb
+\i (00:24:29) zoom out -1.913 0.593
+\i (00:24:29) trapsize 19
+\i (00:24:29) zoom out 1 
+\i (00:24:29) setwindow pcb
+\i (00:24:29) zoom out -1.904 0.566
+\i (00:24:29) trapsize 39
+\i (00:24:30) zoom out 1 
+\i (00:24:30) setwindow pcb
+\i (00:24:30) zoom out -1.047 0.771
+\i (00:24:30) trapsize 39
+\i (00:24:30) zoom out 1 
+\i (00:24:30) setwindow pcb
+\i (00:24:30) zoom out -1.055 0.764
+\i (00:24:30) trapsize 39
+\i (00:24:30) zoom out 1 
+\i (00:24:30) setwindow pcb
+\i (00:24:30) zoom out -1.055 0.764
+\i (00:24:30) trapsize 39
+\i (00:24:30) zoom out 1 
+\i (00:24:30) setwindow pcb
+\i (00:24:30) zoom out -1.156 0.872
+\i (00:24:30) trapsize 39
+\i (00:24:31) pick grid 2.263 1.875
+\t (00:24:31) last pick:  2.300 1.900
+\i (01:59:54) pick grid 2.566 2.015
+\t (01:59:54) last pick:  2.600 2.000
+\i (01:59:56) exit 
+\t (01:59:56)     Journal end - Thu Apr 12 15:31:18 2018
