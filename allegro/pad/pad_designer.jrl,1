@@ -1,35 +1,45 @@
 \t (00:00:00) pad_designer 16.6-2015 S051 (v16-6-112DY) Windows 32
-\t (00:00:00)     Journal start - Mon Apr 09 15:24:56 2018
-\t (00:00:00)         Host=DESKTOP-FB3FC0F User=MikeJ Pid=6088 CPUs=8
+\t (00:00:00)     Journal start - Mon Apr 09 16:23:42 2018
+\t (00:00:00)         Host=DESKTOP-FB3FC0F User=MikeJ Pid=4532 CPUs=8
 \t (00:00:00) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\pad_designer.exe
 \t (00:00:00) 
-\i (00:00:03) setwindow form.padedit
-\i (00:00:03) pse_open 
-\i (00:01:13) fillin "menu_cancel"
-\i (00:01:15) pse_new 
-\i (00:02:19) fillin "smd20_18.pad"
-\i (00:02:24) FORM padedit plating Non-Plated 
-\i (00:02:26) FORM padedit layers  
-\i (00:02:28) FORM padedit single YES 
-\i (00:02:31) FORM padedit geometry Rectangle 
-\i (00:02:34) FORM padedit grid row soldermask_top 
-\i (00:02:36) FORM padedit geometry Rectangle 
-\i (00:02:37) FORM padedit grid row pastemask_top 
-\i (00:02:40) FORM padedit geometry Rectangle 
-\i (00:02:41) FORM padedit grid row begin_layer 
-\i (00:02:51) FORM padedit width 20 
-\i (00:02:52) FORM padedit height 18 
-\i (00:02:54) FORM padedit grid row pastemask_top 
-\i (00:02:57) FORM padedit width 20 
-\i (00:02:59) FORM padedit height 18 
-\i (00:03:00) FORM padedit grid row soldermask_top 
-\i (00:03:14) FORM padedit width 28 
-\i (00:03:18) FORM padedit height 26 
-\i (00:03:27) FORM padedit parameters  
-\i (00:03:28) FORM padedit layers  
-\i (00:03:29) FORM padedit parameters  
-\i (00:03:30) FORM padedit layers  
-\i (00:03:30) FORM padedit parameters  
-\i (00:03:32) pse_save 
-\i (00:03:36) pse_exit
-\t (00:03:36)     Journal end - Mon Apr 09 15:28:33 2018
+\i (00:00:02) setwindow form.padedit
+\i (00:00:02) pse_new 
+\i (00:00:23) fillin "smd24_60.pad"
+\i (00:00:27) FORM padedit plating Non-Plated 
+\i (00:00:27) FORM padedit layers  
+\i (00:00:28) FORM padedit single YES 
+\i (00:00:31) FORM padedit geometry Rectangle 
+\i (00:00:33) FORM padedit grid row soldermask_top 
+\i (00:00:35) FORM padedit geometry Rectangle 
+\i (00:00:37) FORM padedit grid row pastemask_top 
+\i (00:00:39) FORM padedit geometry Rectangle 
+\i (00:00:43) FORM padedit grid row begin_layer 
+\i (00:01:22) FORM padedit width 24 
+\i (00:01:23) FORM padedit height 60 
+\i (00:01:24) FORM padedit parameters  
+\i (00:01:26) FORM padedit layers  
+\i (00:01:27) FORM padedit parameters  
+\i (00:01:27) FORM padedit layers  
+\i (00:01:28) FORM padedit parameters  
+\i (00:01:29) FORM padedit layers  
+\i (00:01:29) FORM padedit parameters  
+\i (00:01:30) FORM padedit layers  
+\i (00:01:31) FORM padedit parameters  
+\i (00:01:31) FORM padedit layers  
+\i (00:01:35) FORM padedit grid row begin_layer 
+\i (00:01:36) FORM padedit grid row pastemask_top 
+\i (00:01:38) FORM padedit grid row begin_layer 
+\i (00:01:40) FORM padedit grid row pastemask_top 
+\i (00:01:41) FORM padedit grid row begin_layer 
+\i (00:01:44) FORM padedit grid rpopup begin_layer Copy 
+\i (00:01:45) FORM padedit grid row pastemask_top 
+\i (00:01:46) FORM padedit grid rpopup pastemask_top Paste 
+\i (00:01:48) FORM padedit grid row soldermask_top 
+\i (00:01:50) FORM padedit grid rpopup soldermask_top Paste 
+\i (00:01:55) FORM padedit width 32 
+\i (00:01:56) FORM padedit height 68 
+\i (00:02:00) FORM padedit parameters  
+\i (00:02:01) pse_save 
+\i (00:34:38) pse_exit
+\t (00:34:38)     Journal end - Mon Apr 09 16:58:20 2018

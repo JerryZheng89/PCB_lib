@@ -1,21 +1,23 @@
 (---------------------------------------------------------------------)
 (                                                                     )
-(    Parameter File READ                                              )
+(    CREATE SYMBOL                                                    )
 (                                                                     )
 (    Drawing          : sot23.dra                                     )
 (    Software Version : 16.6-2015S054                                 )
-(    Date/Time        : Wed Apr 25 16:18:52 2018                      )
+(    Date/Time        : Wed Apr 25 16:19:00 2018                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
-	Paramfile Name : D:/Cadence/lib/allegro/color_hisilicon.prm
-	Layout Name   : D:/Cadence/lib/allegro/psm_draSymbols/sot23.dra
+Create Symbol of type: PACKAGE
+    Directory = D:/Cadence/lib/allegro/psm_draSymbols
+    Name      = sot23.psm
+    User      = MikeJ
+    Machine   = DESKTOP-FB3FC0F
 
-Reading...parameter_header:
-Reading...color_table_table:
-Reading...ColorParmType:
 
+Create symbol started.
+ 
 
-..... Total number of errors: 0.
-..... Total number of warnings: 0.
+Create symbol completed.
+

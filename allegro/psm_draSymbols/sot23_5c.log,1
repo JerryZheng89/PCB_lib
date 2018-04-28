@@ -1,20 +1,23 @@
 (---------------------------------------------------------------------)
 (                                                                     )
-(    Parameter File READ                                              )
+(    CREATE SYMBOL                                                    )
 (                                                                     )
 (    Drawing          : sot23_5c.dra                                  )
 (    Software Version : 16.6-2015S054                                 )
-(    Date/Time        : Wed Apr 25 11:15:00 2018                      )
+(    Date/Time        : Wed Apr 25 11:19:32 2018                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
-	Paramfile Name : D:/Cadence/lib/allegro/text_size_hisilicon.prm
-	Layout Name   : D:/Cadence/lib/allegro/psm_draSymbols/sot23_5c.dra
+Create Symbol of type: PACKAGE
+    Directory = D:/Cadence/lib/allegro/psm_draSymbols
+    Name      = sot23_5c.psm
+    User      = MikeJ
+    Machine   = DESKTOP-FB3FC0F
 
-Reading...parameter_header:
-Reading...text_size_table:
 
+Create symbol started.
+ 
 
-..... Total number of errors: 0.
-..... Total number of warnings: 0.
+Create symbol completed.
+
