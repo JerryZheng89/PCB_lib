@@ -1,9 +1,0 @@
-# test dir
-/test
-# ºöÂÔgitignore
-.gitignore
-.gitignore.swp
-# ºöÂÔdesktop.in
-desktop.ini
-*.OBK
-allegro/pasm_draSymbols/*.log,*".txt,1"

@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : usb_a_th_samtec.dra                           )
+(    Software Version : 16.6-2015S054                                 )
+(    Date/Time        : Wed Dec 12 15:43:43 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = D:/Cadence/lib/allegro/psm_draSymbols
+    Name      = usb_a_th_samtec.psm
+    User      = MikeJ
+    Machine   = DESKTOP-FB3FC0F
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

@@ -1,1 +1,1 @@
-sot23.dra
+cn3_20a.dra

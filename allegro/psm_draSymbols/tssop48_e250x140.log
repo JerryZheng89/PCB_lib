@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : tssop48_e250x140.dra                          )
+(    Software Version : 16.6-2015S054                                 )
+(    Date/Time        : Wed Dec 12 17:47:16 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = D:/Cadence/lib/allegro/psm_draSymbols
+    Name      = tssop48_e250x140.psm
+    User      = MikeJ
+    Machine   = DESKTOP-FB3FC0F
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+
