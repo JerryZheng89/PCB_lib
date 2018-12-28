@@ -2,18 +2,19 @@
 (                                                                     )
 (    Parameter File READ                                              )
 (                                                                     )
-(    Drawing          : IR12-21C-TR8.dra                              )
+(    Drawing          : sot23.dra                                     )
 (    Software Version : 16.6-2015S054                                 )
-(    Date/Time        : Wed Apr 25 15:43:20 2018                      )
+(    Date/Time        : Wed Apr 25 16:18:52 2018                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
-	Paramfile Name : D:/Cadence/lib/allegro/text_size_hisilicon.prm
-	Layout Name   : IR12-21C-TR8.dra
+	Paramfile Name : D:/Cadence/lib/allegro/color_hisilicon.prm
+	Layout Name   : D:/Cadence/lib/allegro/psm_draSymbols/sot23.dra
 
 Reading...parameter_header:
-Reading...text_size_table:
+Reading...color_table_table:
+Reading...ColorParmType:
 
 
 ..... Total number of errors: 0.

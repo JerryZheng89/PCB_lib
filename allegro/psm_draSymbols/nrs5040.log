@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : nrs5040.dra                                   )
+(    Software Version : 16.6-2015S054                                 )
+(    Date/Time        : Mon Dec 17 14:16:07 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = D:/Cadence/lib/allegro/psm_draSymbols
+    Name      = nrs5040.psm
+    User      = MikeJ
+    Machine   = DESKTOP-FB3FC0F
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+
