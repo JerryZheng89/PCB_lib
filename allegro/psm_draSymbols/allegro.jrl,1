@@ -1,0 +1,147 @@
+\t (00:00:51) allegro 17.2 S052 Windows SPB 64-bit Edition
+\t (00:00:51)     Journal start - Mon May 27 16:01:59 2019
+\t (00:00:51)         Host=JERRYE580 User=GYY Pid=9384 CPUs=8
+\t (00:00:51) CmdLine= D:\Cadence\Cadence_SPB_17.2-2016\tools\bin\allegro.exe
+\t (00:00:51) 
+\d (00:00:51) Design opened: D:/Cadence/lib/allegro/psm_draSymbols/sm_22_etc1_1_13.dra
+\i (00:00:51) trapsize 449
+\i (00:00:51) generaledit 
+\i (00:00:53) pick grid 0.0019 -1.0674
+\t (00:00:53) last pick:  0.0000 -1.0650
+\i (00:00:54) pick grid -1.6146 -1.6062
+\t (00:00:54) last pick:  -1.6150 -1.6050
+\i (00:00:55) zoom out 1 
+\i (00:00:55) setwindow pcb
+\i (00:00:55) zoom out -0.0160 -1.6062
+\t (00:00:55) Grids are drawn 0.0800, 0.0800 apart for enhanced viewing.
+\i (00:00:55) trapsize 898
+\i (00:00:55) zoom out 1 
+\i (00:00:55) setwindow pcb
+\i (00:00:55) zoom out 0.0198 -1.6601
+\t (00:00:55) Grids are drawn 0.1600, 0.1600 apart for enhanced viewing.
+\i (00:00:55) trapsize 1796
+\i (00:00:56) zoom in 1 
+\i (00:00:56) setwindow pcb
+\i (00:00:56) zoom in -1.6686 -2.8814
+\t (00:00:56) Grids are drawn 0.0800, 0.0800 apart for enhanced viewing.
+\i (00:00:56) trapsize 898
+\i (00:00:56) zoom out 1 
+\i (00:00:56) setwindow pcb
+\i (00:00:56) zoom out -1.5249 -2.8993
+\t (00:00:56) Grids are drawn 0.1600, 0.1600 apart for enhanced viewing.
+\i (00:00:56) trapsize 1796
+\i (00:00:57) zoom in 1 
+\i (00:00:57) setwindow pcb
+\i (00:00:57) zoom in -0.2317 -1.6780
+\t (00:00:57) Grids are drawn 0.0800, 0.0800 apart for enhanced viewing.
+\i (00:00:57) trapsize 898
+\i (00:00:57) zoom in 1 
+\i (00:00:57) setwindow pcb
+\i (00:00:57) zoom in -0.2317 -1.6780
+\t (00:00:57) Grids are drawn 0.0400, 0.0400 apart for enhanced viewing.
+\i (00:00:57) trapsize 449
+\i (00:00:57) zoom in 1 
+\i (00:00:57) setwindow pcb
+\i (00:00:57) zoom in -0.2316 -1.6779
+\t (00:00:57) Grids are drawn 0.0200, 0.0200 apart for enhanced viewing.
+\i (00:00:57) trapsize 225
+\i (00:00:57) zoom out 1 
+\i (00:00:57) setwindow pcb
+\i (00:00:57) zoom out -0.2675 -1.7273
+\t (00:00:57) Grids are drawn 0.0400, 0.0400 apart for enhanced viewing.
+\i (00:00:57) trapsize 449
+\i (00:01:00) QtSignal CVPLayerGrid CVPAllConductors clicked false
+\i (00:01:01) QtSignal CVPLayerGrid CVPAllConductors clicked true
+\i (00:01:01) QtSignal CVPLayerGrid CVPAllConductors clicked false
+\i (00:01:02) QtSignal CVPLayerGrid CVPAllConductors clicked true
+\i (00:01:03) QtSignal CVPLayerGrid CVPAllConductors clicked false
+\i (00:01:03) QtSignal CVPLayerGrid CVPAllConductors clicked true
+\i (00:01:04) pick grid 4.8335 -0.9279
+\t (00:01:04) last pick:  4.8350 -0.9300
+\i (00:01:06) pick grid 0.3612 -1.2333
+\t (00:01:06) last pick:  0.3600 -1.2350
+\i (00:01:07) pick grid -1.3900 -2.5804
+\t (00:01:07) last pick:  -1.3900 -2.5800
+\i (00:01:08) pick grid -0.1777 -1.6015
+\t (00:01:08) last pick:  -0.1800 -1.6000
+\i (00:01:08) pick grid -1.6235 -2.9306
+\t (00:01:08) last pick:  -1.6250 -2.9300
+\i (00:01:09) pick grid -0.9500 -2.8139
+\t (00:01:09) last pick:  -0.9500 -2.8150
+\i (00:06:00) pick grid 0.3971 -1.3500
+\t (00:06:00) last pick:  0.3950 -1.3500
+\i (00:06:01) drag_start grid 0.2714 -1.4219
+\i (00:06:01) drag_stop -0.6626 -1.6823
+\i (00:06:02) drag_start grid -0.1058 -1.3051
+\i (00:06:02) drag_stop -0.1058 -1.6284
+\i (00:06:03) pick grid -0.6267 -2.1673
+\t (00:06:03) last pick:  -0.6250 -2.1650
+\i (00:06:03) zoom out 1 
+\i (00:06:03) setwindow pcb
+\i (00:06:03) zoom out 0.2265 -2.4097
+\t (00:06:03) Grids are drawn 0.0800, 0.0800 apart for enhanced viewing.
+\i (00:06:03) trapsize 898
+\i (00:06:03) zoom out 1 
+\i (00:06:03) setwindow pcb
+\i (00:06:03) zoom out 0.2264 -2.4098
+\t (00:06:03) Grids are drawn 0.1600, 0.1600 apart for enhanced viewing.
+\i (00:06:03) trapsize 1796
+\i (00:06:03) zoom out 1 
+\i (00:06:03) setwindow pcb
+\i (00:06:03) zoom out 0.2264 -2.4097
+\t (00:06:03) Grids are drawn 0.3200, 0.3200 apart for enhanced viewing.
+\i (00:06:03) trapsize 3592
+\i (00:06:04) zoom in 1 
+\i (00:06:04) setwindow pcb
+\i (00:06:04) zoom in -0.2047 -0.9729
+\t (00:06:04) Grids are drawn 0.1600, 0.1600 apart for enhanced viewing.
+\i (00:06:04) trapsize 1796
+\i (00:06:04) zoom in 1 
+\i (00:06:04) setwindow pcb
+\i (00:06:04) zoom in -0.2047 -0.9729
+\t (00:06:04) Grids are drawn 0.0800, 0.0800 apart for enhanced viewing.
+\i (00:06:04) trapsize 898
+\i (00:06:04) zoom in 1 
+\i (00:06:05) setwindow pcb
+\i (00:06:05) zoom in 0.1007 -1.0806
+\t (00:06:05) Grids are drawn 0.0400, 0.0400 apart for enhanced viewing.
+\i (00:06:05) trapsize 449
+\i (00:06:05) zoom in 1 
+\i (00:06:05) setwindow pcb
+\i (00:06:05) zoom in 0.1007 -1.0806
+\t (00:06:05) Grids are drawn 0.0200, 0.0200 apart for enhanced viewing.
+\i (00:06:05) trapsize 225
+\i (00:06:05) zoom out 1 
+\i (00:06:05) setwindow pcb
+\i (00:06:05) zoom out 0.1008 -1.0940
+\t (00:06:05) Grids are drawn 0.0400, 0.0400 apart for enhanced viewing.
+\i (00:06:05) trapsize 449
+\i (00:06:05) zoom out 1 
+\i (00:06:05) setwindow pcb
+\i (00:06:05) zoom out 0.0828 -1.1030
+\t (00:06:05) Grids are drawn 0.0800, 0.0800 apart for enhanced viewing.
+\i (00:06:05) trapsize 898
+\i (00:06:05) zoom out 1 
+\i (00:06:05) setwindow pcb
+\i (00:06:05) zoom out 0.0828 -1.1031
+\t (00:06:05) Grids are drawn 0.1600, 0.1600 apart for enhanced viewing.
+\i (00:06:05) trapsize 1796
+\i (00:06:06) zoom in 1 
+\i (00:06:06) setwindow pcb
+\i (00:06:06) zoom in 1.1244 0.0106
+\t (00:06:06) Grids are drawn 0.0800, 0.0800 apart for enhanced viewing.
+\i (00:06:06) trapsize 898
+\i (00:06:06) zoom in 1 
+\i (00:06:06) setwindow pcb
+\i (00:06:06) zoom in 1.1244 0.0106
+\t (00:06:06) Grids are drawn 0.0400, 0.0400 apart for enhanced viewing.
+\i (00:06:06) trapsize 449
+\i (00:06:08) zoom out 1 
+\i (00:06:08) setwindow pcb
+\i (00:06:08) zoom out 0.6035 -0.6090
+\t (00:06:08) Grids are drawn 0.0800, 0.0800 apart for enhanced viewing.
+\i (00:06:08) trapsize 898
+\i (00:06:11) pick grid 2.1303 2.2468
+\t (00:06:11) last pick:  2.1300 2.2450
+\i (00:06:13) exit 
+\t (00:06:13)     Journal end - Mon May 27 16:07:21 2019

@@ -1,0 +1,48 @@
+\t (00:01:39) allegro 17.2 S052 Windows SPB 64-bit Edition
+\t (00:01:39)     Journal start - Mon May 27 16:11:10 2019
+\t (00:01:39)         Host=JERRYE580 User=GYY Pid=13960 CPUs=8
+\t (00:01:39) CmdLine= d:\cadence\cadence_spb_17.2-2016\tools\bin\allegro.exe G:\Project\Beyond\ABB_PCB\ABB_PCB.brd
+\t (00:01:39) 
+\d (00:01:39) Design opened: D:/Cadence/lib/allegro/psm_draSymbols/sm_22_etc1_1_13.dra
+\i (00:01:40) trapsize 449
+\i (00:01:40) generaledit 
+\i (00:01:41) zoom out 1 
+\i (00:01:41) setwindow pcb
+\i (00:01:41) zoom out 0.3073 -0.9865
+\t (00:01:41) Grids are drawn 0.0800, 0.0800 apart for enhanced viewing.
+\i (00:01:41) trapsize 898
+\i (00:01:41) zoom out 1 
+\i (00:01:41) setwindow pcb
+\i (00:01:41) zoom out 0.3252 -1.0584
+\t (00:01:41) Grids are drawn 0.1600, 0.1600 apart for enhanced viewing.
+\i (00:01:41) trapsize 1796
+\i (00:01:41) zoom out 1 
+\i (00:01:41) setwindow pcb
+\i (00:01:41) zoom out 0.3251 -1.0585
+\t (00:01:41) Grids are drawn 0.3200, 0.3200 apart for enhanced viewing.
+\i (00:01:41) trapsize 3592
+\i (00:01:41) zoom in 1 
+\i (00:01:41) setwindow pcb
+\i (00:01:41) zoom in -1.1119 -1.4895
+\t (00:01:41) Grids are drawn 0.1600, 0.1600 apart for enhanced viewing.
+\i (00:01:41) trapsize 1796
+\i (00:01:41) zoom in 1 
+\i (00:01:41) setwindow pcb
+\i (00:01:41) zoom in -1.1119 -1.4895
+\t (00:01:41) Grids are drawn 0.0800, 0.0800 apart for enhanced viewing.
+\i (00:01:41) trapsize 898
+\i (00:01:43) zoom in 1 
+\i (00:01:43) setwindow pcb
+\i (00:01:43) zoom in -0.0881 0.0731
+\t (00:01:43) Grids are drawn 0.0400, 0.0400 apart for enhanced viewing.
+\i (00:01:43) trapsize 449
+\i (00:01:57) opencd G:/Project/Beyond/ABB_PCB/Packages/sm_22_etc1_1_13.dra 
+\t (00:01:57) Opening existing design...
+\t (00:01:57) Grids are drawn 0.0400, 0.0400 apart for enhanced viewing.
+\i (00:01:57) trapsize 323
+\i (00:01:57) trapsize 333
+\i (00:01:57) trapsize 323
+\t (00:01:57) Grids are drawn 0.3200, 0.3200 apart for enhanced viewing.
+\t (00:01:57) Grids are drawn 0.0400, 0.0400 apart for enhanced viewing.
+\i (00:01:57) trapsize 378
+\t (00:01:57)     Journal end - Mon May 27 16:11:28 2019
