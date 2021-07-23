@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : qfn64p_9x9mm_0r50.dra                         )
+(    Software Version : 16.6-2015S108                                 )
+(    Date/Time        : Wed Jul 21 18:52:26 2021                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = D:/Cadence/lib/allegro/psm_draSymbols
+    Name      = qfn64p_9x9mm_0r50.psm
+    User      = MikeJ
+    Machine   = DESKTOP-9H2V1I1
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

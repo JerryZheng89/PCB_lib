@@ -1,0 +1,45 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Refresh Padstack                                                 )
+(                                                                     )
+(    Drawing          : soddr3_204p.dra                               )
+(    Software Version : 16.6-2015S108                                 )
+(    Date/Time        : Fri Jul 23 14:29:41 2021                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Fri Jul 23 14:29:41 2021				Page     1
+
+
+------ Pad Stack Refresh Options ------
+
+Input design  = 'D:/Cadence/lib/allegro/psm_draSymbols/soddr3_204p.dra'
+Output design = ''
+Reset symbol text and size locations   = 'NO'
+
+
+------ Library Paths ------
+PSMPATH =  D:/Cadence/lib/allegro/bsm/ 
+           D:/Cadence/lib/allegro/psm_draSymbols/ 
+           D:/Cadence/lib/allegro/fsm/ 
+           D:/Cadence/lib/allegro/osm/ 
+
+PADPATH =  D:/Cadence/lib/allegro/pad/ 
+
+
+------ Pad Stack Refresh Messages ------
+
+'SMD140REC250'  pad stack refresh starting.
+
+     'SMD140REC250'  pad stack refreshed successfully.
+     
+WARNING(SPMHNI-253): Unable to find pad stack, '11', in directory search path.
+
+WARNING(SPMHNI-253): Unable to find pad stack, '16', in directory search path.
+
+'SMD0_45REC2_55'  pad stack refresh starting.
+
+     'SMD0_45REC2_55'  pad stack refreshed successfully.
+     
+WARNING(SPMHNI-286): Completed refreshing all pad stacks successfully. Warnings detected.

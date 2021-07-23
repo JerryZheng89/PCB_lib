@@ -1,0 +1,43 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : tr90x60_70x40_10x4.dra                        )
+(    Software Version : 16.6-2015S108                                 )
+(    Date/Time        : Fri Apr 09 10:31:34 2021                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: FLASH
+    Directory = D:/Cadence/lib/allegro/psm_draSymbols
+    Name      = tr90x60_70x40_10x4.fsm
+    User      = MikeJ
+    Machine   = DESKTOP-9H2V1I1
+
+
+Create symbol started.
+ 
+ ERROR(SPMHCS-8): Flash symbol cannot have a void in a shape. 96263952 
+SHAPE        @96263952
+1)  mask              = 40
+2)  class             = 6 = ETCH
+3)  subclass          = 0 = TOP
+4)  branch_link       = 96263456
+5)  branch_ptr        = 96263456
+6)  symbol_ins_link   = 0
+7)  first_connection       = 0
+8)  first_void        = 96264208
+9)  first_outline_seg = 96265352
+10) first_patch_set   = 0
+11) shape_fill        = 1
+12) first_text        = 0
+13) first_relation    = 0
+14) extents.min       = (6054, 2509)
+15) extents.max       = (15054, 8509)
+16) prev_branch_item  = 96263456
+
+ ERROR(SPMHCS-8): Flash symbol cannot have a void in a shape. 
+
+ERROR(SPMHA1-291): Create symbol has been aborted.
+

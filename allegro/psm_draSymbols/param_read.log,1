@@ -2,18 +2,25 @@
 (                                                                     )
 (    Parameter File READ                                              )
 (                                                                     )
-(    Drawing          : sot23_5c.dra                                  )
-(    Software Version : 16.6-2015S054                                 )
-(    Date/Time        : Wed Apr 25 11:15:00 2018                      )
+(    Drawing          : fb0402.dra                                    )
+(    Software Version : 16.6-2015S108                                 )
+(    Date/Time        : Fri Jul 23 10:36:05 2021                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
-	Paramfile Name : D:/Cadence/lib/allegro/text_size_hisilicon.prm
-	Layout Name   : D:/Cadence/lib/allegro/psm_draSymbols/sot23_5c.dra
+	Paramfile Name : D:/Cadence/lib/allegro/prm/createSymbols.prm
+	Layout Name   : D:/Cadence/lib/allegro/psm_draSymbols/fb0402.dra
 
 Reading...parameter_header:
+Reading...db_common_type:
+Reading...grid_parms_type:
+Reading...UnusedPadsSuppressionSettings:
+Reading...color_table_table:
+Reading...ColorParmType:
 Reading...text_size_table:
+Reading...ministat_parm_type:
+Reading...ats_parm_type:
 
 
 ..... Total number of errors: 0.

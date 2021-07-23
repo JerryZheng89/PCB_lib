@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : ESP-32S.dra                                   )
+(    Software Version : 16.6-2015S108                                 )
+(    Date/Time        : Wed Apr 28 18:38:27 2021                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = D:/Cadence/lib/allegro/psm_draSymbols
+    Name      = esp-32s.psm
+    User      = MikeJ
+    Machine   = DESKTOP-9H2V1I1
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

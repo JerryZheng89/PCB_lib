@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : sw4_4r0x4r0x1r8.dra                           )
+(    Software Version : 16.6-2015S108                                 )
+(    Date/Time        : Tue Jul 06 17:08:40 2021                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = D:/Cadence/lib/allegro/psm_draSymbols
+    Name      = sw4_4r0x4r0x1r8.psm
+    User      = MikeJ
+    Machine   = DESKTOP-9H2V1I1
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

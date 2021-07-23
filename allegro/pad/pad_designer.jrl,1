@@ -1,0 +1,12 @@
+\t (00:00:00) pad_designer 16.6-2015 S069 (v16-6-112FN) Windows 32
+\t (00:00:00)     Journal start - Fri Jul 23 15:28:36 2021
+\t (00:00:00)         Host=DESKTOP-9H2V1I1 User=MikeJ Pid=1040 CPUs=8
+\t (00:00:00) CmdLine= D:\Cadence\Cadence_SPB_16.6\tools\pcb\bin\pad_designer.exe
+\t (00:00:00) 
+\i (00:00:05) setwindow form.padedit
+\i (00:00:05) FORM padedit layers  
+\i (00:00:08) FORM padedit geometry Shape 
+\i (00:00:09) FORM padedit shapebutton  
+\i (00:00:19) fillin "menu_cancel"
+\i (00:00:20) pse_exit
+\t (00:00:20)     Journal end - Fri Jul 23 15:28:56 2021
