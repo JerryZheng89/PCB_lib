@@ -2,13 +2,13 @@
 (                                                                     )
 (    Parameter File WRITE                                             )
 (                                                                     )
-(    Drawing          : fb0402.dra                                    )
+(    Drawing          : MB102.dra                                     )
 (    Software Version : 16.6-2015S108                                 )
-(    Date/Time        : Fri Jul 23 10:35:42 2021                      )
+(    Date/Time        : Wed Jul 28 16:47:06 2021                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
-	Layout Name   : D:/Cadence/lib/allegro/psm_draSymbols/fb0402.dra
-	Paramfile Name : D:/Cadence/lib/allegro/prm/createSymbols.prm
+	Layout Name   : MB102.dra
+	Paramfile Name : D:/Cadence/lib/allegro/prm/createSymbols_MM.prm
 

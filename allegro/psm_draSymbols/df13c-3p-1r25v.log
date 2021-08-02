@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : DF13C-3P-1R25V.dra                            )
+(    Software Version : 16.6-2015S108                                 )
+(    Date/Time        : Mon Jul 26 11:00:33 2021                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = D:/Cadence/lib/allegro/psm_draSymbols
+    Name      = df13c-3p-1r25v.psm
+    User      = MikeJ
+    Machine   = DESKTOP-9H2V1I1
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

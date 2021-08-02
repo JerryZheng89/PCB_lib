@@ -1,12 +1,94 @@
 \t (00:00:00) pad_designer 16.6-2015 S069 (v16-6-112FN) Windows 32
-\t (00:00:00)     Journal start - Fri Jul 23 15:28:36 2021
-\t (00:00:00)         Host=DESKTOP-9H2V1I1 User=MikeJ Pid=1040 CPUs=8
+\t (00:00:00)     Journal start - Tue Jul 27 15:43:52 2021
+\t (00:00:00)         Host=DESKTOP-9H2V1I1 User=MikeJ Pid=20180 CPUs=8
 \t (00:00:00) CmdLine= D:\Cadence\Cadence_SPB_16.6\tools\pcb\bin\pad_designer.exe
 \t (00:00:00) 
-\i (00:00:05) setwindow form.padedit
-\i (00:00:05) FORM padedit layers  
-\i (00:00:08) FORM padedit geometry Shape 
-\i (00:00:09) FORM padedit shapebutton  
-\i (00:00:19) fillin "menu_cancel"
-\i (00:00:20) pse_exit
-\t (00:00:20)     Journal end - Fri Jul 23 15:28:56 2021
+\i (00:00:02) setwindow form.padedit
+\i (00:00:02) pse_open 
+\i (00:00:21) fillin "pad50_60b40d.pad"
+\i (00:00:23) FORM padedit layers  
+\i (00:00:51) FORM padedit geometry_th Null 
+\i (00:00:52) FORM padedit geometry_ant Null 
+\i (00:00:54) FORM padedit grid row gnd2 
+\i (00:00:56) FORM padedit geometry_th Null 
+\i (00:00:57) FORM padedit geometry_ant Null 
+\i (00:00:58) FORM padedit grid row power3 
+\i (00:01:00) FORM padedit geometry_th Null 
+\i (00:01:05) FORM padedit geometry_ant Null 
+\i (00:01:07) FORM padedit grid row end_layer 
+\i (00:01:07) FORM padedit grid row default_internal 
+\i (00:01:09) FORM padedit geometry_th Null 
+\i (00:01:11) FORM padedit geometry_ant Null 
+\i (00:01:12) FORM padedit grid row gnd2 
+\i (00:01:14) FORM padedit grid row power3 
+\i (00:01:15) FORM padedit grid row gnd2 
+\i (00:01:18) FORM padedit grid rpopup gnd2 Delete 
+\i (00:01:21) FORM padedit grid rpopup power3 Delete 
+\i (00:01:25) FORM padedit grid row end_layer 
+\i (00:01:27) FORM padedit geometry_th Null 
+\i (00:01:29) FORM padedit geometry_ant Null 
+\i (00:01:36) pse_save 
+\i (00:01:38) fillin yes 
+\i (00:02:12) FORM padedit parameters  
+\i (00:02:13) pse_open 
+\i (00:02:20) fillin "pad50_60rb40d.pad"
+\i (00:02:23) FORM padedit layers  
+\i (00:02:27) FORM padedit grid row begin_layer 
+\i (00:02:29) FORM padedit geometry_th Null 
+\i (00:02:30) FORM padedit grid row gnd2 
+\i (00:02:31) FORM padedit geometry_th Circle 
+\i (00:02:33) FORM padedit geometry_th Null 
+\i (00:02:34) FORM padedit grid row power3 
+\i (00:02:35) FORM padedit geometry_th Null 
+\i (00:02:36) FORM padedit grid row default_internal 
+\i (00:02:38) FORM padedit geometry_th Null 
+\i (00:02:39) FORM padedit grid row end_layer 
+\i (00:02:41) FORM padedit geometry_th Null 
+\i (00:02:42) FORM padedit grid row begin_layer 
+\i (00:02:44) FORM padedit grid row gnd2 
+\i (00:02:45) FORM padedit grid row end_layer 
+\i (00:02:46) FORM padedit grid row begin_layer 
+\i (00:02:47) FORM padedit geometry_ant Null 
+\i (00:02:48) FORM padedit grid row gnd2 
+\i (00:02:49) FORM padedit geometry_ant Null 
+\i (00:02:50) FORM padedit grid row power3 
+\i (00:02:51) FORM padedit geometry_ant Null 
+\i (00:02:52) FORM padedit grid row default_internal 
+\i (00:02:54) FORM padedit geometry_ant Null 
+\i (00:02:55) FORM padedit grid row end_layer 
+\i (00:02:56) FORM padedit geometry_ant Null 
+\i (00:03:09) pse_save 
+\i (00:03:11) setwindow text
+\i (00:03:11) close 
+\i (00:03:12) fillin no 
+\i (00:03:16) setwindow form.padedit
+\i (00:03:16) FORM padedit grid row begin_layer 
+\i (00:03:17) FORM padedit grid row power3 
+\i (00:03:17) FORM padedit grid row default_internal 
+\i (00:03:17) FORM padedit grid row end_layer 
+\i (00:03:18) FORM padedit grid row soldermask_top 
+\i (00:03:25) pse_save 
+\i (00:03:31) setwindow text
+\i (00:03:31) close 
+\i (00:03:32) fillin yes 
+\i (00:03:33) fillin yes 
+\i (00:03:43) setwindow form.padedit
+\i (00:03:43) FORM padedit grid row gnd2 
+\i (00:03:44) FORM padedit grid row power3 
+\i (00:03:45) FORM padedit grid row gnd2 
+\i (00:03:45) FORM padedit grid row power3 
+\i (00:03:46) FORM padedit grid row gnd2 
+\i (00:03:46) FORM padedit grid row power3 
+\i (00:03:47) FORM padedit grid row gnd2 
+\i (00:03:48) FORM padedit grid row power3 
+\i (00:03:48) FORM padedit grid row gnd2 
+\i (00:03:48) FORM padedit grid row power3 
+\i (00:03:49) FORM padedit grid row gnd2 
+\i (00:03:49) FORM padedit grid row power3 
+\i (00:03:50) FORM padedit grid row gnd2 
+\i (00:03:50) FORM padedit grid row power3 
+\i (00:03:50) FORM padedit grid row gnd2 
+\i (00:03:51) FORM padedit grid row power3 
+\i (00:03:51) FORM padedit grid row gnd2 
+\i (18:43:52) pse_exit
+\t (18:43:52)     Journal end - Wed Jul 28 10:27:45 2021

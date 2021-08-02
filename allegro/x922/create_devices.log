@@ -1,0 +1,115 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Create_devices LOG file                                          )
+(                                                                     )
+(    Drawing          : QIHUA-XS922.brd                               )
+(    Software Version : 16.6-2015S108                                 )
+(    Date/Time        : Wed Jul 28 10:05:03 2021                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+Device file 'D:/Cadence/lib/allegro/x922/r10805_r0603_51r.txt': written successfully.
+Device file 'D:/Cadence/lib/allegro/x922/capacitor_1_c0603_82nf.txt': written successfully.
+Device file 'D:/Cadence/lib/allegro/x922/capacitor_1_c0603_27pf.txt': written successfully.
+Device file 'D:/Cadence/lib/allegro/x922/filtreferritescms-742792093_5.txt': written successfully.
+Device file 'D:/Cadence/lib/allegro/x922/r_r0603_124k.txt': written successfully.
+Device file 'D:/Cadence/lib/allegro/x922/r_r0603_221k.txt': written successfully.
+Device file 'D:/Cadence/lib/allegro/x922/resistor_r0603_2k.txt': written successfully.
+Device file 'D:/Cadence/lib/allegro/x922/resistor_r0603_100k.txt': written successfully.
+Device file 'D:/Cadence/lib/allegro/x922/resistor_r0603_47k.txt': written successfully.
+Device file 'D:/Cadence/lib/allegro/x922/r_r0603_33k.txt': written successfully.
+Device file 'D:/Cadence/lib/allegro/x922/res_r0603__0r.txt': written successfully.
+Device file 'D:/Cadence/lib/allegro/x922/resistor_r0603_665k1.txt': written successfully.
+Device file 'D:/Cadence/lib/allegro/x922/resistor_r0603_1k.txt': written successfully.
+Device file 'D:/Cadence/lib/allegro/x922/r_r0603_68k.txt': written successfully.
+Device file 'D:/Cadence/lib/allegro/x922/tps54528dda_sop8_1ja_tps54528dd.txt': written successfully.
+Device file 'D:/Cadence/lib/allegro/x922/ap6493_1_qfp11x11_ap6212ap6255.txt': written successfully.
+Device file 'D:/Cadence/lib/allegro/x922/con3_con3_2_54_con3.txt': written successfully.
+Device file 'D:/Cadence/lib/allegro/x922/r_r0603_75r.txt': written successfully.
+Device file 'D:/Cadence/lib/allegro/x922/resistor_3_r0603_51r1.txt': written successfully.
+Device file 'D:/Cadence/lib/allegro/x922/r10805_r0603_56r1.txt': written successfully.
+Device file 'D:/Cadence/lib/allegro/x922/r10805_r0603_510r.txt': written successfully.
+Device file 'D:/Cadence/lib/allegro/x922/r_r0603_15k.txt': written successfully.
+Device file 'D:/Cadence/lib/allegro/x922/r_r0603_15knc.txt': written successfully.
+Device file 'D:/Cadence/lib/allegro/x922/h1601cg_ts8121c_h1601cg.txt': written successfully.
+Device file 'D:/Cadence/lib/allegro/x922/usb_mini_socket_usb_mini_ab_usb.txt': written successfully.
+Device file 'D:/Cadence/lib/allegro/x922/rj45-8p8c-sp32_rj45-8p8c-sp32_r.txt': written successfully.
+Device file 'D:/Cadence/lib/allegro/x922/tvsarrays_0_dfn2510p10e_az1345.txt': written successfully.
+Device file 'D:/Cadence/lib/allegro/x922/dc006_dc_006_dc006.txt': written successfully.
+Device file 'D:/Cadence/lib/allegro/x922/capnp_6_c1206_1nf_2kv.txt': written successfully.
+Device file 'D:/Cadence/lib/allegro/x922/con_0_pj-320a-5_0_sw-t15.txt': written successfully.
+Device file 'D:/Cadence/lib/allegro/x922/con2_con2_2_00_con2.txt': written successfully.
+Device file 'D:/Cadence/lib/allegro/x922/usb-2a-03_6_usb-3_0-af_usb-3_0-.txt': written successfully.
+Device file 'D:/Cadence/lib/allegro/x922/con20a_con2_00_10x2_con20a.txt': written successfully.
+Device file 'D:/Cadence/lib/allegro/x922/capacitor_c0603_1uf.txt': written successfully.
+Device file 'D:/Cadence/lib/allegro/x922/con30_dsi_con-fpc-p05-30p_con30.txt': written successfully.
+Device file 'D:/Cadence/lib/allegro/x922/spdif_spdif_spdif.txt': written successfully.
+Device file 'D:/Cadence/lib/allegro/x922/led_led0805_led.txt': written successfully.
+Device file 'D:/Cadence/lib/allegro/x922/con3_con3_2_00_con3.txt': written successfully.
+Device file 'D:/Cadence/lib/allegro/x922/sp3485en_sop8_sp3485en.txt': written successfully.
+Device file 'D:/Cadence/lib/allegro/x922/diode_tvs_bidir_d0603__esd5451x.txt': written successfully.
+Device file 'D:/Cadence/lib/allegro/x922/dio2103ct14_tssop-14-pt065_dio2.txt': written successfully.
+Device file 'D:/Cadence/lib/allegro/x922/capacitor_0_c0603_104.txt': written successfully.
+Device file 'D:/Cadence/lib/allegro/x922/capacitor_1_c0603_100pf.txt': written successfully.
+Device file 'D:/Cadence/lib/allegro/x922/capnp_c0603__1uf.txt': written successfully.
+Device file 'D:/Cadence/lib/allegro/x922/capacitor_c0603_47nf.txt': written successfully.
+Device file 'D:/Cadence/lib/allegro/x922/cap-t-33uf-c-16v_c35x28_330uf1.txt': written successfully.
+Device file 'D:/Cadence/lib/allegro/x922/capacitor_1_c0603_100nf.txt': written successfully.
+Device file 'D:/Cadence/lib/allegro/x922/led_led0805__led.txt': written successfully.
+Device file 'D:/Cadence/lib/allegro/x922/resistor_l0603_18uh.txt': written successfully.
+Device file 'D:/Cadence/lib/allegro/x922/mosfetn_sot_323_wnm2021-3tr.txt': written successfully.
+Device file 'D:/Cadence/lib/allegro/x922/r_r0603_47k1.txt': written successfully.
+Device file 'D:/Cadence/lib/allegro/x922/r_r0603_100k.txt': written successfully.
+Device file 'D:/Cadence/lib/allegro/x922/r_r0603_47k.txt': written successfully.
+Device file 'D:/Cadence/lib/allegro/x922/resistor_r0603_510r.txt': written successfully.
+Device file 'D:/Cadence/lib/allegro/x922/resistor_r0603_16k.txt': written successfully.
+Device file 'D:/Cadence/lib/allegro/x922/r10805_r0603_1k.txt': written successfully.
+Device file 'D:/Cadence/lib/allegro/x922/r_r0603_100r.txt': written successfully.
+Device file 'D:/Cadence/lib/allegro/x922/diode_tvs_bidir_d0603__az5725-0.txt': written successfully.
+Device file 'D:/Cadence/lib/allegro/x922/ir_hs0038b_hs0038b.txt': written successfully.
+Device file 'D:/Cadence/lib/allegro/x922/inductorsofferrite_l4018_47u.txt': written successfully.
+Device file 'D:/Cadence/lib/allegro/x922/capacitor_1_c0603_472.txt': written successfully.
+Device file 'D:/Cadence/lib/allegro/x922/capacitor_1_c0805_10uf.txt': written successfully.
+Device file 'D:/Cadence/lib/allegro/x922/capacitor_1_c0603_15pf.txt': written successfully.
+Device file 'D:/Cadence/lib/allegro/x922/capacitor_c0603_10uf.txt': written successfully.
+Device file 'D:/Cadence/lib/allegro/x922/capacitor_c0603_12pf.txt': written successfully.
+Device file 'D:/Cadence/lib/allegro/x922/capacitor_c0603_47uf.txt': written successfully.
+Device file 'D:/Cadence/lib/allegro/x922/resistor_r0603_22r.txt': written successfully.
+Device file 'D:/Cadence/lib/allegro/x922/r_r0603_5k.txt': written successfully.
+Device file 'D:/Cadence/lib/allegro/x922/r_r0603_0rnc.txt': written successfully.
+Device file 'D:/Cadence/lib/allegro/x922/pcf8563_tssop8_pcf8563.txt': written successfully.
+Device file 'D:/Cadence/lib/allegro/x922/crystal-4_0_cry-tsx3225_26m-20p.txt': written successfully.
+Device file 'D:/Cadence/lib/allegro/x922/crystal_4_x2s32x15_32768khz.txt': written successfully.
+Device file 'D:/Cadence/lib/allegro/x922/swkey-spdt_switch1_dc_12v2a.txt': written successfully.
+Device file 'D:/Cadence/lib/allegro/x922/r_r0603_680r.txt': written successfully.
+Device file 'D:/Cadence/lib/allegro/x922/diode_tvs_bidir_d0603__b72500d0.txt': written successfully.
+Device file 'D:/Cadence/lib/allegro/x922/esd_tpd4e05u06_son10_2r50x1r00x.txt': written successfully.
+Device file 'D:/Cadence/lib/allegro/x922/header1_0_rf_jak_3p_20369-001e.txt': written successfully.
+Device file 'D:/Cadence/lib/allegro/x922/ams1117_to-252_ams1086cd-33.txt': written successfully.
+Device file 'D:/Cadence/lib/allegro/x922/ddr3_soddr3_204p_ddr3.txt': written successfully.
+Device file 'D:/Cadence/lib/allegro/x922/bnc-battary_buttery1220_battary.txt': written successfully.
+Device file 'D:/Cadence/lib/allegro/x922/sdmmcslot_11_tf9p_microsdtf_s.txt': written successfully.
+Device file 'D:/Cadence/lib/allegro/x922/capacitor_1_c0603_1uf.txt': written successfully.
+Device file 'D:/Cadence/lib/allegro/x922/con4_con4_2_00_con4.txt': written successfully.
+Device file 'D:/Cadence/lib/allegro/x922/con6_con6_2_00_con6.txt': written successfully.
+Device file 'D:/Cadence/lib/allegro/x922/diodediac_smb_p6ke68ca.txt': written successfully.
+Device file 'D:/Cadence/lib/allegro/x922/npn-bec_sot-23-q_3904.txt': written successfully.
+Device file 'D:/Cadence/lib/allegro/x922/cap-t-33uf-c-16v_capae630x540_3.txt': written successfully.
+Device file 'D:/Cadence/lib/allegro/x922/r_r0603_22r.txt': written successfully.
+Device file 'D:/Cadence/lib/allegro/x922/r_r0603_47k__1.txt': written successfully.
+Device file 'D:/Cadence/lib/allegro/x922/swpushbutton_0_key-a06_swpush.txt': written successfully.
+Device file 'D:/Cadence/lib/allegro/x922/capacitor_0_c0805_10uf.txt': written successfully.
+Device file 'D:/Cadence/lib/allegro/x922/capacitor_c0603_104.txt': written successfully.
+Device file 'D:/Cadence/lib/allegro/x922/capacitor_1_c0603_104.txt': written successfully.
+Device file 'D:/Cadence/lib/allegro/x922/r_r0603_10k.txt': written successfully.
+Device file 'D:/Cadence/lib/allegro/x922/r_r0603_1k.txt': written successfully.
+Device file 'D:/Cadence/lib/allegro/x922/r_r0603_2k.txt': written successfully.
+Device file 'D:/Cadence/lib/allegro/x922/hdmi19_type_c_hdmi_hdmi_type_c.txt': written successfully.
+Device file 'D:/Cadence/lib/allegro/x922/diode_sod323_1n5819.txt': written successfully.
+Device file 'D:/Cadence/lib/allegro/x922/rt9266pe_2_sot23-5_sy6280.txt': written successfully.
+Device file 'D:/Cadence/lib/allegro/x922/r_r0603_0r.txt': written successfully.
+
+  Created device files: 100
+
