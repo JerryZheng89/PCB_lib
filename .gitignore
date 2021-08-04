@@ -1,0 +1,5 @@
+*.log*
+*.jrl*
+*.lck
+*.copy
+/psm_draSymbols/signoise.run
