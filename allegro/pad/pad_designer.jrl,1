@@ -1,143 +1,73 @@
 \t (00:00:00) pad_designer 16.6-2015 S069 (v16-6-112FN) Windows 32
-\t (00:00:00)     Journal start - Wed Jul 28 10:32:13 2021
-\t (00:00:00)         Host=DESKTOP-9H2V1I1 User=MikeJ Pid=16300 CPUs=8
+\t (00:00:00)     Journal start - Tue Aug 03 12:24:50 2021
+\t (00:00:00)         Host=DESKTOP-9H2V1I1 User=MikeJ Pid=24344 CPUs=8
 \t (00:00:00) CmdLine= D:\Cadence\Cadence_SPB_16.6\tools\pcb\bin\pad_designer.exe
 \t (00:00:00) 
-\i (00:00:02) setwindow form.padedit
-\i (00:00:02) pse_open 
-\i (00:00:09) fillin "c50d31.pad"
-\i (03:17:07) pse_open 
-\i (03:17:27) fillin "smd85_100.pad"
-\i (03:17:32) FORM padedit layers  
-\i (03:17:42) FORM padedit grid row begin_layer 
-\i (03:17:51) FORM padedit height 89 
-\i (03:17:55) FORM padedit grid row pastemask_top 
-\i (03:17:58) FORM padedit height 89 
-\i (03:18:00) FORM padedit grid row soldermask_top 
-\i (03:18:09) FORM padedit height 95 
-\i (03:18:12) pse_save_as 
-\i (03:18:18) fillin "smd85_95.pad"
-\i (03:18:21) FORM padedit parameters  
-\i (03:18:21) FORM padedit layers  
-\i (03:18:22) FORM padedit parameters  
-\i (04:38:45) pse_open 
-\i (04:39:01) fillin "rx1_75y2_40r0_10t.pad"
-\i (04:39:03) FORM padedit layers  
-\i (04:39:24) FORM padedit parameters  
-\i (04:39:26) FORM padedit layers  
-\i (04:39:38) pse_new 
-\i (04:39:49) fillin "menu_cancel"
-\i (04:39:53) FORM padedit geometry_th Square 
-\i (04:39:55) FORM padedit geometry_th Oblong 
-\i (04:40:00) FORM padedit geometry_th Null 
-\i (04:40:07) pse_open 
-\i (04:40:21) fillin "s_r1r70x1r00.pad"
-\i (04:40:24) fillin no 
-\i (04:40:29) pse_open 
-\i (04:40:36) fillin "s_r1r70x1r00.pad"
-\i (04:40:38) fillin yes 
-\i (04:40:42) FORM padedit parameters  
-\i (04:40:43) FORM padedit layers  
-\i (04:40:47) FORM padedit parameters  
-\i (04:40:47) FORM padedit layers  
-\i (04:40:50) FORM padedit grid row begin_layer 
-\i (04:41:16) FORM padedit height 224.409 
-\i (04:41:18) FORM padedit grid row pastemask_top 
-\i (04:41:20) FORM padedit height 224.409 
-\i (04:41:21) FORM padedit grid row soldermask_top 
-\i (04:41:39) FORM padedit height 230 
-\i (04:41:58) FORM padedit width 72 
-\i (04:42:01) FORM padedit parameters  
-\i (04:42:02) pse_save_as 
-\i (04:42:14) fillin "s_r1r70x5r70.pad"
-\i (05:58:40) pse_open 
-\i (05:58:54) fillin "s_r0r65x0r80.pad"
-\i (05:58:56) FORM padedit layers  
-\i (06:00:10) FORM padedit grid row begin_layer 
-\i (06:00:15) FORM padedit width 23.622 
-\i (06:00:15) FORM padedit grid row pastemask_top 
-\i (06:00:17) FORM padedit width 23.622 
-\i (06:00:24) FORM padedit height 35.433 
-\i (06:00:26) FORM padedit grid row begin_layer 
-\i (06:00:29) FORM padedit height 35.433 
-\i (06:00:31) FORM padedit grid row soldermask_top 
-\i (06:00:44) FORM padedit width 28 
-\i (06:01:17) FORM padedit height 40 
-\i (06:01:48) pse_save_as 
-\i (06:01:51) setwindow text
-\i (06:01:51) close 
-\i (06:01:52) fillin no 
-\i (06:01:53) setwindow form.padedit
-\i (06:01:53) FORM padedit grid row begin_layer 
-\i (06:01:54) FORM padedit geometry_th Null 
-\i (06:01:55) FORM padedit geometry_ant Null 
-\i (06:01:58) pse_save_as 
-\i (06:02:07) fillin "s_r0r60x0r90.pad"
-\i (06:02:35) FORM padedit parameters  
-\i (06:02:39) FORM padedit layers  
-\i (06:02:40) FORM padedit parameters  
-\i (06:02:42) FORM padedit layers  
-\i (06:03:01) FORM padedit parameters  
-\i (06:03:04) FORM padedit layers  
-\i (06:03:04) FORM padedit parameters  
-\i (06:03:09) pse_save_as 
-\i (06:03:19) fillin "s_r0r90x0r60.pad"
-\i (06:04:15) FORM padedit layers  
-\i (06:04:32) FORM padedit parameters  
-\i (06:04:33) FORM padedit layers  
-\i (06:04:45) FORM padedit parameters  
-\i (06:04:49) FORM padedit layers  
-\i (06:04:59) FORM padedit width 59.055 
-\i (06:05:11) FORM padedit grid row pastemask_top 
-\i (06:05:14) FORM padedit width 59.055 
-\i (06:05:15) FORM padedit grid row soldermask_top 
-\i (06:05:34) FORM padedit width 64 
-\i (06:05:41) pse_save_as 
-\i (06:06:23) fillin "s_r1r50x0r90.pad"
-\i (06:06:32) FORM padedit grid row begin_layer 
-\i (06:06:36) FORM padedit width 47.244 
-\i (06:06:37) FORM padedit grid row pastemask_top 
-\i (06:06:39) FORM padedit width 47.244 
-\i (06:06:40) FORM padedit grid row soldermask_top 
-\i (06:06:52) FORM padedit width 52.244 
-\i (06:06:56) pse_save_as 
-\i (06:07:25) fillin "s_r1r20x0r90.pad"
-\i (06:07:26) FORM padedit parameters  
-\i (06:07:27) FORM padedit layers  
-\i (06:07:28) FORM padedit parameters  
-\i (06:07:30) FORM padedit layers  
-\i (06:07:30) FORM padedit parameters  
-\i (06:07:31) FORM padedit layers  
-\i (06:07:31) FORM padedit parameters  
-\i (06:07:32) FORM padedit layers  
-\i (06:07:32) FORM padedit parameters  
-\i (06:07:32) FORM padedit layers  
-\i (06:07:33) FORM padedit parameters  
-\i (06:07:35) FORM padedit layers  
-\i (06:07:36) FORM padedit parameters  
-\i (06:07:36) FORM padedit layers  
-\i (06:07:48) FORM padedit parameters  
-\i (06:07:48) FORM padedit layers  
-\i (06:07:48) FORM padedit parameters  
-\i (06:07:49) FORM padedit layers  
-\i (06:07:49) FORM padedit parameters  
-\i (06:07:50) FORM padedit layers  
-\i (06:07:50) FORM padedit parameters  
-\i (06:07:50) FORM padedit layers  
-\i (06:07:50) FORM padedit parameters  
-\i (06:07:51) FORM padedit layers  
-\i (06:07:53) FORM padedit parameters  
-\i (06:07:54) FORM padedit layers  
-\i (06:07:54) FORM padedit parameters  
-\i (06:07:55) FORM padedit layers  
-\i (06:07:55) FORM padedit parameters  
-\i (06:07:59) FORM padedit layers  
-\i (06:08:00) FORM padedit parameters  
-\i (06:08:02) about 
-\i (06:08:08) about 
-\i (06:08:10) FORM padedit layers  
-\i (06:08:11) FORM padedit parameters  
-\i (06:08:11) FORM padedit layers  
-\i (06:08:12) FORM padedit parameters  
-\i (29:37:01) pse_exit
-\t (29:37:01)     Journal end - Thu Jul 29 16:09:14 2021
+\i (00:00:03) setwindow form.padedit
+\i (00:00:03) pse_open 
+\i (00:00:32) fillin "pad330obl270_90.pad"
+\i (00:00:35) FORM padedit layers  
+\i (00:00:52) FORM padedit grid row pastemask_top 
+\i (00:00:52) FORM padedit grid row pastemask_bottom 
+\i (00:00:57) FORM padedit grid row end_layer 
+\i (00:00:58) FORM padedit grid row default_internal 
+\i (00:00:59) FORM padedit grid row begin_layer 
+\i (00:00:59) FORM padedit grid row default_internal 
+\i (00:01:00) FORM padedit grid row end_layer 
+\i (00:01:00) FORM padedit grid row soldermask_top 
+\i (00:01:01) FORM padedit grid row end_layer 
+\i (00:01:01) FORM padedit grid row default_internal 
+\i (00:01:02) FORM padedit grid row begin_layer 
+\i (00:01:02) FORM padedit grid row default_internal 
+\i (00:01:03) FORM padedit grid row end_layer 
+\i (00:01:03) FORM padedit grid row default_internal 
+\i (00:01:04) FORM padedit grid row begin_layer 
+\i (00:01:04) FORM padedit grid row default_internal 
+\i (00:01:04) FORM padedit grid row end_layer 
+\i (00:01:05) FORM padedit grid row default_internal 
+\i (00:01:05) FORM padedit grid row begin_layer 
+\i (00:01:06) FORM padedit grid row default_internal 
+\i (00:01:06) FORM padedit grid row end_layer 
+\i (00:01:07) FORM padedit grid row default_internal 
+\i (00:01:07) FORM padedit grid row begin_layer 
+\i (00:01:08) FORM padedit grid row default_internal 
+\i (00:01:08) FORM padedit grid row end_layer 
+\i (00:01:08) FORM padedit grid row default_internal 
+\i (00:01:09) FORM padedit grid row begin_layer 
+\i (00:01:10) FORM padedit grid row default_internal 
+\i (00:01:10) FORM padedit grid row end_layer 
+\i (00:01:10) FORM padedit grid row default_internal 
+\i (00:01:11) FORM padedit grid row begin_layer 
+\i (00:01:11) FORM padedit grid row default_internal 
+\i (00:01:11) FORM padedit grid row end_layer 
+\i (00:01:12) FORM padedit grid row default_internal 
+\i (00:01:12) FORM padedit grid row begin_layer 
+\i (00:01:13) FORM padedit grid row default_internal 
+\i (00:01:13) FORM padedit grid row end_layer 
+\i (00:01:13) FORM padedit grid row default_internal 
+\i (00:01:14) FORM padedit grid row begin_layer 
+\i (00:01:14) FORM padedit grid row default_internal 
+\i (00:01:14) FORM padedit grid row end_layer 
+\i (00:01:15) FORM padedit grid row default_internal 
+\i (00:01:15) FORM padedit grid row begin_layer 
+\i (00:01:16) FORM padedit grid row default_internal 
+\i (00:01:16) FORM padedit grid row end_layer 
+\i (00:01:33) FORM padedit grid row pastemask_top 
+\i (00:01:39) FORM padedit grid row begin_layer 
+\i (00:01:44) FORM padedit grid rpopup begin_layer Copy 
+\i (00:01:46) FORM padedit grid row pastemask_top 
+\i (00:01:48) FORM padedit grid rpopup pastemask_top Paste 
+\i (00:02:00) pse_save 
+\i (00:02:02) fillin yes 
+\i (00:02:27) FORM padedit parameters  
+\i (00:02:28) pse_open 
+\i (00:02:39) fillin "pad230obl170_90.pad"
+\i (00:02:42) FORM padedit layers  
+\i (00:02:46) FORM padedit grid row begin_layer 
+\i (00:02:48) FORM padedit grid rpopup begin_layer Copy 
+\i (00:02:50) FORM padedit grid row pastemask_top 
+\i (00:02:52) FORM padedit grid rpopup pastemask_top Paste 
+\i (00:02:56) pse_save 
+\i (00:03:05) fillin yes 
+\i (00:03:06) pse_exit
+\t (00:03:07)     Journal end - Tue Aug 03 12:27:57 2021
