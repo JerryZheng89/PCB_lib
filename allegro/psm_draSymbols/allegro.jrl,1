@@ -1,519 +1,555 @@
-\t (00:00:00) allegro 16.6-2015 S115 (v16-6-112JF) Windows 32
-\t (00:00:00)     Journal start - Tue Aug 03 11:37:18 2021
-\t (00:00:00)         Host=DESKTOP-9H2V1I1 User=MikeJ Pid=23064 CPUs=8
-\t (00:00:00) CmdLine= D:\Cadence\Cadence_SPB_16.6\tools\pcb\bin\allegro.exe
-\t (00:00:00) 
-\t (00:00:00) Opening existing design...
-\d (00:00:00) Design opened: D:/Cadence/lib/allegro/psm_draSymbols/rj45a.dra
-\i (00:00:01) trapsize 608
-\i (00:00:01) trapsize 597
-\i (00:00:01) trapsize 609
-\i (00:00:01) trapsize 735
-\i (00:00:01) trapsize 735
-\i (00:00:02) generaledit 
-\i (00:00:03) open 
-\i (00:00:06) fillin "menu_cancel"
-\i (00:00:06) generaledit 
-\i (00:00:11) opencd D:/Cadence/lib/allegro/psm_draSymbols/sop8-6-1_27-9p.dra 
-\t (00:00:11) Opening existing design...
-\i (00:00:11) trapsize 290
-\d (00:00:11) Design opened: D:/Cadence/lib/allegro/psm_draSymbols/sop8-6-1_27-9p.dra
-\i (00:00:12) generaledit 
-\i (00:00:12) roam start
-\i (00:00:13) roam x 32
-\i (00:00:13) roam y 112
-\i (00:00:13) roam x 16
-\i (00:00:13) roam y 64
-\i (00:00:13) roam end
-\i (00:00:13) zoom in 1 
-\i (00:00:13) setwindow pcb
-\i (00:00:13) zoom in 109.21 -152.24
-\i (00:00:13) trapsize 145
-\i (00:00:13) zoom in 1 
-\i (00:00:13) setwindow pcb
-\i (00:00:13) zoom in 109.21 -152.24
-\i (00:00:13) trapsize 72
-\i (00:00:15) prepopup 88.05 -149.77
-\i (00:00:17) pop dyn_option_select '@:@Change Width...' 
-\i (00:00:17) change width 
-\i (00:00:19) setwindow form.chgwidth
-\i (00:00:19) FORM chgwidth done  
-\t (00:00:19) No DRC errors detected.
-\t (00:00:19) Changed 1 items out of 1 items found.
-\i (00:00:19) setwindow pcb
-\i (00:00:19) generaledit 
-\i (00:00:20) pick grid 144.72 -126.29
-\t (00:00:20) last pick:  100.00 -100.00
-\i (00:00:20) zoom out 1 
-\i (00:00:20) setwindow pcb
-\i (00:00:20) zoom out 132.83 -126.72
-\i (00:00:20) trapsize 145
-\i (00:00:20) zoom out 1 
-\i (00:00:20) setwindow pcb
-\i (00:00:20) zoom out 132.84 -126.73
-\i (00:00:20) trapsize 290
-\i (00:00:20) roam start
-\i (00:00:20) roam x 16
-\i (00:00:20) roam y -96
-\i (00:00:21) roam x 16
-\i (00:00:21) roam y -128
-\i (00:00:21) roam end
-\i (00:00:24) zoom in 1 
-\i (00:00:24) setwindow pcb
-\i (00:00:24) zoom in 208.40 117.39
-\i (00:00:24) trapsize 145
-\i (00:00:25) roam start
-\i (00:00:25) roam x -144
-\i (00:00:25) roam y 16
-\i (00:00:25) roam x -192
-\i (00:00:25) roam y 16
-\i (00:00:25) roam x -144
-\i (00:00:25) roam x -112
-\i (00:00:25) roam y 16
-\i (00:00:25) roam end
-\i (00:00:29) setwindow form.find
-\i (00:00:29) FORM find all_off  
-\i (00:00:30) FORM find other_segs YES 
-\i (00:00:31) FORM find cline_segs YES 
-\i (00:00:32) FORM find clines YES 
-\i (00:00:32) FORM find lines YES 
-\i (00:00:40) setwindow pcb
-\i (00:00:40) zoom out 1 
-\i (00:00:40) setwindow pcb
-\i (00:00:40) zoom out -82.04 24.05
-\i (00:00:40) trapsize 290
-\i (00:00:41) zoom in 1 
-\i (00:00:41) setwindow pcb
-\i (00:00:41) zoom in -82.04 24.05
-\i (00:00:41) trapsize 145
-\i (00:00:41) zoom in 1 
-\i (00:00:41) setwindow pcb
-\i (00:00:41) zoom in -82.04 24.05
-\i (00:00:41) trapsize 72
-\i (00:00:49) prepopup -85.95 33.91
-\i (00:00:51) pop dyn_option_select '@:@Show element' 
-\i (00:00:51) show element 
-\i (00:00:51) generaledit 
-\i (00:00:52) setwindow text
-\i (00:00:52) close 
-\i (00:00:54) setwindow pcb
-\i (00:00:54) pick grid -112.77 29.99
-\t (00:00:54) last pick:  -100.00 0.00
-\i (00:00:54) prepopup -88.56 33.33
-\i (00:00:56) pop dyn_option_select '@:@Change Width...' 
-\i (00:00:56) change width 
-\i (00:00:58) setwindow form.chgwidth
-\i (00:00:58) FORM chgwidth done  
-\t (00:00:58) No DRC errors detected.
-\t (00:00:58) Changed 1 items out of 1 items found.
-\i (00:00:58) setwindow pcb
-\i (00:00:58) generaledit 
-\i (00:01:00) pick grid -112.91 14.05
-\t (00:01:00) last pick:  -100.00 0.00
-\i (00:01:00) roam start
-\i (00:01:00) roam x 48
-\i (00:01:00) roam y 112
-\i (00:01:00) roam x 16
-\i (00:01:00) roam y 96
-\i (00:01:00) roam y 80
-\i (00:01:00) roam end
-\i (00:01:01) prepopup -82.63 -4.79
-\i (00:01:03) pop dyn_option_select '@:@Change Width...' 
-\i (00:01:03) change width 
-\i (00:01:05) setwindow form.chgwidth
-\i (00:01:05) FORM chgwidth done  
-\t (00:01:05) No DRC errors detected.
-\t (00:01:05) Changed 1 items out of 1 items found.
-\i (00:01:05) setwindow pcb
-\i (00:01:05) generaledit 
-\i (00:01:06) pick grid -109.87 -32.04
-\t (00:01:06) last pick:  -100.00 0.00
-\i (00:01:07) prepopup -87.99 -25.66
-\i (00:01:08) pop dyn_option_select '@:@Change Width...' 
-\i (00:01:08) change width 
-\i (00:01:10) setwindow form.chgwidth
-\i (00:01:10) FORM chgwidth done  
-\t (00:01:10) No DRC errors detected.
-\t (00:01:10) Changed 1 items out of 1 items found.
-\i (00:01:10) setwindow pcb
-\i (00:01:10) generaledit 
-\i (00:01:11) pick grid -139.00 -2.62
-\t (00:01:11) last pick:  -100.00 0.00
-\i (00:01:11) zoom out 1 
-\i (00:01:11) setwindow pcb
-\i (00:01:11) zoom out -132.05 -4.79
-\i (00:01:11) trapsize 145
-\i (00:01:11) zoom out 1 
-\i (00:01:11) setwindow pcb
-\i (00:01:11) zoom out -132.05 -4.79
-\i (00:01:11) trapsize 290
-\i (00:01:12) roam start
-\i (00:01:12) roam y -112
-\i (00:01:12) roam y -64
-\i (00:01:12) roam end
-\i (00:01:13) zoom in 1 
-\i (00:01:13) setwindow pcb
-\i (00:01:13) zoom in 108.55 135.36
-\i (00:01:13) trapsize 145
-\i (00:01:13) zoom out 1 
-\i (00:01:13) setwindow pcb
-\i (00:01:13) zoom out 109.71 133.04
-\i (00:01:13) trapsize 290
-\i (00:01:14) roam start
-\i (00:01:14) roam y 96
-\i (00:01:14) roam y 80
-\i (00:01:14) roam y 96
-\i (00:01:14) roam end
-\i (00:01:14) zoom in 1 
-\i (00:01:14) setwindow pcb
-\i (00:01:14) zoom in 79.56 -139.43
-\i (00:01:14) trapsize 145
-\i (00:01:14) zoom in 1 
-\i (00:01:14) setwindow pcb
-\i (00:01:14) zoom in 79.57 -139.43
-\i (00:01:14) trapsize 72
-\i (00:01:15) zoom out 1 
-\i (00:01:15) setwindow pcb
-\i (00:01:15) zoom out 108.56 -137.69
-\i (00:01:15) trapsize 145
-\i (00:01:15) zoom out 1 
-\i (00:01:15) setwindow pcb
-\i (00:01:15) zoom out 109.43 -136.24
-\i (00:01:15) trapsize 290
-\i (00:01:16) roam start
-\i (00:01:16) roam x -112
-\i (00:01:16) roam x -144
-\i (00:01:16) roam y -16
-\i (00:01:16) roam x -64
-\i (00:01:16) roam y -32
-\i (00:01:16) roam end
-\i (00:01:17) zoom in 1 
-\i (00:01:17) setwindow pcb
-\i (00:01:17) zoom in -98.27 8.98
-\i (00:01:17) trapsize 145
-\i (00:01:17) roam start
-\i (00:01:17) roam y -128
-\i (00:01:17) roam y -96
-\i (00:01:17) roam y -96
-\i (00:01:17) roam end
-\i (00:01:18) roam start
-\i (00:01:18) roam y -96
-\i (00:01:18) roam y -96
-\i (00:01:18) roam y -48
-\i (00:01:18) roam end
-\i (00:01:19) save 
-\i (00:01:20) fillin yes 
-\t (00:01:21) Symbol 'sop8-6-1_27-9p.psm' created.
-\i (00:01:21) generaledit 
-\i (00:01:21) zoom out 1 
-\i (00:01:21) setwindow pcb
-\i (00:01:21) zoom out -146.67 120.28
-\i (00:01:21) trapsize 290
-\i (00:01:21) zoom out 1 
-\i (00:01:21) setwindow pcb
-\i (00:01:21) zoom out -146.68 120.29
-\i (00:01:21) trapsize 580
-\i (00:01:22) roam start
-\i (00:01:22) roam y 64
-\i (00:01:22) roam y 16
-\i (00:01:22) roam y 32
-\i (00:01:22) roam end
-\i (00:01:22) zoom in 1 
-\i (00:01:22) setwindow pcb
-\i (00:01:22) zoom in -102.33 65.79
-\i (00:01:22) trapsize 290
-\i (00:01:23) zoom in 1 
-\i (00:01:23) setwindow pcb
-\i (00:01:23) zoom in -97.69 31.58
-\i (00:01:23) trapsize 145
-\i (00:01:23) zoom in 1 
-\i (00:01:23) setwindow pcb
-\i (00:01:23) zoom in -97.69 31.58
-\i (00:01:23) trapsize 72
-\i (00:01:24) zoom out 1 
-\i (00:01:24) setwindow pcb
-\i (00:01:24) zoom out -85.52 28.39
-\i (00:01:24) trapsize 145
-\i (00:01:24) zoom out 1 
-\i (00:01:24) setwindow pcb
-\i (00:01:24) zoom out -86.09 28.10
-\i (00:01:24) trapsize 290
-\i (00:01:24) roam start
-\i (00:01:24) roam x 128
-\i (00:01:24) roam x 128
-\i (00:01:24) roam x 16
-\i (00:01:24) roam end
-\i (00:01:25) zoom in 1 
-\i (00:01:25) setwindow pcb
-\i (00:01:25) zoom in 79.70 72.75
-\i (00:01:25) trapsize 145
-\i (00:01:26) zoom out 1 
-\i (00:01:26) setwindow pcb
-\i (00:01:26) zoom out 134.49 67.83
-\i (00:01:26) trapsize 290
-\i (00:01:26) roam start
-\i (00:01:27) roam y 96
-\i (00:01:27) roam y 96
-\i (00:01:27) roam y 16
-\i (00:01:27) roam end
-\i (00:01:27) zoom in 1 
-\i (00:01:27) setwindow pcb
-\i (00:01:27) zoom in 89.27 -138.28
-\i (00:01:27) trapsize 145
-\i (00:01:27) zoom in 1 
-\i (00:01:27) setwindow pcb
-\i (00:01:27) zoom in 89.27 -138.27
-\i (00:01:27) trapsize 72
-\i (00:01:28) zoom out 1 
-\i (00:01:28) setwindow pcb
-\i (00:01:28) zoom out 104.63 -135.52
-\i (00:01:28) trapsize 145
-\i (00:01:30) zoom out 1 
-\i (00:01:30) setwindow pcb
-\i (00:01:30) zoom out -28.12 -24.79
-\i (00:01:30) trapsize 290
-\i (00:01:30) zoom out 1 
-\i (00:01:30) setwindow pcb
-\i (00:01:30) zoom out -28.13 -26.52
-\i (00:01:30) trapsize 580
-\i (00:01:32) trapsize 1377
-\i (00:01:34) trapsize 809
-\i (00:01:37) trapsize 1377
-\i (00:01:58) pick grid 309.76 -138.02
-\t (00:01:58) last pick:  300.00 -100.00
-\i (00:01:59) open 
-\i (00:02:05) fillin "sot223.dra"
-\t (00:02:05) Opening existing design...
-\i (00:02:05) trapsize 1256
-\d (00:02:05) Design opened: D:/Cadence/lib/allegro/psm_draSymbols/sot223.dra
-\i (00:02:06) generaledit 
-\i (00:02:07) zoom in 1 
-\i (00:02:07) setwindow pcb
-\i (00:02:07) zoom in 164.43 -31.53
-\i (00:02:07) trapsize 628
-\i (00:02:07) zoom in 1 
-\i (00:02:07) setwindow pcb
-\i (00:02:07) zoom in 164.44 -31.53
-\i (00:02:07) trapsize 314
-\i (00:02:08) trapsize 184
-\i (00:02:08) zoom out 1 
-\i (00:02:08) setwindow pcb
-\i (00:02:08) zoom out 149.02 -14.23
-\i (00:02:08) trapsize 369
-\i (00:02:09) roam start
-\i (00:02:09) roam x -96
-\i (00:02:09) roam y 48
-\i (00:02:09) roam x -128
-\i (00:02:09) roam y 64
-\i (00:02:09) roam x -96
-\i (00:02:09) roam y 48
-\i (00:02:09) roam end
-\i (00:02:09) zoom in 1 
-\i (00:02:09) setwindow pcb
-\i (00:02:09) zoom in -146.64 -152.54
-\i (00:02:09) trapsize 184
-\i (00:02:12) roam start
-\i (00:02:12) roam y -144
-\i (00:02:12) roam y -224
-\i (00:02:12) roam y -96
-\i (00:02:12) roam y -16
-\i (00:02:12) roam end
-\i (00:02:12) zoom in 1 
-\i (00:02:12) setwindow pcb
-\i (00:02:12) zoom in -134.83 23.10
-\i (00:02:12) trapsize 92
-\i (00:02:12) zoom out 1 
-\i (00:02:12) setwindow pcb
-\i (00:02:12) zoom out -134.82 19.22
-\i (00:02:12) trapsize 184
-\i (00:02:13) roam start
-\i (00:02:13) roam x 112
-\i (00:02:13) roam x 144
-\i (00:02:13) roam y -32
-\i (00:02:13) roam end
-\i (00:02:14) zoom in 1 
-\i (00:02:14) setwindow pcb
-\i (00:02:14) zoom in -70.99 76.97
-\i (00:02:14) trapsize 92
-\i (00:02:16) zoom out 1 
-\i (00:02:16) setwindow pcb
-\i (00:02:16) zoom out -74.31 70.89
-\i (00:02:16) trapsize 184
-\i (00:02:16) zoom out 1 
-\i (00:02:16) setwindow pcb
-\i (00:02:16) zoom out -74.30 70.89
-\i (00:02:16) trapsize 369
-\i (00:02:16) roam start
-\i (00:02:16) roam x -16
-\i (00:02:16) roam y -64
-\i (00:02:16) roam y -16
-\i (00:02:16) roam end
-\i (00:02:27) pick grid 245.23 50.40
-\t (00:02:27) last pick:  200.00 100.00
-\i (00:02:28) roam start
-\i (00:02:28) roam x -32
-\i (00:02:28) roam y 80
-\i (00:02:28) roam x -64
-\i (00:02:28) roam y 128
-\i (00:02:28) roam x -48
-\i (00:02:28) roam y 80
-\i (00:02:28) roam x -16
-\i (00:02:28) roam y 64
-\i (00:02:28) roam end
-\i (00:02:28) zoom in 1 
-\i (00:02:28) setwindow pcb
-\i (00:02:28) zoom in -147.38 -128.19
-\i (00:02:28) trapsize 184
-\i (00:02:31) prepopup -131.14 -124.87
-\i (00:02:32) pop dyn_option_select '@:@Show element' 
-\i (00:02:32) show element 
-\i (00:02:32) generaledit 
-\i (00:02:34) setwindow text
-\i (00:02:34) close 
-\i (00:02:35) setwindow pcb
-\i (00:02:35) pick grid -201.61 -150.69
-\t (00:02:35) last pick:  -200.00 -200.00
-\i (00:02:43) pick grid -191.28 -145.90
-\t (00:02:43) last pick:  -200.00 -100.00
-\i (00:02:48) zoom out 1 
-\i (00:02:48) setwindow pcb
-\i (00:02:48) zoom out -262.50 -138.52
-\i (00:02:48) trapsize 369
-\i (00:02:48) zoom out 1 
-\i (00:02:48) setwindow pcb
-\i (00:02:48) zoom out -262.50 -138.52
-\i (00:02:48) trapsize 738
-\i (00:02:49) zoom in 1 
-\i (00:02:49) setwindow pcb
-\i (00:02:49) zoom in -111.22 -101.61
-\i (00:02:49) trapsize 369
-\i (00:02:49) zoom in 1 
-\i (00:02:49) setwindow pcb
-\i (00:02:49) zoom in -111.22 -101.61
-\i (00:02:49) trapsize 184
-\i (00:02:53) change 
-\i (00:02:56) setwindow form.mini
-\i (00:02:56) FORM mini change_class PACKAGE GEOMETRY 
-\i (00:02:58) FORM mini change_subclass SILKSCREEN_TOP 
-\i (00:03:00) FORM mini text_block 2 
-\i (00:03:01) setwindow pcb
-\i (00:03:01) pick grid -135.20 -127.80
-\t (00:03:01) last pick:  -100.00 -100.00
-\t (00:03:01) No DRC errors detected.
-\t (00:03:01) Changed 1 items out of 1 items found.
-\i (00:03:02) prepopup -184.65 -96.81
-\i (00:03:03) done 
-\i (00:03:04) generaledit 
-\i (00:03:04) pick grid -190.18 -93.49
-\t (00:03:04) last pick:  -200.00 -100.00
-\i (00:03:05) save 
-\i (00:03:06) fillin yes 
-\t (00:03:06) Symbol 'sot223.psm' created.
-\i (00:03:07) generaledit 
-\i (00:47:08) open 
-\i (00:47:13) fillin "hdmi.dra"
-\t (00:47:13) Opening existing design...
-\i (00:47:14) trapsize 5200
-\d (00:47:14) Design opened: D:/Cadence/lib/allegro/psm_draSymbols/hdmi.dra
-\i (00:47:14) generaledit 
-\i (00:47:15) zoom out 1 
-\i (00:47:15) setwindow pcb
-\i (00:47:15) zoom out 226.173 41.044
-\i (00:47:15) trapsize 10401
-\i (00:47:15) zoom out 1 
-\i (00:47:15) setwindow pcb
-\i (00:47:15) zoom out 34.803 41.044
-\i (00:47:15) trapsize 20801
-\i (00:47:16) zoom in 1 
-\i (00:47:16) setwindow pcb
-\i (00:47:16) zoom in -535.150 -19.281
-\i (00:47:16) trapsize 10401
-\i (00:47:16) zoom in 1 
-\i (00:47:16) setwindow pcb
-\i (00:47:16) zoom in -766.044 -19.281
-\i (00:47:16) trapsize 5200
-\i (00:47:18) roam start
-\i (00:47:18) roam x 16
-\i (00:47:18) roam y 96
-\i (00:47:18) roam x 32
-\i (00:47:18) roam y 96
-\i (00:47:18) roam end
-\i (00:47:25) roam start
-\i (00:47:25) roam x 96
-\i (00:47:25) roam y -64
-\i (00:47:25) roam x 128
-\i (00:47:25) roam y -64
-\i (00:47:25) roam end
-\i (00:47:42) pick grid -412.423 -111.845
-\t (00:47:42) last pick:  -400.000 -100.000
-\i (00:48:00) pick grid -380.181 -90.004
-\t (00:48:00) last pick:  -400.000 -100.000
-\i (00:49:37) pick grid -452.985 -106.645
-\t (00:49:37) last pick:  -500.000 -100.000
-\i (00:49:39) roam start
-\i (00:49:39) roam x 80
-\i (00:49:39) roam y 32
-\i (00:49:39) roam x 48
-\i (00:49:39) roam y 48
-\i (00:49:39) roam end
-\i (00:50:03) pick grid 439.387 -255.374
-\t (00:50:03) last pick:  400.000 -300.000
-\i (00:50:41) pick grid -399.942 -176.329
-\t (00:50:41) last pick:  -400.000 -200.000
-\i (00:51:04) pick grid -374.981 -135.767
-\t (00:51:04) last pick:  -400.000 -100.000
-\i (00:51:06) pick grid -391.622 -125.366
-\t (00:51:06) last pick:  -400.000 -100.000
-\i (00:51:10) replace padstack 
-\i (00:51:12) pick grid 288.578 -81.684
-\t (00:51:12) last pick:  300.000 -100.000
-\i (00:51:20) setwindow form.mini
-\i (00:51:20) FORM mini newname PAD330OBL270_90 
-\i (00:51:20) FORM mini replace  
-\i (00:51:21) setwindow pcb
-\i (00:51:21) pick grid 417.546 -156.568
-\t (00:51:21) last pick:  400.000 -200.000
-\i (00:51:22) pick grid 293.778 -308.417
-\t (00:51:22) last pick:  300.000 -300.000
-\i (00:51:28) setwindow form.mini
-\i (00:51:28) FORM mini newname PAD230OBL170_90 
-\i (00:51:29) FORM mini replace  
-\i (00:51:29) setwindow pcb
-\i (00:51:29) pick grid 411.305 -204.411
-\t (00:51:29) last pick:  400.000 -200.000
-\i (00:51:35) prepopup 423.786 -114.965
-\i (00:51:35) done 
-\t (00:51:35) Performing DRC...
-\t (00:51:35) No DRC errors detected.
-\i (00:51:35) generaledit 
-\i (00:51:36) pick grid 413.385 -110.805
-\t (00:51:36) last pick:  400.000 -100.000
-\i (00:51:40) setwindow form.mini
-\i (00:51:40) FORM mini class PIN 
-\i (00:51:47) FORM mini subcolor 0 
-\i (00:51:48) FORM mini subcolor 1 
-\i (00:51:49) FORM mini subcolor 0 
-\i (00:51:49) FORM mini subcolor 1 
-\i (00:51:50) FORM mini subcolor 0 
-\i (00:51:50) FORM mini subcolor 1 
-\i (00:51:51) FORM mini subcolor 0 
-\i (00:51:51) FORM mini subcolor 1 
-\i (00:51:52) FORM mini subcolor 0 
-\i (00:51:53) FORM mini subcolor 1 
-\i (00:51:54) FORM mini subcolor 0 
-\i (00:51:54) FORM mini subcolor 1 
-\i (00:51:55) FORM mini subcolor 0 
-\i (00:51:56) FORM mini subcolor 1 
-\i (00:51:57) setwindow pcb
-\i (00:51:57) pick grid 433.147 -121.206
-\t (00:51:57) last pick:  400.000 -100.000
-\i (00:51:58) save 
-\i (00:52:00) fillin yes 
-\t (00:52:00) Symbol 'hdmi.psm' created.
-\i (00:52:00) generaledit 
-\i (00:52:01) pick grid -417.623 -234.572
-\t (00:52:01) last pick:  -400.000 -200.000
-\i (00:52:03) pick grid -398.902 -118.086
-\t (00:52:03) last pick:  -400.000 -100.000
-\i (02:46:31) exit 
-\t (02:46:32)     Journal end - Tue Aug 03 14:23:50 2021
+\t (07:48:25) allegro 16.6-2015 S115 (v16-6-112JF) Windows 32
+\t (07:48:25)     Journal start - Wed Aug 04 17:42:45 2021
+\t (07:48:25)         Host=DESKTOP-9H2V1I1 User=MikeJ Pid=3668 CPUs=8
+\t (07:48:25) CmdLine= D:\Cadence\Cadence_SPB_16.6\tools\pcb\bin\allegro.exe
+\t (07:48:25) 
+\d (07:48:25) Design opened: D:/Cadence/lib/allegro/psm_draSymbols/cry5032.dra
+\i (07:48:26) generaledit 
+\i (07:48:26) zoom out 1 
+\i (07:48:26) setwindow pcb
+\i (07:48:26) zoom out -4.7946 -0.2285
+\i (07:48:26) trapsize 1279
+\i (07:48:28) open 
+\i (07:48:34) fillin "cry-mc146.dra"
+\t (07:48:34) Opening existing design...
+\i (07:48:34) trapsize 1007
+\d (07:48:34) Design opened: D:/Cadence/lib/allegro/psm_draSymbols/cry-mc146.dra
+\i (07:48:35) generaledit 
+\i (07:48:36) zoom in 1 
+\i (07:48:36) setwindow pcb
+\i (07:48:36) zoom in -89.63 53.37
+\i (07:48:36) trapsize 504
+\i (07:48:36) zoom in 1 
+\i (07:48:36) setwindow pcb
+\i (07:48:36) zoom in -377.64 53.37
+\i (07:48:36) trapsize 252
+\i (07:48:36) roam start
+\i (07:48:36) roam x 80
+\i (07:48:36) roam x 208
+\i (07:48:36) roam y -16
+\i (07:48:37) roam x 112
+\i (07:48:37) roam end
+\i (07:48:38) zoom out 1 
+\i (07:48:38) setwindow pcb
+\i (07:48:38) zoom out 8.55 92.63
+\i (07:48:38) trapsize 504
+\t (07:48:40) Pick to complete the window.
+\i (07:48:40) zoom in 1 
+\i (07:48:40) setwindow pcb
+\i (07:48:40) zoom in -92.66 76.52
+\i (07:48:40) trapsize 252
+\i (07:48:40) pick -113.80 84.08
+\t (07:48:40) last pick:  -113.80 84.08
+\i (07:48:40) setwindow pcb
+\i (07:48:40) generaledit 
+\i (07:48:41) zoom in 1 
+\i (07:48:41) setwindow pcb
+\i (07:48:41) zoom in -95.67 39.26
+\i (07:48:41) trapsize 126
+\i (07:48:41) zoom in 1 
+\i (07:48:41) setwindow pcb
+\i (07:48:41) zoom in -95.67 39.27
+\i (07:48:41) trapsize 63
+\i (07:48:41) zoom out 1 
+\i (07:48:41) setwindow pcb
+\i (07:48:41) zoom out -101.72 39.65
+\i (07:48:41) trapsize 126
+\i (07:48:41) zoom out 1 
+\i (07:48:41) setwindow pcb
+\i (07:48:41) zoom out -101.72 39.66
+\i (07:48:41) trapsize 252
+\i (07:48:42) roam start
+\i (07:48:42) roam x 112
+\i (07:48:42) roam x 128
+\i (07:48:42) roam x 80
+\i (07:48:42) roam end
+\i (07:48:44) zoom in 1 
+\i (07:48:44) setwindow pcb
+\i (07:48:44) zoom in -90.60 21.03
+\i (07:48:44) trapsize 126
+\i (07:48:46) zoom out 1 
+\i (07:48:46) setwindow pcb
+\i (07:48:46) zoom out -90.59 21.03
+\i (07:48:46) trapsize 252
+\i (07:48:47) zoom in 1 
+\i (07:48:47) setwindow pcb
+\i (07:48:47) zoom in -90.60 21.04
+\i (07:48:47) trapsize 126
+\i (07:48:47) zoom in 1 
+\i (07:48:47) setwindow pcb
+\i (07:48:47) zoom in -90.59 21.04
+\i (07:48:47) trapsize 63
+\i (07:48:47) zoom out 1 
+\i (07:48:47) setwindow pcb
+\i (07:48:47) zoom out -90.59 21.05
+\i (07:48:47) trapsize 126
+\i (07:48:48) zoom out 1 
+\i (07:48:48) setwindow pcb
+\i (07:48:48) zoom out 66.27 26.58
+\i (07:48:48) trapsize 252
+\i (07:49:11) save 
+\i (07:49:12) fillin yes 
+\t (07:49:13) Symbol 'cry-mc146.psm' created.
+\i (07:49:13) generaledit 
+\i (07:49:13) pick grid -65.15 134.34
+\t (07:49:13) last pick:  -100.00 100.00
+\e (07:49:19) Command not found: xhilite
+\i (07:49:19) xname_flush 
+\i (07:49:19) done 
+\i (07:49:19) generaledit 
+\e (07:49:45) Command not found: xdehilite
+\i (07:49:45) xname_flush 
+\i (07:49:45) done 
+\i (07:49:45) generaledit 
+\e (07:55:38) Command not found: xhilite
+\i (07:55:38) xname_flush 
+\i (07:55:38) done 
+\i (07:55:38) generaledit 
+\e (07:55:53) Command not found: xdehilite
+\i (07:55:53) xname_flush 
+\i (07:55:53) done 
+\i (07:55:53) generaledit 
+\e (07:55:55) Command not found: xhilite
+\i (07:55:55) xname_flush 
+\i (07:55:55) done 
+\i (07:55:55) generaledit 
+\e (07:55:55) Command not found: xdehilite
+\i (07:55:55) xname_flush 
+\i (07:55:55) done 
+\i (07:55:55) generaledit 
+\e (07:56:38) Command not found: xhilite
+\i (07:56:38) xname_flush 
+\i (07:56:38) done 
+\i (07:56:38) generaledit 
+\e (07:56:40) Command not found: xdehilite
+\i (07:56:40) xname_flush 
+\i (07:56:40) done 
+\i (07:56:40) generaledit 
+\e (07:56:41) Command not found: xhilite
+\i (07:56:41) xname_flush 
+\i (07:56:41) done 
+\i (07:56:41) generaledit 
+\e (07:56:42) Command not found: xdehilite
+\i (07:56:42) xname_flush 
+\i (07:56:42) done 
+\i (07:56:42) generaledit 
+\e (07:56:47) Command not found: xdehilite
+\i (07:56:47) xname_flush 
+\i (07:56:47) done 
+\i (07:56:47) generaledit 
+\e (07:56:49) Command not found: xhilite
+\i (07:56:49) xname_flush 
+\i (07:56:49) done 
+\i (07:56:49) generaledit 
+\e (07:56:49) Command not found: xdehilite
+\i (07:56:49) xname_flush 
+\i (07:56:49) done 
+\i (07:56:49) generaledit 
+\e (07:57:58) Command not found: xdehilite
+\i (07:57:58) xname_flush 
+\i (07:57:58) done 
+\i (07:57:58) generaledit 
+\e (07:58:14) Command not found: xhilite
+\i (07:58:14) xname_flush 
+\i (07:58:14) done 
+\i (07:58:14) generaledit 
+\e (07:58:14) Command not found: xdehilite
+\i (07:58:14) xname_flush 
+\i (07:58:14) done 
+\e (07:58:15) Command not found: xhilite
+\i (07:58:15) xname_flush 
+\e (07:58:15) No command active
+\i (07:58:15) done 
+\e (07:58:15) No command active
+\i (07:58:15) generaledit 
+\e (07:58:15) Command not found: xdehilite
+\i (07:58:15) xname_flush 
+\i (07:58:15) done 
+\i (07:58:16) generaledit 
+\e (07:58:26) Command not found: xdehilite
+\i (07:58:26) xname_flush 
+\i (07:58:26) done 
+\i (07:58:26) generaledit 
+\e (07:58:31) Command not found: xhilite
+\i (07:58:31) xname_flush 
+\i (07:58:31) done 
+\i (07:58:31) generaledit 
+\e (07:58:32) Command not found: xdehilite
+\i (07:58:32) xname_flush 
+\i (07:58:32) done 
+\e (07:58:32) Command not found: xhilite
+\i (07:58:32) xname_flush 
+\e (07:58:32) No command active
+\i (07:58:32) done 
+\e (07:58:32) No command active
+\i (07:58:32) generaledit 
+\e (07:58:34) Command not found: xdehilite
+\i (07:58:34) xname_flush 
+\i (07:58:34) done 
+\i (07:58:35) generaledit 
+\e (07:58:48) Command not found: xhilite
+\i (07:58:48) xname_flush 
+\i (07:58:48) done 
+\i (07:58:49) generaledit 
+\e (07:58:49) Command not found: xdehilite
+\i (07:58:49) xname_flush 
+\i (07:58:49) done 
+\e (07:58:50) Command not found: xhilite
+\i (07:58:50) xname_flush 
+\e (07:58:50) No command active
+\i (07:58:50) done 
+\e (07:58:50) No command active
+\i (07:58:50) generaledit 
+\e (07:59:08) Command not found: xdehilite
+\i (07:59:08) xname_flush 
+\i (07:59:08) done 
+\i (07:59:08) generaledit 
+\e (07:59:10) Command not found: xhilite
+\i (07:59:10) xname_flush 
+\i (07:59:10) done 
+\i (07:59:10) generaledit 
+\e (07:59:10) Command not found: xdehilite
+\i (07:59:10) xname_flush 
+\i (07:59:10) done 
+\i (07:59:10) generaledit 
+\e (07:59:12) Command not found: xhilite
+\i (07:59:12) xname_flush 
+\i (07:59:12) done 
+\i (07:59:12) generaledit 
+\e (07:59:12) Command not found: xdehilite
+\i (07:59:12) xname_flush 
+\i (07:59:12) done 
+\i (07:59:12) generaledit 
+\e (07:59:13) Command not found: xhilite
+\i (07:59:13) xname_flush 
+\i (07:59:13) done 
+\i (07:59:13) generaledit 
+\e (07:59:13) Command not found: xdehilite
+\i (07:59:13) xname_flush 
+\i (07:59:13) done 
+\i (07:59:14) generaledit 
+\e (07:59:14) Command not found: xhilite
+\i (07:59:14) xname_flush 
+\i (07:59:14) done 
+\i (07:59:14) generaledit 
+\e (07:59:15) Command not found: xdehilite
+\i (07:59:15) xname_flush 
+\i (07:59:15) done 
+\i (07:59:15) generaledit 
+\e (07:59:15) Command not found: xhilite
+\i (07:59:15) xname_flush 
+\i (07:59:15) done 
+\i (07:59:16) generaledit 
+\e (07:59:16) Command not found: xdehilite
+\i (07:59:16) xname_flush 
+\i (07:59:16) done 
+\i (07:59:16) generaledit 
+\e (07:59:16) Command not found: xhilite
+\i (07:59:16) xname_flush 
+\i (07:59:16) done 
+\i (07:59:16) generaledit 
+\e (07:59:17) Command not found: xdehilite
+\i (07:59:17) xname_flush 
+\i (07:59:17) done 
+\i (07:59:17) generaledit 
+\e (07:59:17) Command not found: xhilite
+\i (07:59:17) xname_flush 
+\i (07:59:17) done 
+\i (07:59:17) generaledit 
+\e (07:59:18) Command not found: xdehilite
+\i (07:59:18) xname_flush 
+\i (07:59:18) done 
+\i (07:59:18) generaledit 
+\e (07:59:18) Command not found: xhilite
+\i (07:59:18) xname_flush 
+\i (07:59:18) done 
+\i (07:59:19) generaledit 
+\e (07:59:19) Command not found: xdehilite
+\i (07:59:19) xname_flush 
+\i (07:59:19) done 
+\i (07:59:19) generaledit 
+\e (07:59:39) Command not found: xhilite
+\i (07:59:39) xname_flush 
+\i (07:59:39) done 
+\i (07:59:39) generaledit 
+\e (07:59:40) Command not found: xhilite
+\i (07:59:40) xname_flush 
+\i (07:59:40) done 
+\i (07:59:40) generaledit 
+\e (07:59:41) Command not found: xdehilite
+\i (07:59:41) xname_flush 
+\i (07:59:41) done 
+\i (07:59:41) generaledit 
+\e (07:59:45) Command not found: xdehilite
+\i (07:59:45) xname_flush 
+\i (07:59:45) done 
+\i (07:59:46) generaledit 
+\e (07:59:47) Command not found: xhilite
+\i (07:59:47) xname_flush 
+\i (07:59:47) done 
+\i (07:59:47) generaledit 
+\e (07:59:48) Command not found: xdehilite
+\i (07:59:48) xname_flush 
+\i (07:59:48) done 
+\i (07:59:48) generaledit 
+\e (08:00:18) Command not found: xhilite
+\i (08:00:18) xname_flush 
+\i (08:00:18) done 
+\i (08:00:18) generaledit 
+\e (08:02:06) Command not found: xdehilite
+\i (08:02:06) xname_flush 
+\i (08:02:06) done 
+\i (08:02:06) generaledit 
+\e (08:02:08) Command not found: xhilite
+\i (08:02:08) xname_flush 
+\i (08:02:08) done 
+\i (08:02:09) generaledit 
+\e (08:02:10) Command not found: xdehilite
+\i (08:02:10) xname_flush 
+\i (08:02:10) done 
+\i (08:02:10) generaledit 
+\e (08:02:11) Command not found: xhilite
+\i (08:02:11) xname_flush 
+\i (08:02:11) done 
+\i (08:02:11) generaledit 
+\e (08:02:13) Command not found: xdehilite
+\i (08:02:13) xname_flush 
+\i (08:02:13) done 
+\i (08:02:13) generaledit 
+\e (08:02:15) Command not found: xhilite
+\i (08:02:15) xname_flush 
+\i (08:02:15) done 
+\i (08:02:15) generaledit 
+\e (08:02:15) Command not found: xdehilite
+\i (08:02:15) xname_flush 
+\i (08:02:15) done 
+\i (08:02:15) generaledit 
+\e (08:02:26) Command not found: xdehilite
+\i (08:02:26) xname_flush 
+\i (08:02:26) done 
+\i (08:02:26) generaledit 
+\e (08:09:06) Command not found: xhilite
+\i (08:09:06) xname_flush 
+\i (08:09:06) done 
+\i (08:09:06) generaledit 
+\e (08:09:06) Command not found: xdehilite
+\i (08:09:06) xname_flush 
+\i (08:09:06) done 
+\i (08:09:06) generaledit 
+\e (08:09:31) Command not found: xhilite
+\i (08:09:31) xname_flush 
+\i (08:09:31) done 
+\i (08:09:32) generaledit 
+\e (08:09:33) Command not found: xdehilite
+\i (08:09:33) xname_flush 
+\i (08:09:33) done 
+\e (08:09:33) Command not found: xhilite
+\i (08:09:33) xname_flush 
+\e (08:09:33) No command active
+\i (08:09:33) done 
+\e (08:09:33) No command active
+\i (08:09:33) generaledit 
+\e (08:09:33) Command not found: xdehilite
+\i (08:09:33) xname_flush 
+\i (08:09:33) done 
+\i (08:09:34) generaledit 
+\e (08:09:37) Command not found: xhilite
+\i (08:09:37) xname_flush 
+\i (08:09:37) done 
+\i (08:09:38) generaledit 
+\e (08:09:38) Command not found: xdehilite
+\i (08:09:38) xname_flush 
+\i (08:09:38) done 
+\i (08:09:38) generaledit 
+\e (08:10:03) Command not found: xhilite
+\i (08:10:03) xname_flush 
+\i (08:10:03) done 
+\i (08:10:03) generaledit 
+\e (08:10:03) Command not found: xdehilite
+\i (08:10:03) xname_flush 
+\i (08:10:03) done 
+\i (08:10:04) generaledit 
+\e (08:10:05) Command not found: xhilite
+\i (08:10:05) xname_flush 
+\i (08:10:05) done 
+\i (08:10:05) generaledit 
+\e (08:10:06) Command not found: xdehilite
+\i (08:10:06) xname_flush 
+\i (08:10:06) done 
+\i (08:10:06) generaledit 
+\e (08:10:08) Command not found: xhilite
+\i (08:10:08) xname_flush 
+\i (08:10:08) done 
+\i (08:10:08) generaledit 
+\e (08:10:08) Command not found: xhilite
+\i (08:10:08) xname_flush 
+\i (08:10:08) done 
+\i (08:10:08) generaledit 
+\e (08:10:09) Command not found: xdehilite
+\i (08:10:09) xname_flush 
+\i (08:10:09) done 
+\i (08:10:09) generaledit 
+\e (08:10:10) Command not found: xhilite
+\i (08:10:10) xname_flush 
+\i (08:10:10) done 
+\i (08:10:10) generaledit 
+\e (08:10:10) Command not found: xdehilite
+\i (08:10:10) xname_flush 
+\i (08:10:10) done 
+\i (08:10:10) generaledit 
+\e (08:10:11) Command not found: xhilite
+\i (08:10:11) xname_flush 
+\i (08:10:11) done 
+\i (08:10:11) generaledit 
+\e (08:10:12) Command not found: xdehilite
+\i (08:10:12) xname_flush 
+\i (08:10:12) done 
+\i (08:10:12) generaledit 
+\e (08:10:12) Command not found: xhilite
+\i (08:10:12) xname_flush 
+\i (08:10:12) done 
+\i (08:10:12) generaledit 
+\e (08:10:13) Command not found: xdehilite
+\i (08:10:13) xname_flush 
+\i (08:10:13) done 
+\i (08:10:13) generaledit 
+\e (08:10:13) Command not found: xhilite
+\i (08:10:13) xname_flush 
+\i (08:10:13) done 
+\i (08:10:13) generaledit 
+\e (08:10:13) Command not found: xdehilite
+\i (08:10:13) xname_flush 
+\i (08:10:13) done 
+\i (08:10:14) generaledit 
+\e (08:10:14) Command not found: xhilite
+\i (08:10:14) xname_flush 
+\i (08:10:14) done 
+\i (08:10:14) generaledit 
+\e (08:10:14) Command not found: xdehilite
+\i (08:10:14) xname_flush 
+\i (08:10:14) done 
+\i (08:10:14) generaledit 
+\e (08:10:15) Command not found: xhilite
+\i (08:10:15) xname_flush 
+\i (08:10:15) done 
+\i (08:10:15) generaledit 
+\e (08:10:15) Command not found: xdehilite
+\i (08:10:15) xname_flush 
+\i (08:10:15) done 
+\i (08:10:15) generaledit 
+\e (08:10:16) Command not found: xhilite
+\i (08:10:16) xname_flush 
+\i (08:10:16) done 
+\i (08:10:16) generaledit 
+\e (08:10:16) Command not found: xdehilite
+\i (08:10:16) xname_flush 
+\i (08:10:16) done 
+\i (08:10:16) generaledit 
+\e (08:10:19) Command not found: xhilite
+\i (08:10:19) xname_flush 
+\i (08:10:19) done 
+\i (08:10:19) generaledit 
+\e (08:10:20) Command not found: xdehilite
+\i (08:10:20) xname_flush 
+\i (08:10:20) done 
+\i (08:10:20) generaledit 
+\e (08:10:21) Command not found: xhilite
+\i (08:10:21) xname_flush 
+\i (08:10:21) done 
+\i (08:10:21) generaledit 
+\e (08:10:21) Command not found: xdehilite
+\i (08:10:21) xname_flush 
+\i (08:10:21) done 
+\i (08:10:22) generaledit 
+\e (08:10:22) Command not found: xhilite
+\i (08:10:22) xname_flush 
+\i (08:10:22) done 
+\i (08:10:22) generaledit 
+\e (08:11:16) Command not found: xhilite
+\i (08:11:16) xname_flush 
+\i (08:11:16) done 
+\i (08:11:16) generaledit 
+\e (08:11:16) Command not found: xdehilite
+\i (08:11:16) xname_flush 
+\i (08:11:16) done 
+\i (08:11:16) generaledit 
+\e (08:11:19) Command not found: xhilite
+\i (08:11:19) xname_flush 
+\i (08:11:19) done 
+\i (08:11:19) generaledit 
+\e (08:11:19) Command not found: xdehilite
+\i (08:11:19) xname_flush 
+\i (08:11:19) done 
+\i (08:11:20) generaledit 
+\e (08:11:21) Command not found: xhilite
+\i (08:11:21) xname_flush 
+\i (08:11:21) done 
+\i (08:11:22) generaledit 
+\e (08:11:22) Command not found: xdehilite
+\i (08:11:22) xname_flush 
+\i (08:11:22) done 
+\i (08:11:22) generaledit 
+\e (08:15:16) Command not found: xhilite
+\i (08:15:16) xname_flush 
+\i (08:15:16) done 
+\i (08:15:16) generaledit 
+\e (08:15:18) Command not found: xdehilite
+\i (08:15:18) xname_flush 
+\i (08:15:18) done 
+\i (08:15:18) generaledit 
+\e (08:15:59) Command not found: xhilite
+\i (08:15:59) xname_flush 
+\i (08:15:59) done 
+\i (08:15:59) generaledit 
+\e (08:15:59) Command not found: xdehilite
+\i (08:15:59) xname_flush 
+\i (08:15:59) done 
+\i (08:16:00) generaledit 
+\e (08:16:01) Command not found: xdehilite
+\i (08:16:01) xname_flush 
+\i (08:16:01) done 
+\i (08:16:01) generaledit 
+\e (08:16:27) Command not found: xhilite
+\i (08:16:27) xname_flush 
+\i (08:16:27) done 
+\i (08:16:28) generaledit 
+\e (08:16:29) Command not found: xdehilite
+\i (08:16:29) xname_flush 
+\i (08:16:29) done 
+\i (08:16:30) generaledit 
+\e (08:16:38) Command not found: xhilite
+\i (08:16:38) xname_flush 
+\i (08:16:38) done 
+\i (08:16:38) generaledit 
+\e (08:16:39) Command not found: xdehilite
+\i (08:16:39) xname_flush 
+\i (08:16:39) done 
+\i (08:16:39) generaledit 
+\e (08:16:40) Command not found: xhilite
+\i (08:16:40) xname_flush 
+\i (08:16:40) done 
+\i (08:16:40) generaledit 
+\e (08:16:43) Command not found: xdehilite
+\i (08:16:43) xname_flush 
+\i (08:16:43) done 
+\i (08:16:43) generaledit 
+\e (08:16:44) Command not found: xhilite
+\i (08:16:44) xname_flush 
+\i (08:16:44) done 
+\i (08:16:45) generaledit 
+\e (08:16:45) Command not found: xdehilite
+\i (08:16:45) xname_flush 
+\i (08:16:45) done 
+\i (08:16:45) generaledit 
+\e (08:16:46) Command not found: xhilite
+\i (08:16:46) xname_flush 
+\i (08:16:46) done 
+\i (08:16:46) generaledit 
+\e (08:16:49) Command not found: xhilite
+\i (08:16:49) xname_flush 
+\i (08:16:49) done 
+\i (08:16:49) generaledit 
+\e (08:16:49) Command not found: xdehilite
+\i (08:16:49) xname_flush 
+\i (08:16:49) done 
+\e (08:16:49) Command not found: xh

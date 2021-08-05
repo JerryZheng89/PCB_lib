@@ -1,555 +1,516 @@
-\t (07:48:25) allegro 16.6-2015 S115 (v16-6-112JF) Windows 32
-\t (07:48:25)     Journal start - Wed Aug 04 17:42:45 2021
-\t (07:48:25)         Host=DESKTOP-9H2V1I1 User=MikeJ Pid=3668 CPUs=8
-\t (07:48:25) CmdLine= D:\Cadence\Cadence_SPB_16.6\tools\pcb\bin\allegro.exe
-\t (07:48:25) 
-\d (07:48:25) Design opened: D:/Cadence/lib/allegro/psm_draSymbols/cry5032.dra
-\i (07:48:26) generaledit 
-\i (07:48:26) zoom out 1 
-\i (07:48:26) setwindow pcb
-\i (07:48:26) zoom out -4.7946 -0.2285
-\i (07:48:26) trapsize 1279
-\i (07:48:28) open 
-\i (07:48:34) fillin "cry-mc146.dra"
-\t (07:48:34) Opening existing design...
-\i (07:48:34) trapsize 1007
-\d (07:48:34) Design opened: D:/Cadence/lib/allegro/psm_draSymbols/cry-mc146.dra
-\i (07:48:35) generaledit 
-\i (07:48:36) zoom in 1 
-\i (07:48:36) setwindow pcb
-\i (07:48:36) zoom in -89.63 53.37
-\i (07:48:36) trapsize 504
-\i (07:48:36) zoom in 1 
-\i (07:48:36) setwindow pcb
-\i (07:48:36) zoom in -377.64 53.37
-\i (07:48:36) trapsize 252
-\i (07:48:36) roam start
-\i (07:48:36) roam x 80
-\i (07:48:36) roam x 208
-\i (07:48:36) roam y -16
-\i (07:48:37) roam x 112
-\i (07:48:37) roam end
-\i (07:48:38) zoom out 1 
-\i (07:48:38) setwindow pcb
-\i (07:48:38) zoom out 8.55 92.63
-\i (07:48:38) trapsize 504
-\t (07:48:40) Pick to complete the window.
-\i (07:48:40) zoom in 1 
-\i (07:48:40) setwindow pcb
-\i (07:48:40) zoom in -92.66 76.52
-\i (07:48:40) trapsize 252
-\i (07:48:40) pick -113.80 84.08
-\t (07:48:40) last pick:  -113.80 84.08
-\i (07:48:40) setwindow pcb
-\i (07:48:40) generaledit 
-\i (07:48:41) zoom in 1 
-\i (07:48:41) setwindow pcb
-\i (07:48:41) zoom in -95.67 39.26
-\i (07:48:41) trapsize 126
-\i (07:48:41) zoom in 1 
-\i (07:48:41) setwindow pcb
-\i (07:48:41) zoom in -95.67 39.27
-\i (07:48:41) trapsize 63
-\i (07:48:41) zoom out 1 
-\i (07:48:41) setwindow pcb
-\i (07:48:41) zoom out -101.72 39.65
-\i (07:48:41) trapsize 126
-\i (07:48:41) zoom out 1 
-\i (07:48:41) setwindow pcb
-\i (07:48:41) zoom out -101.72 39.66
-\i (07:48:41) trapsize 252
-\i (07:48:42) roam start
-\i (07:48:42) roam x 112
-\i (07:48:42) roam x 128
-\i (07:48:42) roam x 80
-\i (07:48:42) roam end
-\i (07:48:44) zoom in 1 
-\i (07:48:44) setwindow pcb
-\i (07:48:44) zoom in -90.60 21.03
-\i (07:48:44) trapsize 126
-\i (07:48:46) zoom out 1 
-\i (07:48:46) setwindow pcb
-\i (07:48:46) zoom out -90.59 21.03
-\i (07:48:46) trapsize 252
-\i (07:48:47) zoom in 1 
-\i (07:48:47) setwindow pcb
-\i (07:48:47) zoom in -90.60 21.04
-\i (07:48:47) trapsize 126
-\i (07:48:47) zoom in 1 
-\i (07:48:47) setwindow pcb
-\i (07:48:47) zoom in -90.59 21.04
-\i (07:48:47) trapsize 63
-\i (07:48:47) zoom out 1 
-\i (07:48:47) setwindow pcb
-\i (07:48:47) zoom out -90.59 21.05
-\i (07:48:47) trapsize 126
-\i (07:48:48) zoom out 1 
-\i (07:48:48) setwindow pcb
-\i (07:48:48) zoom out 66.27 26.58
-\i (07:48:48) trapsize 252
-\i (07:49:11) save 
-\i (07:49:12) fillin yes 
-\t (07:49:13) Symbol 'cry-mc146.psm' created.
-\i (07:49:13) generaledit 
-\i (07:49:13) pick grid -65.15 134.34
-\t (07:49:13) last pick:  -100.00 100.00
-\e (07:49:19) Command not found: xhilite
-\i (07:49:19) xname_flush 
-\i (07:49:19) done 
-\i (07:49:19) generaledit 
-\e (07:49:45) Command not found: xdehilite
-\i (07:49:45) xname_flush 
-\i (07:49:45) done 
-\i (07:49:45) generaledit 
-\e (07:55:38) Command not found: xhilite
-\i (07:55:38) xname_flush 
-\i (07:55:38) done 
-\i (07:55:38) generaledit 
-\e (07:55:53) Command not found: xdehilite
-\i (07:55:53) xname_flush 
-\i (07:55:53) done 
-\i (07:55:53) generaledit 
-\e (07:55:55) Command not found: xhilite
-\i (07:55:55) xname_flush 
-\i (07:55:55) done 
-\i (07:55:55) generaledit 
-\e (07:55:55) Command not found: xdehilite
-\i (07:55:55) xname_flush 
-\i (07:55:55) done 
-\i (07:55:55) generaledit 
-\e (07:56:38) Command not found: xhilite
-\i (07:56:38) xname_flush 
-\i (07:56:38) done 
-\i (07:56:38) generaledit 
-\e (07:56:40) Command not found: xdehilite
-\i (07:56:40) xname_flush 
-\i (07:56:40) done 
-\i (07:56:40) generaledit 
-\e (07:56:41) Command not found: xhilite
-\i (07:56:41) xname_flush 
-\i (07:56:41) done 
-\i (07:56:41) generaledit 
-\e (07:56:42) Command not found: xdehilite
-\i (07:56:42) xname_flush 
-\i (07:56:42) done 
-\i (07:56:42) generaledit 
-\e (07:56:47) Command not found: xdehilite
-\i (07:56:47) xname_flush 
-\i (07:56:47) done 
-\i (07:56:47) generaledit 
-\e (07:56:49) Command not found: xhilite
-\i (07:56:49) xname_flush 
-\i (07:56:49) done 
-\i (07:56:49) generaledit 
-\e (07:56:49) Command not found: xdehilite
-\i (07:56:49) xname_flush 
-\i (07:56:49) done 
-\i (07:56:49) generaledit 
-\e (07:57:58) Command not found: xdehilite
-\i (07:57:58) xname_flush 
-\i (07:57:58) done 
-\i (07:57:58) generaledit 
-\e (07:58:14) Command not found: xhilite
-\i (07:58:14) xname_flush 
-\i (07:58:14) done 
-\i (07:58:14) generaledit 
-\e (07:58:14) Command not found: xdehilite
-\i (07:58:14) xname_flush 
-\i (07:58:14) done 
-\e (07:58:15) Command not found: xhilite
-\i (07:58:15) xname_flush 
-\e (07:58:15) No command active
-\i (07:58:15) done 
-\e (07:58:15) No command active
-\i (07:58:15) generaledit 
-\e (07:58:15) Command not found: xdehilite
-\i (07:58:15) xname_flush 
-\i (07:58:15) done 
-\i (07:58:16) generaledit 
-\e (07:58:26) Command not found: xdehilite
-\i (07:58:26) xname_flush 
-\i (07:58:26) done 
-\i (07:58:26) generaledit 
-\e (07:58:31) Command not found: xhilite
-\i (07:58:31) xname_flush 
-\i (07:58:31) done 
-\i (07:58:31) generaledit 
-\e (07:58:32) Command not found: xdehilite
-\i (07:58:32) xname_flush 
-\i (07:58:32) done 
-\e (07:58:32) Command not found: xhilite
-\i (07:58:32) xname_flush 
-\e (07:58:32) No command active
-\i (07:58:32) done 
-\e (07:58:32) No command active
-\i (07:58:32) generaledit 
-\e (07:58:34) Command not found: xdehilite
-\i (07:58:34) xname_flush 
-\i (07:58:34) done 
-\i (07:58:35) generaledit 
-\e (07:58:48) Command not found: xhilite
-\i (07:58:48) xname_flush 
-\i (07:58:48) done 
-\i (07:58:49) generaledit 
-\e (07:58:49) Command not found: xdehilite
-\i (07:58:49) xname_flush 
-\i (07:58:49) done 
-\e (07:58:50) Command not found: xhilite
-\i (07:58:50) xname_flush 
-\e (07:58:50) No command active
-\i (07:58:50) done 
-\e (07:58:50) No command active
-\i (07:58:50) generaledit 
-\e (07:59:08) Command not found: xdehilite
-\i (07:59:08) xname_flush 
-\i (07:59:08) done 
-\i (07:59:08) generaledit 
-\e (07:59:10) Command not found: xhilite
-\i (07:59:10) xname_flush 
-\i (07:59:10) done 
-\i (07:59:10) generaledit 
-\e (07:59:10) Command not found: xdehilite
-\i (07:59:10) xname_flush 
-\i (07:59:10) done 
-\i (07:59:10) generaledit 
-\e (07:59:12) Command not found: xhilite
-\i (07:59:12) xname_flush 
-\i (07:59:12) done 
-\i (07:59:12) generaledit 
-\e (07:59:12) Command not found: xdehilite
-\i (07:59:12) xname_flush 
-\i (07:59:12) done 
-\i (07:59:12) generaledit 
-\e (07:59:13) Command not found: xhilite
-\i (07:59:13) xname_flush 
-\i (07:59:13) done 
-\i (07:59:13) generaledit 
-\e (07:59:13) Command not found: xdehilite
-\i (07:59:13) xname_flush 
-\i (07:59:13) done 
-\i (07:59:14) generaledit 
-\e (07:59:14) Command not found: xhilite
-\i (07:59:14) xname_flush 
-\i (07:59:14) done 
-\i (07:59:14) generaledit 
-\e (07:59:15) Command not found: xdehilite
-\i (07:59:15) xname_flush 
-\i (07:59:15) done 
-\i (07:59:15) generaledit 
-\e (07:59:15) Command not found: xhilite
-\i (07:59:15) xname_flush 
-\i (07:59:15) done 
-\i (07:59:16) generaledit 
-\e (07:59:16) Command not found: xdehilite
-\i (07:59:16) xname_flush 
-\i (07:59:16) done 
-\i (07:59:16) generaledit 
-\e (07:59:16) Command not found: xhilite
-\i (07:59:16) xname_flush 
-\i (07:59:16) done 
-\i (07:59:16) generaledit 
-\e (07:59:17) Command not found: xdehilite
-\i (07:59:17) xname_flush 
-\i (07:59:17) done 
-\i (07:59:17) generaledit 
-\e (07:59:17) Command not found: xhilite
-\i (07:59:17) xname_flush 
-\i (07:59:17) done 
-\i (07:59:17) generaledit 
-\e (07:59:18) Command not found: xdehilite
-\i (07:59:18) xname_flush 
-\i (07:59:18) done 
-\i (07:59:18) generaledit 
-\e (07:59:18) Command not found: xhilite
-\i (07:59:18) xname_flush 
-\i (07:59:18) done 
-\i (07:59:19) generaledit 
-\e (07:59:19) Command not found: xdehilite
-\i (07:59:19) xname_flush 
-\i (07:59:19) done 
-\i (07:59:19) generaledit 
-\e (07:59:39) Command not found: xhilite
-\i (07:59:39) xname_flush 
-\i (07:59:39) done 
-\i (07:59:39) generaledit 
-\e (07:59:40) Command not found: xhilite
-\i (07:59:40) xname_flush 
-\i (07:59:40) done 
-\i (07:59:40) generaledit 
-\e (07:59:41) Command not found: xdehilite
-\i (07:59:41) xname_flush 
-\i (07:59:41) done 
-\i (07:59:41) generaledit 
-\e (07:59:45) Command not found: xdehilite
-\i (07:59:45) xname_flush 
-\i (07:59:45) done 
-\i (07:59:46) generaledit 
-\e (07:59:47) Command not found: xhilite
-\i (07:59:47) xname_flush 
-\i (07:59:47) done 
-\i (07:59:47) generaledit 
-\e (07:59:48) Command not found: xdehilite
-\i (07:59:48) xname_flush 
-\i (07:59:48) done 
-\i (07:59:48) generaledit 
-\e (08:00:18) Command not found: xhilite
-\i (08:00:18) xname_flush 
-\i (08:00:18) done 
-\i (08:00:18) generaledit 
-\e (08:02:06) Command not found: xdehilite
-\i (08:02:06) xname_flush 
-\i (08:02:06) done 
-\i (08:02:06) generaledit 
-\e (08:02:08) Command not found: xhilite
-\i (08:02:08) xname_flush 
-\i (08:02:08) done 
-\i (08:02:09) generaledit 
-\e (08:02:10) Command not found: xdehilite
-\i (08:02:10) xname_flush 
-\i (08:02:10) done 
-\i (08:02:10) generaledit 
-\e (08:02:11) Command not found: xhilite
-\i (08:02:11) xname_flush 
-\i (08:02:11) done 
-\i (08:02:11) generaledit 
-\e (08:02:13) Command not found: xdehilite
-\i (08:02:13) xname_flush 
-\i (08:02:13) done 
-\i (08:02:13) generaledit 
-\e (08:02:15) Command not found: xhilite
-\i (08:02:15) xname_flush 
-\i (08:02:15) done 
-\i (08:02:15) generaledit 
-\e (08:02:15) Command not found: xdehilite
-\i (08:02:15) xname_flush 
-\i (08:02:15) done 
-\i (08:02:15) generaledit 
-\e (08:02:26) Command not found: xdehilite
-\i (08:02:26) xname_flush 
-\i (08:02:26) done 
-\i (08:02:26) generaledit 
-\e (08:09:06) Command not found: xhilite
-\i (08:09:06) xname_flush 
-\i (08:09:06) done 
-\i (08:09:06) generaledit 
-\e (08:09:06) Command not found: xdehilite
-\i (08:09:06) xname_flush 
-\i (08:09:06) done 
-\i (08:09:06) generaledit 
-\e (08:09:31) Command not found: xhilite
-\i (08:09:31) xname_flush 
-\i (08:09:31) done 
-\i (08:09:32) generaledit 
-\e (08:09:33) Command not found: xdehilite
-\i (08:09:33) xname_flush 
-\i (08:09:33) done 
-\e (08:09:33) Command not found: xhilite
-\i (08:09:33) xname_flush 
-\e (08:09:33) No command active
-\i (08:09:33) done 
-\e (08:09:33) No command active
-\i (08:09:33) generaledit 
-\e (08:09:33) Command not found: xdehilite
-\i (08:09:33) xname_flush 
-\i (08:09:33) done 
-\i (08:09:34) generaledit 
-\e (08:09:37) Command not found: xhilite
-\i (08:09:37) xname_flush 
-\i (08:09:37) done 
-\i (08:09:38) generaledit 
-\e (08:09:38) Command not found: xdehilite
-\i (08:09:38) xname_flush 
-\i (08:09:38) done 
-\i (08:09:38) generaledit 
-\e (08:10:03) Command not found: xhilite
-\i (08:10:03) xname_flush 
-\i (08:10:03) done 
-\i (08:10:03) generaledit 
-\e (08:10:03) Command not found: xdehilite
-\i (08:10:03) xname_flush 
-\i (08:10:03) done 
-\i (08:10:04) generaledit 
-\e (08:10:05) Command not found: xhilite
-\i (08:10:05) xname_flush 
-\i (08:10:05) done 
-\i (08:10:05) generaledit 
-\e (08:10:06) Command not found: xdehilite
-\i (08:10:06) xname_flush 
-\i (08:10:06) done 
-\i (08:10:06) generaledit 
-\e (08:10:08) Command not found: xhilite
-\i (08:10:08) xname_flush 
-\i (08:10:08) done 
-\i (08:10:08) generaledit 
-\e (08:10:08) Command not found: xhilite
-\i (08:10:08) xname_flush 
-\i (08:10:08) done 
-\i (08:10:08) generaledit 
-\e (08:10:09) Command not found: xdehilite
-\i (08:10:09) xname_flush 
-\i (08:10:09) done 
-\i (08:10:09) generaledit 
-\e (08:10:10) Command not found: xhilite
-\i (08:10:10) xname_flush 
-\i (08:10:10) done 
-\i (08:10:10) generaledit 
-\e (08:10:10) Command not found: xdehilite
-\i (08:10:10) xname_flush 
-\i (08:10:10) done 
-\i (08:10:10) generaledit 
-\e (08:10:11) Command not found: xhilite
-\i (08:10:11) xname_flush 
-\i (08:10:11) done 
-\i (08:10:11) generaledit 
-\e (08:10:12) Command not found: xdehilite
-\i (08:10:12) xname_flush 
-\i (08:10:12) done 
-\i (08:10:12) generaledit 
-\e (08:10:12) Command not found: xhilite
-\i (08:10:12) xname_flush 
-\i (08:10:12) done 
-\i (08:10:12) generaledit 
-\e (08:10:13) Command not found: xdehilite
-\i (08:10:13) xname_flush 
-\i (08:10:13) done 
-\i (08:10:13) generaledit 
-\e (08:10:13) Command not found: xhilite
-\i (08:10:13) xname_flush 
-\i (08:10:13) done 
-\i (08:10:13) generaledit 
-\e (08:10:13) Command not found: xdehilite
-\i (08:10:13) xname_flush 
-\i (08:10:13) done 
-\i (08:10:14) generaledit 
-\e (08:10:14) Command not found: xhilite
-\i (08:10:14) xname_flush 
-\i (08:10:14) done 
-\i (08:10:14) generaledit 
-\e (08:10:14) Command not found: xdehilite
-\i (08:10:14) xname_flush 
-\i (08:10:14) done 
-\i (08:10:14) generaledit 
-\e (08:10:15) Command not found: xhilite
-\i (08:10:15) xname_flush 
-\i (08:10:15) done 
-\i (08:10:15) generaledit 
-\e (08:10:15) Command not found: xdehilite
-\i (08:10:15) xname_flush 
-\i (08:10:15) done 
-\i (08:10:15) generaledit 
-\e (08:10:16) Command not found: xhilite
-\i (08:10:16) xname_flush 
-\i (08:10:16) done 
-\i (08:10:16) generaledit 
-\e (08:10:16) Command not found: xdehilite
-\i (08:10:16) xname_flush 
-\i (08:10:16) done 
-\i (08:10:16) generaledit 
-\e (08:10:19) Command not found: xhilite
-\i (08:10:19) xname_flush 
-\i (08:10:19) done 
-\i (08:10:19) generaledit 
-\e (08:10:20) Command not found: xdehilite
-\i (08:10:20) xname_flush 
-\i (08:10:20) done 
-\i (08:10:20) generaledit 
-\e (08:10:21) Command not found: xhilite
-\i (08:10:21) xname_flush 
-\i (08:10:21) done 
-\i (08:10:21) generaledit 
-\e (08:10:21) Command not found: xdehilite
-\i (08:10:21) xname_flush 
-\i (08:10:21) done 
-\i (08:10:22) generaledit 
-\e (08:10:22) Command not found: xhilite
-\i (08:10:22) xname_flush 
-\i (08:10:22) done 
-\i (08:10:22) generaledit 
-\e (08:11:16) Command not found: xhilite
-\i (08:11:16) xname_flush 
-\i (08:11:16) done 
-\i (08:11:16) generaledit 
-\e (08:11:16) Command not found: xdehilite
-\i (08:11:16) xname_flush 
-\i (08:11:16) done 
-\i (08:11:16) generaledit 
-\e (08:11:19) Command not found: xhilite
-\i (08:11:19) xname_flush 
-\i (08:11:19) done 
-\i (08:11:19) generaledit 
-\e (08:11:19) Command not found: xdehilite
-\i (08:11:19) xname_flush 
-\i (08:11:19) done 
-\i (08:11:20) generaledit 
-\e (08:11:21) Command not found: xhilite
-\i (08:11:21) xname_flush 
-\i (08:11:21) done 
-\i (08:11:22) generaledit 
-\e (08:11:22) Command not found: xdehilite
-\i (08:11:22) xname_flush 
-\i (08:11:22) done 
-\i (08:11:22) generaledit 
-\e (08:15:16) Command not found: xhilite
-\i (08:15:16) xname_flush 
-\i (08:15:16) done 
-\i (08:15:16) generaledit 
-\e (08:15:18) Command not found: xdehilite
-\i (08:15:18) xname_flush 
-\i (08:15:18) done 
-\i (08:15:18) generaledit 
-\e (08:15:59) Command not found: xhilite
-\i (08:15:59) xname_flush 
-\i (08:15:59) done 
-\i (08:15:59) generaledit 
-\e (08:15:59) Command not found: xdehilite
-\i (08:15:59) xname_flush 
-\i (08:15:59) done 
-\i (08:16:00) generaledit 
-\e (08:16:01) Command not found: xdehilite
-\i (08:16:01) xname_flush 
-\i (08:16:01) done 
-\i (08:16:01) generaledit 
-\e (08:16:27) Command not found: xhilite
-\i (08:16:27) xname_flush 
-\i (08:16:27) done 
-\i (08:16:28) generaledit 
-\e (08:16:29) Command not found: xdehilite
-\i (08:16:29) xname_flush 
-\i (08:16:29) done 
-\i (08:16:30) generaledit 
-\e (08:16:38) Command not found: xhilite
-\i (08:16:38) xname_flush 
-\i (08:16:38) done 
-\i (08:16:38) generaledit 
-\e (08:16:39) Command not found: xdehilite
-\i (08:16:39) xname_flush 
-\i (08:16:39) done 
-\i (08:16:39) generaledit 
-\e (08:16:40) Command not found: xhilite
-\i (08:16:40) xname_flush 
-\i (08:16:40) done 
-\i (08:16:40) generaledit 
-\e (08:16:43) Command not found: xdehilite
-\i (08:16:43) xname_flush 
-\i (08:16:43) done 
-\i (08:16:43) generaledit 
-\e (08:16:44) Command not found: xhilite
-\i (08:16:44) xname_flush 
-\i (08:16:44) done 
-\i (08:16:45) generaledit 
-\e (08:16:45) Command not found: xdehilite
-\i (08:16:45) xname_flush 
-\i (08:16:45) done 
-\i (08:16:45) generaledit 
-\e (08:16:46) Command not found: xhilite
-\i (08:16:46) xname_flush 
-\i (08:16:46) done 
-\i (08:16:46) generaledit 
-\e (08:16:49) Command not found: xhilite
-\i (08:16:49) xname_flush 
-\i (08:16:49) done 
-\i (08:16:49) generaledit 
-\e (08:16:49) Command not found: xdehilite
-\i (08:16:49) xname_flush 
-\i (08:16:49) done 
-\e (08:16:49) Command not found: xh
+\t (00:25:33) allegro 16.6-2015 S115 (v16-6-112JF) Windows 32
+\t (00:25:33)     Journal start - Thu Aug 05 22:13:10 2021
+\t (00:25:33)         Host=JERRY-SONY User=Jerry Pid=9580 CPUs=4
+\t (00:25:33) CmdLine= D:\Cadence\Cadence_SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:25:33) 
+\t (00:25:33) Starting new design...
+\i (00:25:33) trapsize 1382
+\i (00:25:33) trapsize 1382
+\i (00:25:33) generaledit 
+\i (00:25:34) zoom out 1 
+\i (00:25:34) setwindow pcb
+\i (00:25:34) zoom out 1.3268 -0.0829
+\i (00:25:34) trapsize 1382
+\i (00:25:34) zoom out 1 
+\i (00:25:34) setwindow pcb
+\i (00:25:34) zoom out 1.3268 -0.0829
+\i (00:25:34) trapsize 1382
+\i (00:25:35) zoom in 1 
+\i (00:25:35) setwindow pcb
+\i (00:25:35) zoom in -0.7740 0.1106
+\i (00:25:35) trapsize 691
+\i (00:25:35) zoom out 1 
+\i (00:25:35) setwindow pcb
+\i (00:25:35) zoom out -3.1098 0.1106
+\i (00:25:35) trapsize 1382
+\i (00:25:35) zoom out 1 
+\i (00:25:35) setwindow pcb
+\i (00:25:35) zoom out 0.5805 0.1106
+\i (00:25:35) trapsize 1382
+\i (00:25:35) zoom out 1 
+\i (00:25:35) setwindow pcb
+\i (00:25:35) zoom out 0.5805 0.1106
+\i (00:25:35) trapsize 1382
+\i (00:25:37) add pin 
+\i (00:25:39) add pin 
+\t (00:25:39) Exiting from Add Pin.
+\i (00:25:40) add pin 
+\t (00:25:40) Exiting from Add Pin.
+\i (00:25:51) setwindow form.mini
+\i (00:25:51) FORM mini pad_browse  
+\t (00:25:56) No valid name selected.
+\i (00:27:06) fillin "S_R1r80x0r95"
+\w (00:27:06) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:27:06) Using 'S_R1R80X0R95.pad'.
+\i (00:27:10) FORM mini rotate_pin 90.000 
+\t (00:27:10) Using 'S_R1R80X0R95.pad'.
+\i (00:27:29) FORM mini x_spacing 2.5000 
+\i (00:27:42) FORM mini offsetx 0.0000 
+\i (00:28:02) setwindow pcb
+\i (00:28:02) pick -1.25 0 
+\t (00:28:02) last pick:  -1.2500 0.0000
+\t (00:28:02) Using 'S_R1R80X0R95.pad'.
+\i (00:28:10) pick 1.25 0 
+\t (00:28:10) last pick:  1.2500 0.0000
+\t (00:28:10) Using 'S_R1R80X0R95.pad'.
+\i (00:28:12) prepopup 4.5886 1.6033
+\i (00:28:12) done 
+\t (00:28:12) Exiting from Add Pin.
+\i (00:28:13) generaledit 
+\i (00:28:13) zoom in 1 
+\i (00:28:13) setwindow pcb
+\i (00:28:13) zoom in -0.3593 0.4146
+\i (00:28:13) trapsize 691
+\i (00:28:13) zoom in 1 
+\i (00:28:13) setwindow pcb
+\i (00:28:13) zoom in -3.6488 0.4146
+\i (00:28:13) trapsize 346
+\i (00:28:14) roam start
+\i (00:28:14) roam x 160
+\i (00:28:14) roam x 96
+\i (00:28:14) roam end
+\i (00:28:15) zoom in 1 
+\i (00:28:15) setwindow pcb
+\i (00:28:15) zoom in -0.4008 0.4423
+\i (00:28:15) trapsize 173
+\i (00:28:16) zoom out 1 
+\i (00:28:16) setwindow pcb
+\i (00:28:16) zoom out -0.4457 0.5529
+\i (00:28:16) trapsize 346
+\i (00:28:16) zoom out 1 
+\i (00:28:16) setwindow pcb
+\i (00:28:16) zoom out -0.4458 0.5529
+\i (00:28:16) trapsize 691
+\i (00:28:16) zoom in 1 
+\i (00:28:16) setwindow pcb
+\i (00:28:16) zoom in 0.5667 0.0831
+\i (00:28:16) trapsize 346
+\i (00:28:16) zoom in 1 
+\i (00:28:16) setwindow pcb
+\i (00:28:16) zoom in 0.5667 0.0831
+\i (00:28:16) trapsize 173
+\i (00:28:17) zoom out 1 
+\i (00:28:17) setwindow pcb
+\i (00:28:17) zoom out 0.3698 0.1384
+\i (00:28:17) trapsize 346
+\i (00:28:23) label refdes 
+\t (00:28:23) Pick text location.
+\i (00:28:26) setwindow form.mini
+\i (00:28:26) FORM mini subclass SILKSCREEN_TOP 
+\i (00:28:28) setwindow pcb
+\i (00:28:28) pick grid -0.3903 0.4218
+\t (00:28:28) last pick:  0.0000 0.0000
+\t (00:28:28) Enter text string.
+\i (00:28:28) setwindow pcb
+\i (00:28:28) pick grid -0.4802 0.7397
+\t (00:28:28) last pick:  0.0000 0.0000
+\t (00:28:28) Enter text string.
+\i (00:28:31) setwindow form.mini
+\i (00:28:31) FORM mini text_block 2 
+\i (00:28:32) setwindow pcb
+\i (00:28:32) pick grid 0.3215 0.4771
+\t (00:28:32) last pick:  0.0000 0.0000
+\t (00:28:32) Enter text string.
+\i (00:28:34) setwindow pcb
+\i (00:28:34) pick grid -1.4476 0.4563
+\t (00:28:34) last pick:  -2.5400 0.0000
+\t (00:28:34) Enter text string.
+\i (00:28:39) setwindow pcb
+\i (00:28:39) pick grid -0.3489 1.0437
+\t (00:28:39) last pick:  0.0000 0.0000
+\i (00:28:39) setwindow pcb
+\i (00:28:39) pick -2.5400 0.0000
+\i (00:28:39) zoom out 1 
+\i (00:28:39) setwindow pcb
+\i (00:28:39) zoom out -0.5631 0.7604
+\i (00:28:39) trapsize 691
+\i (00:28:40) zoom in 1 
+\i (00:28:40) setwindow pcb
+\i (00:28:40) zoom in -0.9813 -0.2071
+\i (00:28:40) trapsize 346
+\i (00:28:51) prepopup 0.4009 0.4840
+\i (00:28:56) done 
+\i (00:28:56) generaledit 
+\i (00:28:58) label refdes 
+\t (00:28:58) Pick text location.
+\i (00:29:01) setwindow form.mini
+\i (00:29:01) FORM mini class COMPONENT VALUE 
+\i (00:29:07) FORM mini subclass ASSEMBLY_TOP 
+\i (00:29:08) setwindow pcb
+\i (00:29:08) pick grid -1.6861 -0.2070
+\t (00:29:08) last pick:  -2.5400 0.0000
+\t (00:29:08) Enter text string.
+\i (00:29:13) setwindow pcb
+\i (00:29:13) pick grid 0.0830 -0.8013
+\t (00:29:13) last pick:  0.0000 0.0000
+\i (00:29:13) setwindow pcb
+\i (00:29:13) pick -2.5400 0.0000
+\t (00:29:13) Enter text string.
+\i (00:29:14) setwindow pcb
+\i (00:29:14) zoom out 1 
+\i (00:29:14) setwindow pcb
+\i (00:29:14) zoom out 0.1728 -0.4627
+\i (00:29:14) trapsize 691
+\i (00:29:15) zoom in 1 
+\i (00:29:15) setwindow pcb
+\i (00:29:15) zoom in 0.3732 0.4356
+\i (00:29:15) trapsize 346
+\i (00:29:15) zoom in 1 
+\i (00:29:15) setwindow pcb
+\i (00:29:15) zoom in 0.3732 0.4357
+\i (00:29:15) trapsize 173
+\i (00:29:16) zoom out 1 
+\i (00:29:16) setwindow pcb
+\i (00:29:16) zoom out 0.2350 0.4495
+\i (00:29:16) trapsize 346
+\i (00:29:16) zoom out 1 
+\i (00:29:16) setwindow pcb
+\i (00:29:16) zoom out 0.2419 0.4426
+\i (00:29:16) trapsize 691
+\i (00:29:16) zoom in 1 
+\i (00:29:16) setwindow pcb
+\i (00:29:16) zoom in -0.2350 0.2214
+\i (00:29:16) trapsize 346
+\i (00:29:16) zoom in 1 
+\i (00:29:16) setwindow pcb
+\i (00:29:16) zoom in -0.2350 0.2214
+\i (00:29:16) trapsize 173
+\i (00:29:17) zoom out 1 
+\i (00:29:17) setwindow pcb
+\i (00:29:17) zoom out -0.2453 0.1523
+\i (00:29:17) trapsize 346
+\i (00:29:17) zoom out 1 
+\i (00:29:17) setwindow pcb
+\i (00:29:17) zoom out -0.2453 0.1524
+\i (00:29:17) trapsize 691
+\i (00:29:17) zoom in 1 
+\i (00:29:18) setwindow pcb
+\i (00:29:18) zoom in -0.2764 0.1524
+\i (00:29:18) trapsize 346
+\i (00:29:18) zoom in 1 
+\i (00:29:18) setwindow pcb
+\i (00:29:18) zoom in -0.2764 0.1524
+\i (00:29:18) trapsize 173
+\i (00:29:18) zoom out 1 
+\i (00:29:18) setwindow pcb
+\i (00:29:18) zoom out -0.2764 0.1524
+\i (00:29:18) trapsize 346
+\i (00:29:19) zoom in 1 
+\i (00:29:19) setwindow pcb
+\i (00:29:19) zoom in -0.2764 0.1594
+\i (00:29:19) trapsize 173
+\i (00:29:19) zoom out 1 
+\i (00:29:19) setwindow pcb
+\i (00:29:19) zoom out -0.2764 0.1594
+\i (00:29:19) trapsize 346
+\i (00:29:24) prepopup -0.1244 0.9818
+\i (00:29:25) done 
+\i (00:29:25) generaledit 
+\i (00:29:27) save 
+\t (00:29:28) Symbol 'cry3215.psm' created.
+\i (00:29:28) generaledit 
+\i (00:29:36) pick grid -1.8313 1.2167
+\t (00:29:36) last pick:  -2.5400 0.0000
+\i (00:29:38) pick grid -1.8244 1.2306
+\t (00:29:38) last pick:  -2.5400 0.0000
+\i (00:29:38) pick grid -1.6793 1.2444
+\t (00:29:38) last pick:  -2.5400 0.0000
+\i (00:29:39) pick grid -1.8451 1.2306
+\t (00:29:39) last pick:  -2.5400 0.0000
+\i (00:29:40) pick grid -1.8106 1.2236
+\t (00:29:40) last pick:  -2.5400 0.0000
+\i (00:29:41) pick grid -1.8175 1.2928
+\t (00:29:41) last pick:  -2.5400 2.5400
+\i (00:29:50) prepopup -2.8333 0.0903
+\i (00:29:51) pop dyn_option_select 'Quick Utilities@:@Grids...' 
+\i (00:29:51) define grid 
+\t (00:29:51) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (00:29:51) generaledit 
+\i (00:29:54) setwindow form.grid
+\i (00:29:54) FORM grid done  
+\i (00:29:54) setwindow pcb
+\i (00:29:54) prepopup -2.8748 0.8574
+\i (00:29:55) pick grid -2.9577 1.0647
+\t (00:29:55) last pick:  -2.5400 0.0000
+\i (00:29:58) param in 
+\i (00:29:59) setwindow form.parm_in
+\i (00:29:59) FORM parm_in libbrowse  
+\i (00:30:03) fillin "createSymbols_MM"
+\i (00:30:04) FORM parm_in execute  
+\t (00:30:04) Starting Importing parameter file...
+\t (00:30:04) Opening existing design...
+\i (00:30:04) setwindow pcb
+\i (00:30:04) trapsize 346
+\t (00:30:05) Parameter file read completed.
+\i (00:30:06) setwindow form.parm_in
+\i (00:30:06) FORM parm_in cancel  
+\i (00:30:06) setwindow pcb
+\i (00:30:06) generaledit 
+\i (00:30:06) pick grid -2.9715 0.3875
+\t (00:30:06) last pick:  -3.0000 0.4000
+\i (00:30:08) prepopup -2.1906 0.3184
+\i (00:30:08) pop dyn_option_select @:@Move 
+\i (00:30:08) move 
+\t (00:30:08) last pick:  -2.2000 0.3000
+\t (00:30:08) last pick:  -2.5400 0.0000
+\t (00:30:08) Pick new location for the element(s).
+\i (00:30:10) pick grid -1.2646 -0.5524
+\t (00:30:10) last pick:  -1.3000 -0.6000
+\i (00:30:10) generaledit 
+\i (00:30:10) pick grid -2.2805 0.5810
+\t (00:30:10) last pick:  -2.3000 0.6000
+\i (00:30:11) prepopup -2.2805 0.5810
+\i (00:30:11) pop dyn_option_select @:@Move 
+\i (00:30:11) move 
+\t (00:30:11) last pick:  -2.3000 0.6000
+\t (00:30:11) last pick:  -2.5400 0.0000
+\t (00:30:11) Pick new location for the element(s).
+\i (00:30:13) pick grid -1.3061 0.0419
+\t (00:30:13) last pick:  -1.3000 0.0000
+\i (00:30:13) generaledit 
+\i (00:30:13) pick grid -2.5569 0.2354
+\t (00:30:13) last pick:  -2.6000 0.2000
+\i (00:30:14) prepopup -2.3910 0.1940
+\i (00:30:16) pick grid -2.7919 0.7952
+\t (00:30:16) last pick:  -2.8000 0.8000
+\i (00:30:18) pick grid -3.3032 0.1871
+\t (00:30:18) last pick:  -3.3000 0.2000
+\i (00:30:57) shape add rect 
+\i (00:31:00) setwindow form.mini
+\i (00:31:00) FORM mini class PACKAGE GEOMETRY 
+\i (00:31:05) FORM mini subclass PLACE_BOUND_TOP 
+\i (00:31:21) setwindow pcb
+\i (00:31:21) pick -1.6 -0.75 
+\t (00:31:21) last pick:  -1.6000 -0.7500
+\i (00:31:29) pick 1.6 0.75 
+\t (00:31:29) last pick:  1.6000 0.7500
+\i (00:31:33) prepopup -2.4256 0.8297
+\i (00:31:34) done 
+\i (00:31:34) generaledit 
+\i (00:31:42) shape add rect 
+\i (00:31:51) setwindow form.mini
+\i (00:31:51) FORM mini subclass DFA_BOUND_TOP 
+\i (00:32:47) setwindow pcb
+\i (00:32:47) pick -1.8 -0.9 
+\t (00:32:47) last pick:  -1.8000 -0.9000
+\i (00:32:54) prepopup -0.1589 0.0903
+\i (00:32:55) oops 
+\i (00:33:01) shape add rect 
+\i (00:33:06) pick -1.8 -1 
+\t (00:33:06) last pick:  -1.8000 -1.0000
+\i (00:33:13) pick 1.8 1 
+\t (00:33:13) last pick:  1.8000 1.0000
+\i (00:33:17) zoom in 1 
+\i (00:33:17) setwindow pcb
+\i (00:33:17) zoom in 1.7415 0.3115
+\i (00:33:17) trapsize 173
+\i (00:33:18) zoom in 1 
+\i (00:33:18) setwindow pcb
+\i (00:33:18) zoom in 1.7968 0.3461
+\i (00:33:18) trapsize 86
+\i (00:33:18) zoom out 1 
+\i (00:33:18) setwindow pcb
+\i (00:33:18) zoom out 1.7882 0.3168
+\i (00:33:18) trapsize 173
+\i (00:33:18) zoom out 1 
+\i (00:33:18) setwindow pcb
+\i (00:33:18) zoom out 1.7537 0.2442
+\i (00:33:18) trapsize 346
+\i (00:33:19) zoom in 1 
+\i (00:33:19) setwindow pcb
+\i (00:33:19) zoom in -1.8053 0.7624
+\i (00:33:19) trapsize 173
+\i (00:33:19) zoom out 1 
+\i (00:33:19) setwindow pcb
+\i (00:33:19) zoom out -1.7846 0.7520
+\i (00:33:20) trapsize 346
+\i (00:33:22) prepopup 2.0785 0.7521
+\i (00:33:23) done 
+\i (00:33:23) generaledit 
+\i (00:33:24) pick grid 2.2858 0.9733
+\t (00:33:24) last pick:  2.3000 1.0000
+\i (00:33:33) add line 
+\i (00:33:39) setwindow form.mini
+\i (00:33:39) FORM mini line_width 0.2000 
+\i (00:33:45) FORM mini subclass SILKSCREEN_TOP 
+\i (00:34:09) setwindow pcb
+\i (00:34:09) pick grid -1.8605 -1.0239
+\t (00:34:09) last pick:  -1.9000 -1.0000
+\i (00:34:11) prepopup -1.8674 0.4688
+\i (00:34:12) oops 
+\i (00:34:14) pick grid -1.9503 1.0009
+\t (00:34:14) last pick:  -2.0000 1.0000
+\i (00:34:17) pick grid -2.0195 -1.0515
+\t (00:34:17) last pick:  -2.0000 -1.1000
+\i (00:34:20) pick grid 1.9472 -1.1137
+\t (00:34:20) last pick:  1.9000 -1.1000
+\i (00:34:24) pick grid 1.9610 -1.1276
+\t (00:34:24) last pick:  2.0000 -1.1000
+\i (00:34:27) pick grid 1.9887 1.0562
+\t (00:34:27) last pick:  2.0000 1.1000
+\i (00:34:30) pick grid -1.9503 1.1115
+\t (00:34:30) last pick:  -2.0000 1.1000
+\t (00:34:30) last pick:  -2.0000 1.0000
+\i (00:34:31) prepopup -1.9573 1.1944
+\i (00:34:31) oops 
+\t (00:34:31) last pick:  2.0000 1.1000
+\i (00:34:33) pick grid -1.8398 1.1460
+\t (00:34:33) last pick:  -1.8000 1.1000
+\i (00:34:34) zoom in 1 
+\i (00:34:34) setwindow pcb
+\i (00:34:34) zoom in -1.9780 1.0976
+\i (00:34:34) trapsize 173
+\i (00:34:34) zoom in 1 
+\i (00:34:34) setwindow pcb
+\i (00:34:34) zoom in -1.9780 1.0976
+\i (00:34:34) trapsize 86
+\i (00:34:36) pick grid -1.9780 1.0977
+\t (00:34:36) last pick:  -2.0000 1.1000
+\t (00:34:36) last pick:  -2.0000 1.0000
+\i (00:34:36) prepopup -1.9832 1.1046
+\i (00:34:37) oops 
+\t (00:34:37) last pick:  -1.8000 1.1000
+\i (00:34:38) pick grid -1.9832 1.1046
+\t (00:34:38) last pick:  -2.0000 1.1000
+\t (00:34:38) last pick:  -2.0000 1.0000
+\i (00:34:39) prepopup -1.9573 1.0977
+\i (00:34:40) oops 
+\t (00:34:40) last pick:  -1.8000 1.1000
+\i (00:34:41) pick grid -2.1473 1.0942
+\t (00:34:41) last pick:  -2.1000 1.1000
+\i (00:34:42) prepopup -2.1214 1.0856
+\i (00:34:42) oops 
+\t (00:34:42) last pick:  -1.8000 1.1000
+\i (00:34:43) pick grid -2.0402 1.0856
+\t (00:34:43) last pick:  -2.0000 1.1000
+\t (00:34:43) last pick:  -2.0000 1.0000
+\i (00:34:44) prepopup -1.9866 1.1080
+\i (00:34:45) oops 
+\t (00:34:45) last pick:  -1.8000 1.1000
+\i (00:34:47) pick grid -1.5426 1.0925
+\t (00:34:47) last pick:  -1.5000 1.1000
+\e (00:34:47) ERROR(SPMHA1-415): Line segments cannot overlap.
+\t (00:34:47) last pick:  -1.8000 1.1000
+\i (00:34:48) prepopup -1.5876 1.1132
+\i (00:34:48) oops 
+\t (00:34:48) last pick:  2.0000 1.1000
+\i (00:34:50) pick grid -1.9538 1.1391
+\t (00:34:50) last pick:  -2.0000 1.1000
+\i (00:34:51) prepopup -2.0022 1.1391
+\i (00:34:51) done 
+\i (00:34:52) generaledit 
+\i (00:34:53) prepopup -2.0644 1.0182
+\i (00:34:55) pop dyn_option_select '@:@Move vertex' 
+\i (00:34:55) vertex 
+\t (00:34:55) last pick:  -2.0000 1.0000
+\i (00:34:56) pick grid -2.0488 1.1236
+\t (00:34:56) last pick:  -2.0000 1.1000
+\t (00:34:56) No DRC errors detected.
+\i (00:34:56) generaledit 
+\i (00:34:57) zoom out 1 
+\i (00:34:57) setwindow pcb
+\i (00:34:57) zoom out -2.2130 1.0199
+\i (00:34:57) trapsize 173
+\i (00:34:57) zoom out 1 
+\i (00:34:57) setwindow pcb
+\i (00:34:57) zoom out -2.2129 1.0130
+\i (00:34:57) trapsize 346
+\i (00:34:57) zoom out 1 
+\i (00:34:57) setwindow pcb
+\i (00:34:57) zoom out -2.2060 1.0061
+\i (00:34:57) trapsize 691
+\i (00:34:58) pick grid -3.0959 0.8818
+\t (00:34:58) last pick:  -3.1000 0.9000
+\i (00:34:58) zoom in 1 
+\i (00:34:58) setwindow pcb
+\i (00:34:58) zoom in -0.1520 0.1631
+\i (00:34:58) trapsize 346
+\i (00:35:03) pick grid 2.6813 0.6054
+\t (00:35:03) last pick:  2.7000 0.6000
+\i (00:35:05) add line 
+\i (00:35:11) pick grid -0.2557 0.5915
+\t (00:35:11) last pick:  -0.3000 0.6000
+\i (00:35:14) pick grid 0.3455 0.5915
+\t (00:35:14) last pick:  0.3000 0.6000
+\i (00:35:23) pick grid 0.3110 -0.5556
+\t (00:35:23) last pick:  0.3000 -0.6000
+\i (00:35:24) pick grid -0.1520 -0.5763
+\t (00:35:24) last pick:  -0.2000 -0.6000
+\i (00:35:25) pick grid -0.2764 -0.5556
+\t (00:35:25) last pick:  -0.3000 -0.6000
+\i (00:35:27) pick grid -0.2626 0.6468
+\t (00:35:27) last pick:  -0.3000 0.6000
+\i (00:35:27) prepopup -0.1935 0.3911
+\i (00:35:28) done 
+\i (00:35:28) generaledit 
+\i (00:35:33) pick grid -0.6772 0.1216
+\t (00:35:33) last pick:  -0.7000 0.1000
+\i (00:35:35) add line 
+\i (00:35:37) pick grid -0.6496 0.1285
+\t (00:35:37) last pick:  -0.6000 0.1000
+\i (00:35:40) pick grid -0.2557 0.1078
+\t (00:35:40) last pick:  -0.3000 0.1000
+\i (00:35:41) prepopup -0.1313 0.1216
+\i (00:35:42) done 
+\i (00:35:42) generaledit 
+\i (00:35:43) zoom in 1 
+\i (00:35:43) setwindow pcb
+\i (00:35:43) zoom in -0.0414 0.0802
+\i (00:35:43) trapsize 173
+\i (00:35:50) setwindow form.find
+\i (00:35:50) FORM find all_off  
+\i (00:35:51) FORM find clines YES 
+\i (00:35:53) setwindow pcb
+\i (00:35:53) pick grid 0.6496 0.1286
+\t (00:35:53) last pick:  0.6000 0.1000
+\i (00:35:58) setwindow form.find
+\i (00:35:58) FORM find lines YES 
+\i (00:35:59) setwindow pcb
+\i (00:35:59) prepopup -0.5494 0.0595
+\i (00:36:00) pop dyn_option_select @:@Move 
+\i (00:36:00) move 
+\t (00:36:00) last pick:  -0.5000 0.1000
+\t (00:36:00) last pick:  -0.5000 0.1000
+\t (00:36:00) Element has no origin, using pick.
+\t (00:36:00) Pick new location for the element(s).
+\i (00:36:02) pick grid -0.5079 -0.0476
+\t (00:36:02) last pick:  -0.5000 0.0000
+\i (00:36:02) generaledit 
+\i (00:36:03) prepopup -0.5079 -0.0027
+\i (00:36:04) pop dyn_option_select @:@Copy 
+\i (00:36:04) copy 
+\i (00:36:05) pick grid 0.4492 -0.0165
+\t (00:36:05) last pick:  0.4000 0.0000
+\i (00:36:06) zoom out 1 
+\i (00:36:06) setwindow pcb
+\i (00:36:06) zoom out 0.4181 0.3117
+\i (00:36:06) trapsize 346
+\i (00:36:06) zoom out 1 
+\i (00:36:06) setwindow pcb
+\i (00:36:06) zoom out 0.4112 0.3118
+\i (00:36:06) trapsize 691
+\i (00:36:07) prepopup -0.0138 1.8735
+\i (00:36:08) done 
+\i (00:36:08) generaledit 
+\i (00:36:09) save 
+\i (00:36:11) fillin yes 
+\t (00:36:11) Symbol 'cry3215.psm' created.
+\i (00:36:11) generaledit 
+\i (00:36:11) pick grid 2.6260 -2.0102
+\t (00:36:11) last pick:  2.6000 -2.0000
+\i (00:36:12) zoom in 1 
+\i (00:36:12) setwindow pcb
+\i (00:36:12) zoom in -0.4285 0.4638
+\i (00:36:12) trapsize 346
+\i (00:36:12) zoom in 1 
+\i (00:36:12) setwindow pcb
+\i (00:36:12) zoom in -0.4284 0.4638
+\i (00:36:12) trapsize 173
+\i (00:36:13) zoom out 1 
+\i (00:36:13) setwindow pcb
+\i (00:36:13) zoom out -0.0380 0.2289
+\i (00:36:13) trapsize 346
+\i (00:36:18) pick grid 2.5743 -0.1167
+\t (00:36:18) last pick:  2.6000 -0.1000
+\i (00:36:31) exit 
+\t (00:36:32)     Journal end - Thu Aug 05 22:24:08 2021

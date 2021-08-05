@@ -2,15 +2,15 @@
 (                                                                     )
 (    Parameter File READ                                              )
 (                                                                     )
-(    Drawing          : 6045.dra                                      )
+(    Drawing          : MB102.dra                                     )
 (    Software Version : 16.6-2015S108                                 )
-(    Date/Time        : Wed Jul 28 15:20:01 2021                      )
+(    Date/Time        : Wed Jul 28 16:45:37 2021                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
 	Paramfile Name : D:/Cadence/lib/allegro/prm/createSymbols.prm
-	Layout Name   : D:/Cadence/lib/allegro/psm_draSymbols/6045.dra
+	Layout Name   : MB102.dra
 
 Reading...parameter_header:
 Reading...db_common_type:
