@@ -1,0 +1,85 @@
+\t (00:00:35) pad_designer 16.6-2015 S069 (v16-6-112FN) Windows 32
+\t (00:00:35)     Journal start - Fri Aug 06 12:05:06 2021
+\t (00:00:35)         Host=DESKTOP-9H2V1I1 User=MikeJ Pid=14032 CPUs=8
+\t (00:00:35) CmdLine= D:\Cadence\Cadence_SPB_16.6\tools\pcb\bin\pad_designer.exe
+\t (00:00:35) 
+\i (00:00:37) FORM padedit layers  
+\i (00:00:40) FORM padedit grid row pastemask_top 
+\i (00:00:48) FORM padedit grid row soldermask_top 
+\i (00:00:50) FORM padedit grid row begin_layer 
+\i (00:00:51) FORM padedit grid row soldermask_top 
+\i (00:00:52) FORM padedit grid row begin_layer 
+\i (00:00:53) FORM padedit grid row soldermask_top 
+\i (00:00:53) FORM padedit grid row begin_layer 
+\i (00:00:54) FORM padedit grid row soldermask_top 
+\i (00:00:54) FORM padedit grid row begin_layer 
+\i (00:00:55) FORM padedit grid row soldermask_top 
+\i (00:00:56) FORM padedit grid row begin_layer 
+\i (00:00:56) FORM padedit grid row soldermask_top 
+\i (00:00:57) FORM padedit grid row pastemask_top 
+\i (00:01:05) FORM padedit grid rpopup pastemask_top Delete 
+\e (00:01:05) Could not delete layer.
+\i (00:01:08) FORM padedit geometry Null 
+\i (00:01:13) pse_save 
+\i (00:01:16) fillin yes 
+\i (00:26:59) pse_open 
+\i (03:40:53) fillin "c40_no-psmk.pad"
+\i (03:40:56) FORM padedit parameters  
+\i (03:41:00) FORM padedit layers  
+\i (03:41:02) FORM padedit parameters  
+\i (03:41:03) pse_exit
+\t (03:41:03)     Journal end - Fri Aug 06 15:45:34 2021
+00) FORM padedit geometry_th Null 
+\i (00:43:03) FORM padedit grid row gnd02 
+\i (00:43:05) FORM padedit grid row l3 
+\i (00:43:05) FORM padedit grid row gnd02 
+\i (00:43:09) FORM padedit grid rpopup gnd02 Delete 
+\i (00:43:11) FORM padedit grid rpopup l3 Delete 
+\i (00:43:13) FORM padedit grid rpopup l4 Delete 
+\i (00:43:15) FORM padedit grid rpopup vcc05 Delete 
+\i (00:43:22) FORM padedit grid row default_internal 
+\i (00:43:24) FORM padedit geometry_th Null 
+\i (00:43:25) FORM padedit grid row end_layer 
+\i (00:43:28) FORM padedit geometry_th Null 
+\i (00:43:30) FORM padedit geometry_ant Null 
+\i (00:43:31) FORM padedit grid row begin_layer 
+\i (00:43:33) FORM padedit geometry_ant Null 
+\i (00:43:34) FORM padedit grid row default_internal 
+\i (00:43:35) FORM padedit geometry_ant Null 
+\i (00:43:52) FORM padedit parameters  
+\i (00:43:57) FORM padedit hole_size_x 65 
+\i (00:44:01) FORM padedit drill_width 65 
+\i (00:44:02) FORM padedit drill_height 65 
+\i (00:44:08) FORM padedit layers  
+\i (00:44:18) FORM padedit width 120 
+\i (00:44:19) FORM padedit height 120 
+\i (00:44:31) FORM padedit grid row begin_layer 
+\i (00:44:35) FORM padedit width 120 
+\i (00:44:37) FORM padedit grid row end_layer 
+\i (00:44:41) FORM padedit width 120 
+\i (00:44:44) FORM padedit grid row soldermask_top 
+\i (00:44:48) FORM padedit width 130 
+\i (00:44:50) FORM padedit grid row soldermask_bottom 
+\i (00:44:53) FORM padedit width 130 
+\i (00:45:03) FORM padedit parameters  
+\i (00:45:04) FORM padedit layers  
+\i (00:45:04) FORM padedit parameters  
+\i (00:45:04) FORM padedit layers  
+\i (00:45:05) FORM padedit parameters  
+\i (00:45:05) FORM padedit layers  
+\i (00:45:05) FORM padedit parameters  
+\i (00:45:06) FORM padedit layers  
+\i (00:45:08) about 
+\i (00:45:15) about 
+\i (00:45:17) FORM padedit parameters  
+\i (00:45:19) FORM padedit layers  
+\i (00:45:20) FORM padedit parameters  
+\i (00:45:21) FORM padedit layers  
+\i (00:45:21) FORM padedit parameters  
+\i (00:45:23) pse_save_as 
+\i (00:45:35) fillin "th65_120.pad"
+\i (00:45:37) FORM padedit layers  
+\i (00:45:38) FORM padedit parameters  
+\i (00:45:38) FORM padedit layers  
+\i (00:45:39) pse_exit
+\t (00:45:39)     Journal end - Fri Aug 06 13:18:32 2021
