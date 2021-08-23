@@ -16,7 +16,7 @@
       <character_space>0.10 MIL</character_space>
       <line_space>0.10 MIL</line_space>
       <text_font>0.00 MIL</text_font>
-      <photoplot_width>0.00 MIL</photoplot_width>
+      <photoplot_width>1.00 MIL</photoplot_width>
     </array>
     <array>
       <text_slant>0.000</text_slant>
@@ -56,12 +56,12 @@
     </array>
     <array>
       <text_slant>0.000</text_slant>
-      <text_height>160.00 MIL</text_height>
-      <text_width>120.00 MIL</text_width>
-      <character_space>0.00 MIL</character_space>
-      <line_space>0.00 MIL</line_space>
+      <text_height>20.00 MIL</text_height>
+      <text_width>20.00 MIL</text_width>
+      <character_space>0.01 MIL</character_space>
+      <line_space>0.01 MIL</line_space>
       <text_font>0.00 MIL</text_font>
-      <photoplot_width>0.00 MIL</photoplot_width>
+      <photoplot_width>5.00 MIL</photoplot_width>
     </array>
     <array>
       <text_slant>0.000</text_slant>
