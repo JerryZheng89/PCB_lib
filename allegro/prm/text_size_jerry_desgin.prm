@@ -11,579 +11,579 @@
     </header>
     <array>
       <text_slant>0.000</text_slant>
-      <text_height>7.00 MIL</text_height>
-      <text_width>4.00 MIL</text_width>
-      <character_space>0.10 MIL</character_space>
-      <line_space>0.10 MIL</line_space>
-      <text_font>0.00 MIL</text_font>
-      <photoplot_width>1.00 MIL</photoplot_width>
+      <text_height>0.1778 MM</text_height>
+      <text_width>0.1016 MM</text_width>
+      <character_space>0.0025 MM</character_space>
+      <line_space>0.0025 MM</line_space>
+      <text_font>0.0000 MM</text_font>
+      <photoplot_width>0.0254 MM</photoplot_width>
     </array>
     <array>
       <text_slant>0.000</text_slant>
-      <text_height>26.00 MIL</text_height>
-      <text_width>24.00 MIL</text_width>
-      <character_space>0.01 MIL</character_space>
-      <line_space>0.01 MIL</line_space>
-      <text_font>0.00 MIL</text_font>
-      <photoplot_width>5.00 MIL</photoplot_width>
+      <text_height>0.6604 MM</text_height>
+      <text_width>0.6096 MM</text_width>
+      <character_space>0.0003 MM</character_space>
+      <line_space>0.0003 MM</line_space>
+      <text_font>0.0000 MM</text_font>
+      <photoplot_width>0.1270 MM</photoplot_width>
     </array>
     <array>
       <text_slant>0.000</text_slant>
-      <text_height>30.00 MIL</text_height>
-      <text_width>30.00 MIL</text_width>
-      <character_space>0.00 MIL</character_space>
-      <line_space>0.00 MIL</line_space>
-      <text_font>0.00 MIL</text_font>
-      <photoplot_width>6.00 MIL</photoplot_width>
+      <text_height>0.7620 MM</text_height>
+      <text_width>0.7620 MM</text_width>
+      <character_space>0.0000 MM</character_space>
+      <line_space>0.0000 MM</line_space>
+      <text_font>0.0000 MM</text_font>
+      <photoplot_width>0.1524 MM</photoplot_width>
     </array>
     <array>
       <text_slant>0.000</text_slant>
-      <text_height>63.00 MIL</text_height>
-      <text_width>47.00 MIL</text_width>
-      <character_space>16.00 MIL</character_space>
-      <line_space>79.00 MIL</line_space>
-      <text_font>0.00 MIL</text_font>
-      <photoplot_width>8.00 MIL</photoplot_width>
+      <text_height>1.6002 MM</text_height>
+      <text_width>1.1938 MM</text_width>
+      <character_space>0.4064 MM</character_space>
+      <line_space>2.0066 MM</line_space>
+      <text_font>0.0000 MM</text_font>
+      <photoplot_width>0.2032 MM</photoplot_width>
     </array>
     <array>
       <text_slant>0.000</text_slant>
-      <text_height>125.00 MIL</text_height>
-      <text_width>93.00 MIL</text_width>
-      <character_space>31.00 MIL</character_space>
-      <line_space>156.00 MIL</line_space>
-      <text_font>0.00 MIL</text_font>
-      <photoplot_width>0.00 MIL</photoplot_width>
+      <text_height>3.1750 MM</text_height>
+      <text_width>2.3622 MM</text_width>
+      <character_space>0.7874 MM</character_space>
+      <line_space>3.9624 MM</line_space>
+      <text_font>0.0000 MM</text_font>
+      <photoplot_width>0.0000 MM</photoplot_width>
     </array>
     <array>
       <text_slant>0.000</text_slant>
-      <text_height>20.00 MIL</text_height>
-      <text_width>20.00 MIL</text_width>
-      <character_space>0.01 MIL</character_space>
-      <line_space>0.01 MIL</line_space>
-      <text_font>0.00 MIL</text_font>
-      <photoplot_width>5.00 MIL</photoplot_width>
+      <text_height>0.5080 MM</text_height>
+      <text_width>0.5080 MM</text_width>
+      <character_space>0.0003 MM</character_space>
+      <line_space>0.0003 MM</line_space>
+      <text_font>0.0000 MM</text_font>
+      <photoplot_width>0.1270 MM</photoplot_width>
     </array>
     <array>
       <text_slant>0.000</text_slant>
-      <text_height>50.00 MIL</text_height>
-      <text_width>40.00 MIL</text_width>
-      <character_space>5.00 MIL</character_space>
-      <line_space>15.00 MIL</line_space>
-      <text_font>0.00 MIL</text_font>
-      <photoplot_width>0.00 MIL</photoplot_width>
+      <text_height>1.2700 MM</text_height>
+      <text_width>1.0160 MM</text_width>
+      <character_space>0.1270 MM</character_space>
+      <line_space>0.3810 MM</line_space>
+      <text_font>0.0000 MM</text_font>
+      <photoplot_width>0.0000 MM</photoplot_width>
     </array>
     <array>
       <text_slant>0.000</text_slant>
-      <text_height>36.00 MIL</text_height>
-      <text_width>29.00 MIL</text_width>
-      <character_space>0.00 MIL</character_space>
-      <line_space>0.00 MIL</line_space>
-      <text_font>0.00 MIL</text_font>
-      <photoplot_width>0.00 MIL</photoplot_width>
+      <text_height>0.9144 MM</text_height>
+      <text_width>0.7366 MM</text_width>
+      <character_space>0.0000 MM</character_space>
+      <line_space>0.0000 MM</line_space>
+      <text_font>0.0000 MM</text_font>
+      <photoplot_width>0.0000 MM</photoplot_width>
     </array>
     <array>
       <text_slant>0.000</text_slant>
-      <text_height>30.00 MIL</text_height>
-      <text_width>30.00 MIL</text_width>
-      <character_space>31.00 MIL</character_space>
-      <line_space>10.00 MIL</line_space>
-      <text_font>0.00 MIL</text_font>
-      <photoplot_width>6.00 MIL</photoplot_width>
+      <text_height>0.5000 MM</text_height>
+      <text_width>0.5000 MM</text_width>
+      <character_space>0.0010 MM</character_space>
+      <line_space>0.0010 MM</line_space>
+      <text_font>0.0000 MM</text_font>
+      <photoplot_width>0.0200 MM</photoplot_width>
     </array>
     <array>
       <text_slant>0.000</text_slant>
-      <text_height>25.00 MIL</text_height>
-      <text_width>16.00 MIL</text_width>
-      <character_space>6.00 MIL</character_space>
-      <line_space>31.00 MIL</line_space>
-      <text_font>0.00 MIL</text_font>
-      <photoplot_width>0.00 MIL</photoplot_width>
+      <text_height>0.6350 MM</text_height>
+      <text_width>0.4064 MM</text_width>
+      <character_space>0.1524 MM</character_space>
+      <line_space>0.7874 MM</line_space>
+      <text_font>0.0000 MM</text_font>
+      <photoplot_width>0.0000 MM</photoplot_width>
     </array>
     <array>
       <text_slant>0.000</text_slant>
-      <text_height>51.00 MIL</text_height>
-      <text_width>39.00 MIL</text_width>
-      <character_space>12.00 MIL</character_space>
-      <line_space>63.00 MIL</line_space>
-      <text_font>0.00 MIL</text_font>
-      <photoplot_width>0.00 MIL</photoplot_width>
+      <text_height>1.2954 MM</text_height>
+      <text_width>0.9906 MM</text_width>
+      <character_space>0.3048 MM</character_space>
+      <line_space>1.6002 MM</line_space>
+      <text_font>0.0000 MM</text_font>
+      <photoplot_width>0.0000 MM</photoplot_width>
     </array>
     <array>
       <text_slant>0.000</text_slant>
-      <text_height>36.00 MIL</text_height>
-      <text_width>29.00 MIL</text_width>
-      <character_space>0.00 MIL</character_space>
-      <line_space>0.00 MIL</line_space>
-      <text_font>0.00 MIL</text_font>
-      <photoplot_width>0.00 MIL</photoplot_width>
+      <text_height>0.9144 MM</text_height>
+      <text_width>0.7366 MM</text_width>
+      <character_space>0.0000 MM</character_space>
+      <line_space>0.0000 MM</line_space>
+      <text_font>0.0000 MM</text_font>
+      <photoplot_width>0.0000 MM</photoplot_width>
     </array>
     <array>
       <text_slant>0.000</text_slant>
-      <text_height>35.00 MIL</text_height>
-      <text_width>25.00 MIL</text_width>
-      <character_space>8.00 MIL</character_space>
-      <line_space>40.00 MIL</line_space>
-      <text_font>0.00 MIL</text_font>
-      <photoplot_width>0.00 MIL</photoplot_width>
+      <text_height>0.8890 MM</text_height>
+      <text_width>0.6350 MM</text_width>
+      <character_space>0.2032 MM</character_space>
+      <line_space>1.0160 MM</line_space>
+      <text_font>0.0000 MM</text_font>
+      <photoplot_width>0.0000 MM</photoplot_width>
     </array>
     <array>
       <text_slant>0.000</text_slant>
-      <text_height>30.00 MIL</text_height>
-      <text_width>20.00 MIL</text_width>
-      <character_space>5.00 MIL</character_space>
-      <line_space>0.00 MIL</line_space>
-      <text_font>0.00 MIL</text_font>
-      <photoplot_width>0.00 MIL</photoplot_width>
+      <text_height>0.7620 MM</text_height>
+      <text_width>0.5080 MM</text_width>
+      <character_space>0.1270 MM</character_space>
+      <line_space>0.0000 MM</line_space>
+      <text_font>0.0000 MM</text_font>
+      <photoplot_width>0.0000 MM</photoplot_width>
     </array>
     <array>
       <text_slant>0.000</text_slant>
-      <text_height>0.01 MIL</text_height>
-      <text_width>0.01 MIL</text_width>
-      <character_space>0.00 MIL</character_space>
-      <line_space>0.00 MIL</line_space>
-      <text_font>0.00 MIL</text_font>
-      <photoplot_width>0.00 MIL</photoplot_width>
+      <text_height>0.0003 MM</text_height>
+      <text_width>0.0003 MM</text_width>
+      <character_space>0.0000 MM</character_space>
+      <line_space>0.0000 MM</line_space>
+      <text_font>0.0000 MM</text_font>
+      <photoplot_width>0.0000 MM</photoplot_width>
     </array>
     <array>
       <text_slant>0.000</text_slant>
-      <text_height>20.00 MIL</text_height>
-      <text_width>12.00 MIL</text_width>
-      <character_space>1.00 MIL</character_space>
-      <line_space>31.00 MIL</line_space>
-      <text_font>0.00 MIL</text_font>
-      <photoplot_width>0.00 MIL</photoplot_width>
+      <text_height>0.5080 MM</text_height>
+      <text_width>0.3048 MM</text_width>
+      <character_space>0.0254 MM</character_space>
+      <line_space>0.7874 MM</line_space>
+      <text_font>0.0000 MM</text_font>
+      <photoplot_width>0.0000 MM</photoplot_width>
     </array>
     <array>
       <text_slant>0.000</text_slant>
-      <text_height>60.00 MIL</text_height>
-      <text_width>48.00 MIL</text_width>
-      <character_space>0.00 MIL</character_space>
-      <line_space>0.00 MIL</line_space>
-      <text_font>0.00 MIL</text_font>
-      <photoplot_width>0.00 MIL</photoplot_width>
+      <text_height>1.5240 MM</text_height>
+      <text_width>1.2192 MM</text_width>
+      <character_space>0.0000 MM</character_space>
+      <line_space>0.0000 MM</line_space>
+      <text_font>0.0000 MM</text_font>
+      <photoplot_width>0.0000 MM</photoplot_width>
     </array>
     <array>
       <text_slant>0.000</text_slant>
-      <text_height>48.00 MIL</text_height>
-      <text_width>38.40 MIL</text_width>
-      <character_space>0.00 MIL</character_space>
-      <line_space>0.00 MIL</line_space>
-      <text_font>0.00 MIL</text_font>
-      <photoplot_width>0.00 MIL</photoplot_width>
+      <text_height>1.2192 MM</text_height>
+      <text_width>0.9754 MM</text_width>
+      <character_space>0.0000 MM</character_space>
+      <line_space>0.0000 MM</line_space>
+      <text_font>0.0000 MM</text_font>
+      <photoplot_width>0.0000 MM</photoplot_width>
     </array>
     <array>
       <text_slant>0.000</text_slant>
-      <text_height>50.00 MIL</text_height>
-      <text_width>38.00 MIL</text_width>
-      <character_space>5.00 MIL</character_space>
-      <line_space>63.00 MIL</line_space>
-      <text_font>0.00 MIL</text_font>
-      <photoplot_width>6.00 MIL</photoplot_width>
+      <text_height>1.2700 MM</text_height>
+      <text_width>0.9652 MM</text_width>
+      <character_space>0.1270 MM</character_space>
+      <line_space>1.6002 MM</line_space>
+      <text_font>0.0000 MM</text_font>
+      <photoplot_width>0.1524 MM</photoplot_width>
     </array>
     <array>
       <text_slant>0.000</text_slant>
-      <text_height>25.00 MIL</text_height>
-      <text_width>16.00 MIL</text_width>
-      <character_space>5.00 MIL</character_space>
-      <line_space>31.00 MIL</line_space>
-      <text_font>0.00 MIL</text_font>
-      <photoplot_width>0.00 MIL</photoplot_width>
+      <text_height>0.6350 MM</text_height>
+      <text_width>0.4064 MM</text_width>
+      <character_space>0.1270 MM</character_space>
+      <line_space>0.7874 MM</line_space>
+      <text_font>0.0000 MM</text_font>
+      <photoplot_width>0.0000 MM</photoplot_width>
     </array>
     <array>
       <text_slant>0.000</text_slant>
-      <text_height>25.00 MIL</text_height>
-      <text_width>16.00 MIL</text_width>
-      <character_space>6.00 MIL</character_space>
-      <line_space>31.00 MIL</line_space>
-      <text_font>0.00 MIL</text_font>
-      <photoplot_width>3.94 MIL</photoplot_width>
+      <text_height>0.6350 MM</text_height>
+      <text_width>0.4064 MM</text_width>
+      <character_space>0.1524 MM</character_space>
+      <line_space>0.7874 MM</line_space>
+      <text_font>0.0000 MM</text_font>
+      <photoplot_width>0.1001 MM</photoplot_width>
     </array>
     <array>
       <text_slant>0.000</text_slant>
-      <text_height>7.87 MIL</text_height>
-      <text_width>3.94 MIL</text_width>
-      <character_space>0.98 MIL</character_space>
-      <line_space>0.00 MIL</line_space>
-      <text_font>0.00 MIL</text_font>
-      <photoplot_width>0.98 MIL</photoplot_width>
+      <text_height>0.1999 MM</text_height>
+      <text_width>0.1001 MM</text_width>
+      <character_space>0.0249 MM</character_space>
+      <line_space>0.0000 MM</line_space>
+      <text_font>0.0000 MM</text_font>
+      <photoplot_width>0.0249 MM</photoplot_width>
     </array>
     <array>
       <text_slant>0.000</text_slant>
-      <text_height>31.50 MIL</text_height>
-      <text_width>19.68 MIL</text_width>
-      <character_space>5.00 MIL</character_space>
-      <line_space>0.00 MIL</line_space>
-      <text_font>0.00 MIL</text_font>
-      <photoplot_width>5.91 MIL</photoplot_width>
+      <text_height>0.8001 MM</text_height>
+      <text_width>0.4999 MM</text_width>
+      <character_space>0.1270 MM</character_space>
+      <line_space>0.0000 MM</line_space>
+      <text_font>0.0000 MM</text_font>
+      <photoplot_width>0.1501 MM</photoplot_width>
     </array>
     <array>
       <text_slant>0.000</text_slant>
-      <text_height>8.00 MIL</text_height>
-      <text_width>5.00 MIL</text_width>
-      <character_space>0.50 MIL</character_space>
-      <line_space>0.50 MIL</line_space>
-      <text_font>0.00 MIL</text_font>
-      <photoplot_width>0.50 MIL</photoplot_width>
+      <text_height>0.2032 MM</text_height>
+      <text_width>0.1270 MM</text_width>
+      <character_space>0.0127 MM</character_space>
+      <line_space>0.0127 MM</line_space>
+      <text_font>0.0000 MM</text_font>
+      <photoplot_width>0.0127 MM</photoplot_width>
     </array>
     <array>
       <text_slant>0.000</text_slant>
-      <text_height>25.00 MIL</text_height>
-      <text_width>16.00 MIL</text_width>
-      <character_space>5.00 MIL</character_space>
-      <line_space>31.00 MIL</line_space>
-      <text_font>0.00 MIL</text_font>
-      <photoplot_width>5.00 MIL</photoplot_width>
+      <text_height>0.6350 MM</text_height>
+      <text_width>0.4064 MM</text_width>
+      <character_space>0.1270 MM</character_space>
+      <line_space>0.7874 MM</line_space>
+      <text_font>0.0000 MM</text_font>
+      <photoplot_width>0.1270 MM</photoplot_width>
     </array>
     <array>
       <text_slant>0.000</text_slant>
-      <text_height>526.00 MIL</text_height>
-      <text_width>526.00 MIL</text_width>
-      <character_space>526.00 MIL</character_space>
-      <line_space>526.00 MIL</line_space>
-      <text_font>0.00 MIL</text_font>
-      <photoplot_width>526.00 MIL</photoplot_width>
+      <text_height>13.3604 MM</text_height>
+      <text_width>13.3604 MM</text_width>
+      <character_space>13.3604 MM</character_space>
+      <line_space>13.3604 MM</line_space>
+      <text_font>0.0000 MM</text_font>
+      <photoplot_width>13.3604 MM</photoplot_width>
     </array>
     <array>
       <text_slant>0.000</text_slant>
-      <text_height>7.00 MIL</text_height>
-      <text_width>4.00 MIL</text_width>
-      <character_space>0.10 MIL</character_space>
-      <line_space>0.10 MIL</line_space>
-      <text_font>0.00 MIL</text_font>
-      <photoplot_width>0.00 MIL</photoplot_width>
+      <text_height>0.1778 MM</text_height>
+      <text_width>0.1016 MM</text_width>
+      <character_space>0.0025 MM</character_space>
+      <line_space>0.0025 MM</line_space>
+      <text_font>0.0000 MM</text_font>
+      <photoplot_width>0.0000 MM</photoplot_width>
     </array>
     <array>
       <text_slant>0.000</text_slant>
-      <text_height>26.00 MIL</text_height>
-      <text_width>24.00 MIL</text_width>
-      <character_space>0.01 MIL</character_space>
-      <line_space>0.01 MIL</line_space>
-      <text_font>0.00 MIL</text_font>
-      <photoplot_width>5.00 MIL</photoplot_width>
+      <text_height>0.6604 MM</text_height>
+      <text_width>0.6096 MM</text_width>
+      <character_space>0.0003 MM</character_space>
+      <line_space>0.0003 MM</line_space>
+      <text_font>0.0000 MM</text_font>
+      <photoplot_width>0.1270 MM</photoplot_width>
     </array>
     <array>
       <text_slant>0.000</text_slant>
-      <text_height>529.00 MIL</text_height>
-      <text_width>529.00 MIL</text_width>
-      <character_space>529.00 MIL</character_space>
-      <line_space>529.00 MIL</line_space>
-      <text_font>0.00 MIL</text_font>
-      <photoplot_width>529.00 MIL</photoplot_width>
+      <text_height>13.4366 MM</text_height>
+      <text_width>13.4366 MM</text_width>
+      <character_space>13.4366 MM</character_space>
+      <line_space>13.4366 MM</line_space>
+      <text_font>0.0000 MM</text_font>
+      <photoplot_width>13.4366 MM</photoplot_width>
     </array>
     <array>
       <text_slant>0.000</text_slant>
-      <text_height>530.00 MIL</text_height>
-      <text_width>530.00 MIL</text_width>
-      <character_space>530.00 MIL</character_space>
-      <line_space>530.00 MIL</line_space>
-      <text_font>0.00 MIL</text_font>
-      <photoplot_width>530.00 MIL</photoplot_width>
+      <text_height>13.4620 MM</text_height>
+      <text_width>13.4620 MM</text_width>
+      <character_space>13.4620 MM</character_space>
+      <line_space>13.4620 MM</line_space>
+      <text_font>0.0000 MM</text_font>
+      <photoplot_width>13.4620 MM</photoplot_width>
     </array>
     <array>
       <text_slant>0.000</text_slant>
-      <text_height>26.00 MIL</text_height>
-      <text_width>22.00 MIL</text_width>
-      <character_space>2.00 MIL</character_space>
-      <line_space>50.00 MIL</line_space>
-      <text_font>0.00 MIL</text_font>
-      <photoplot_width>6.00 MIL</photoplot_width>
+      <text_height>0.6604 MM</text_height>
+      <text_width>0.5588 MM</text_width>
+      <character_space>0.0508 MM</character_space>
+      <line_space>1.2700 MM</line_space>
+      <text_font>0.0000 MM</text_font>
+      <photoplot_width>0.1524 MM</photoplot_width>
     </array>
     <array>
       <text_slant>0.000</text_slant>
-      <text_height>30.00 MIL</text_height>
-      <text_width>25.00 MIL</text_width>
-      <character_space>0.00 MIL</character_space>
-      <line_space>50.00 MIL</line_space>
-      <text_font>0.00 MIL</text_font>
-      <photoplot_width>5.00 MIL</photoplot_width>
+      <text_height>0.7620 MM</text_height>
+      <text_width>0.6350 MM</text_width>
+      <character_space>0.0000 MM</character_space>
+      <line_space>1.2700 MM</line_space>
+      <text_font>0.0000 MM</text_font>
+      <photoplot_width>0.1270 MM</photoplot_width>
     </array>
     <array>
       <text_slant>0.000</text_slant>
-      <text_height>63.00 MIL</text_height>
-      <text_width>47.00 MIL</text_width>
-      <character_space>16.00 MIL</character_space>
-      <line_space>150.00 MIL</line_space>
-      <text_font>0.00 MIL</text_font>
-      <photoplot_width>6.00 MIL</photoplot_width>
+      <text_height>1.6002 MM</text_height>
+      <text_width>1.1938 MM</text_width>
+      <character_space>0.4064 MM</character_space>
+      <line_space>3.8100 MM</line_space>
+      <text_font>0.0000 MM</text_font>
+      <photoplot_width>0.1524 MM</photoplot_width>
     </array>
     <array>
       <text_slant>0.000</text_slant>
-      <text_height>100.00 MIL</text_height>
-      <text_width>75.00 MIL</text_width>
-      <character_space>25.00 MIL</character_space>
-      <line_space>250.00 MIL</line_space>
-      <text_font>0.00 MIL</text_font>
-      <photoplot_width>6.00 MIL</photoplot_width>
+      <text_height>2.5400 MM</text_height>
+      <text_width>1.9050 MM</text_width>
+      <character_space>0.6350 MM</character_space>
+      <line_space>6.3500 MM</line_space>
+      <text_font>0.0000 MM</text_font>
+      <photoplot_width>0.1524 MM</photoplot_width>
     </array>
     <array>
       <text_slant>0.000</text_slant>
-      <text_height>125.00 MIL</text_height>
-      <text_width>93.00 MIL</text_width>
-      <character_space>31.00 MIL</character_space>
-      <line_space>280.00 MIL</line_space>
-      <text_font>0.00 MIL</text_font>
-      <photoplot_width>6.00 MIL</photoplot_width>
+      <text_height>3.1750 MM</text_height>
+      <text_width>2.3622 MM</text_width>
+      <character_space>0.7874 MM</character_space>
+      <line_space>7.1120 MM</line_space>
+      <text_font>0.0000 MM</text_font>
+      <photoplot_width>0.1524 MM</photoplot_width>
     </array>
     <array>
       <text_slant>0.000</text_slant>
-      <text_height>200.00 MIL</text_height>
-      <text_width>150.00 MIL</text_width>
-      <character_space>50.00 MIL</character_space>
-      <line_space>450.00 MIL</line_space>
-      <text_font>0.00 MIL</text_font>
-      <photoplot_width>6.00 MIL</photoplot_width>
+      <text_height>5.0800 MM</text_height>
+      <text_width>3.8100 MM</text_width>
+      <character_space>1.2700 MM</character_space>
+      <line_space>11.4300 MM</line_space>
+      <text_font>0.0000 MM</text_font>
+      <photoplot_width>0.1524 MM</photoplot_width>
     </array>
     <array>
       <text_slant>0.000</text_slant>
-      <text_height>60.00 MIL</text_height>
-      <text_width>40.00 MIL</text_width>
-      <character_space>3.00 MIL</character_space>
-      <line_space>50.00 MIL</line_space>
-      <text_font>0.00 MIL</text_font>
-      <photoplot_width>6.00 MIL</photoplot_width>
+      <text_height>1.5240 MM</text_height>
+      <text_width>1.0160 MM</text_width>
+      <character_space>0.0762 MM</character_space>
+      <line_space>1.2700 MM</line_space>
+      <text_font>0.0000 MM</text_font>
+      <photoplot_width>0.1524 MM</photoplot_width>
     </array>
     <array>
       <text_slant>0.000</text_slant>
-      <text_height>41.00 MIL</text_height>
-      <text_width>28.00 MIL</text_width>
-      <character_space>0.00 MIL</character_space>
-      <line_space>42.00 MIL</line_space>
-      <text_font>0.00 MIL</text_font>
-      <photoplot_width>0.00 MIL</photoplot_width>
+      <text_height>1.0414 MM</text_height>
+      <text_width>0.7112 MM</text_width>
+      <character_space>0.0000 MM</character_space>
+      <line_space>1.0668 MM</line_space>
+      <text_font>0.0000 MM</text_font>
+      <photoplot_width>0.0000 MM</photoplot_width>
     </array>
     <array>
       <text_slant>0.000</text_slant>
-      <text_height>35.00 MIL</text_height>
-      <text_width>16.00 MIL</text_width>
-      <character_space>10.00 MIL</character_space>
-      <line_space>20.00 MIL</line_space>
-      <text_font>0.00 MIL</text_font>
-      <photoplot_width>0.00 MIL</photoplot_width>
+      <text_height>0.8890 MM</text_height>
+      <text_width>0.4064 MM</text_width>
+      <character_space>0.2540 MM</character_space>
+      <line_space>0.5080 MM</line_space>
+      <text_font>0.0000 MM</text_font>
+      <photoplot_width>0.0000 MM</photoplot_width>
     </array>
     <array>
       <text_slant>0.000</text_slant>
-      <text_height>60.00 MIL</text_height>
-      <text_width>48.00 MIL</text_width>
-      <character_space>0.00 MIL</character_space>
-      <line_space>0.00 MIL</line_space>
-      <text_font>0.00 MIL</text_font>
-      <photoplot_width>6.00 MIL</photoplot_width>
+      <text_height>1.5240 MM</text_height>
+      <text_width>1.2192 MM</text_width>
+      <character_space>0.0000 MM</character_space>
+      <line_space>0.0000 MM</line_space>
+      <text_font>0.0000 MM</text_font>
+      <photoplot_width>0.1524 MM</photoplot_width>
     </array>
     <array>
       <text_slant>0.000</text_slant>
-      <text_height>35.00 MIL</text_height>
-      <text_width>25.00 MIL</text_width>
-      <character_space>8.00 MIL</character_space>
-      <line_space>10.00 MIL</line_space>
-      <text_font>0.00 MIL</text_font>
-      <photoplot_width>5.00 MIL</photoplot_width>
+      <text_height>0.8890 MM</text_height>
+      <text_width>0.6350 MM</text_width>
+      <character_space>0.2032 MM</character_space>
+      <line_space>0.2540 MM</line_space>
+      <text_font>0.0000 MM</text_font>
+      <photoplot_width>0.1270 MM</photoplot_width>
     </array>
     <array>
       <text_slant>0.000</text_slant>
-      <text_height>48.00 MIL</text_height>
-      <text_width>38.00 MIL</text_width>
-      <character_space>0.00 MIL</character_space>
-      <line_space>0.00 MIL</line_space>
-      <text_font>0.00 MIL</text_font>
-      <photoplot_width>0.00 MIL</photoplot_width>
+      <text_height>1.2192 MM</text_height>
+      <text_width>0.9652 MM</text_width>
+      <character_space>0.0000 MM</character_space>
+      <line_space>0.0000 MM</line_space>
+      <text_font>0.0000 MM</text_font>
+      <photoplot_width>0.0000 MM</photoplot_width>
     </array>
     <array>
       <text_slant>0.000</text_slant>
-      <text_height>35.00 MIL</text_height>
-      <text_width>25.00 MIL</text_width>
-      <character_space>25.00 MIL</character_space>
-      <line_space>100.00 MIL</line_space>
-      <text_font>0.00 MIL</text_font>
-      <photoplot_width>0.00 MIL</photoplot_width>
+      <text_height>0.8890 MM</text_height>
+      <text_width>0.6350 MM</text_width>
+      <character_space>0.6350 MM</character_space>
+      <line_space>2.5400 MM</line_space>
+      <text_font>0.0000 MM</text_font>
+      <photoplot_width>0.0000 MM</photoplot_width>
     </array>
     <array>
       <text_slant>0.000</text_slant>
-      <text_height>35.00 MIL</text_height>
-      <text_width>16.00 MIL</text_width>
-      <character_space>10.00 MIL</character_space>
-      <line_space>20.00 MIL</line_space>
-      <text_font>0.00 MIL</text_font>
-      <photoplot_width>5.00 MIL</photoplot_width>
+      <text_height>0.8890 MM</text_height>
+      <text_width>0.4064 MM</text_width>
+      <character_space>0.2540 MM</character_space>
+      <line_space>0.5080 MM</line_space>
+      <text_font>0.0000 MM</text_font>
+      <photoplot_width>0.1270 MM</photoplot_width>
     </array>
     <array>
       <text_slant>0.000</text_slant>
-      <text_height>25.00 MIL</text_height>
-      <text_width>16.00 MIL</text_width>
-      <character_space>6.00 MIL</character_space>
-      <line_space>30.00 MIL</line_space>
-      <text_font>0.00 MIL</text_font>
-      <photoplot_width>0.00 MIL</photoplot_width>
+      <text_height>0.6350 MM</text_height>
+      <text_width>0.4064 MM</text_width>
+      <character_space>0.1524 MM</character_space>
+      <line_space>0.7620 MM</line_space>
+      <text_font>0.0000 MM</text_font>
+      <photoplot_width>0.0000 MM</photoplot_width>
     </array>
     <array>
       <text_slant>0.000</text_slant>
-      <text_height>60.00 MIL</text_height>
-      <text_width>30.00 MIL</text_width>
-      <character_space>10.00 MIL</character_space>
-      <line_space>50.00 MIL</line_space>
-      <text_font>0.00 MIL</text_font>
-      <photoplot_width>10.00 MIL</photoplot_width>
+      <text_height>1.5240 MM</text_height>
+      <text_width>0.7620 MM</text_width>
+      <character_space>0.2540 MM</character_space>
+      <line_space>1.2700 MM</line_space>
+      <text_font>0.0000 MM</text_font>
+      <photoplot_width>0.2540 MM</photoplot_width>
     </array>
     <array>
       <text_slant>0.000</text_slant>
-      <text_height>25.00 MIL</text_height>
-      <text_width>15.00 MIL</text_width>
-      <character_space>6.00 MIL</character_space>
-      <line_space>30.00 MIL</line_space>
-      <text_font>0.00 MIL</text_font>
-      <photoplot_width>0.00 MIL</photoplot_width>
+      <text_height>0.6350 MM</text_height>
+      <text_width>0.3810 MM</text_width>
+      <character_space>0.1524 MM</character_space>
+      <line_space>0.7620 MM</line_space>
+      <text_font>0.0000 MM</text_font>
+      <photoplot_width>0.0000 MM</photoplot_width>
     </array>
     <array>
       <text_slant>0.000</text_slant>
-      <text_height>30.00 MIL</text_height>
-      <text_width>20.00 MIL</text_width>
-      <character_space>5.00 MIL</character_space>
-      <line_space>0.00 MIL</line_space>
-      <text_font>0.00 MIL</text_font>
-      <photoplot_width>0.00 MIL</photoplot_width>
+      <text_height>0.7620 MM</text_height>
+      <text_width>0.5080 MM</text_width>
+      <character_space>0.1270 MM</character_space>
+      <line_space>0.0000 MM</line_space>
+      <text_font>0.0000 MM</text_font>
+      <photoplot_width>0.0000 MM</photoplot_width>
     </array>
     <array>
       <text_slant>0.000</text_slant>
-      <text_height>31.00 MIL</text_height>
-      <text_width>23.00 MIL</text_width>
-      <character_space>8.00 MIL</character_space>
-      <line_space>39.00 MIL</line_space>
-      <text_font>0.00 MIL</text_font>
-      <photoplot_width>6.00 MIL</photoplot_width>
+      <text_height>0.7874 MM</text_height>
+      <text_width>0.5842 MM</text_width>
+      <character_space>0.2032 MM</character_space>
+      <line_space>0.9906 MM</line_space>
+      <text_font>0.0000 MM</text_font>
+      <photoplot_width>0.1524 MM</photoplot_width>
     </array>
     <array>
       <text_slant>0.000</text_slant>
-      <text_height>160.00 MIL</text_height>
-      <text_width>120.00 MIL</text_width>
-      <character_space>0.00 MIL</character_space>
-      <line_space>0.00 MIL</line_space>
-      <text_font>0.00 MIL</text_font>
-      <photoplot_width>0.00 MIL</photoplot_width>
+      <text_height>4.0640 MM</text_height>
+      <text_width>3.0480 MM</text_width>
+      <character_space>0.0000 MM</character_space>
+      <line_space>0.0000 MM</line_space>
+      <text_font>0.0000 MM</text_font>
+      <photoplot_width>0.0000 MM</photoplot_width>
     </array>
     <array>
       <text_slant>0.000</text_slant>
-      <text_height>0.01 MIL</text_height>
-      <text_width>0.01 MIL</text_width>
-      <character_space>0.00 MIL</character_space>
-      <line_space>0.00 MIL</line_space>
-      <text_font>0.00 MIL</text_font>
-      <photoplot_width>0.00 MIL</photoplot_width>
+      <text_height>0.0003 MM</text_height>
+      <text_width>0.0003 MM</text_width>
+      <character_space>0.0000 MM</character_space>
+      <line_space>0.0000 MM</line_space>
+      <text_font>0.0000 MM</text_font>
+      <photoplot_width>0.0000 MM</photoplot_width>
     </array>
     <array>
       <text_slant>0.000</text_slant>
-      <text_height>40.00 MIL</text_height>
-      <text_width>25.00 MIL</text_width>
-      <character_space>5.00 MIL</character_space>
-      <line_space>40.00 MIL</line_space>
-      <text_font>0.00 MIL</text_font>
-      <photoplot_width>0.00 MIL</photoplot_width>
+      <text_height>1.0160 MM</text_height>
+      <text_width>0.6350 MM</text_width>
+      <character_space>0.1270 MM</character_space>
+      <line_space>1.0160 MM</line_space>
+      <text_font>0.0000 MM</text_font>
+      <photoplot_width>0.0000 MM</photoplot_width>
     </array>
     <array>
       <text_slant>0.000</text_slant>
-      <text_height>20.00 MIL</text_height>
-      <text_width>12.00 MIL</text_width>
-      <character_space>1.00 MIL</character_space>
-      <line_space>31.00 MIL</line_space>
-      <text_font>0.00 MIL</text_font>
-      <photoplot_width>0.00 MIL</photoplot_width>
+      <text_height>0.5080 MM</text_height>
+      <text_width>0.3048 MM</text_width>
+      <character_space>0.0254 MM</character_space>
+      <line_space>0.7874 MM</line_space>
+      <text_font>0.0000 MM</text_font>
+      <photoplot_width>0.0000 MM</photoplot_width>
     </array>
     <array>
       <text_slant>0.000</text_slant>
-      <text_height>60.00 MIL</text_height>
-      <text_width>48.00 MIL</text_width>
-      <character_space>0.00 MIL</character_space>
-      <line_space>0.00 MIL</line_space>
-      <text_font>0.00 MIL</text_font>
-      <photoplot_width>0.00 MIL</photoplot_width>
+      <text_height>1.5240 MM</text_height>
+      <text_width>1.2192 MM</text_width>
+      <character_space>0.0000 MM</character_space>
+      <line_space>0.0000 MM</line_space>
+      <text_font>0.0000 MM</text_font>
+      <photoplot_width>0.0000 MM</photoplot_width>
     </array>
     <array>
       <text_slant>0.000</text_slant>
-      <text_height>48.00 MIL</text_height>
-      <text_width>38.40 MIL</text_width>
-      <character_space>0.00 MIL</character_space>
-      <line_space>0.00 MIL</line_space>
-      <text_font>0.00 MIL</text_font>
-      <photoplot_width>0.00 MIL</photoplot_width>
+      <text_height>1.2192 MM</text_height>
+      <text_width>0.9754 MM</text_width>
+      <character_space>0.0000 MM</character_space>
+      <line_space>0.0000 MM</line_space>
+      <text_font>0.0000 MM</text_font>
+      <photoplot_width>0.0000 MM</photoplot_width>
     </array>
     <array>
       <text_slant>0.000</text_slant>
-      <text_height>40.00 MIL</text_height>
-      <text_width>30.00 MIL</text_width>
-      <character_space>8.00 MIL</character_space>
-      <line_space>40.00 MIL</line_space>
-      <text_font>0.00 MIL</text_font>
-      <photoplot_width>6.00 MIL</photoplot_width>
+      <text_height>1.0160 MM</text_height>
+      <text_width>0.7620 MM</text_width>
+      <character_space>0.2032 MM</character_space>
+      <line_space>1.0160 MM</line_space>
+      <text_font>0.0000 MM</text_font>
+      <photoplot_width>0.1524 MM</photoplot_width>
     </array>
     <array>
       <text_slant>0.000</text_slant>
-      <text_height>50.00 MIL</text_height>
-      <text_width>38.00 MIL</text_width>
-      <character_space>5.00 MIL</character_space>
-      <line_space>63.00 MIL</line_space>
-      <text_font>0.00 MIL</text_font>
-      <photoplot_width>6.00 MIL</photoplot_width>
+      <text_height>1.2700 MM</text_height>
+      <text_width>0.9652 MM</text_width>
+      <character_space>0.1270 MM</character_space>
+      <line_space>1.6002 MM</line_space>
+      <text_font>0.0000 MM</text_font>
+      <photoplot_width>0.1524 MM</photoplot_width>
     </array>
     <array>
       <text_slant>0.000</text_slant>
-      <text_height>50.00 MIL</text_height>
-      <text_width>37.99 MIL</text_width>
-      <character_space>5.00 MIL</character_space>
-      <line_space>62.99 MIL</line_space>
-      <text_font>0.00 MIL</text_font>
-      <photoplot_width>5.98 MIL</photoplot_width>
+      <text_height>1.2700 MM</text_height>
+      <text_width>0.9649 MM</text_width>
+      <character_space>0.1270 MM</character_space>
+      <line_space>1.5999 MM</line_space>
+      <text_font>0.0000 MM</text_font>
+      <photoplot_width>0.1519 MM</photoplot_width>
     </array>
     <array>
       <text_slant>0.000</text_slant>
-      <text_height>25.00 MIL</text_height>
-      <text_width>16.00 MIL</text_width>
-      <character_space>5.00 MIL</character_space>
-      <line_space>31.00 MIL</line_space>
-      <text_font>0.00 MIL</text_font>
-      <photoplot_width>0.00 MIL</photoplot_width>
+      <text_height>0.6350 MM</text_height>
+      <text_width>0.4064 MM</text_width>
+      <character_space>0.1270 MM</character_space>
+      <line_space>0.7874 MM</line_space>
+      <text_font>0.0000 MM</text_font>
+      <photoplot_width>0.0000 MM</photoplot_width>
     </array>
     <array>
       <text_slant>0.000</text_slant>
-      <text_height>25.00 MIL</text_height>
-      <text_width>16.00 MIL</text_width>
-      <character_space>6.00 MIL</character_space>
-      <line_space>31.00 MIL</line_space>
-      <text_font>0.00 MIL</text_font>
-      <photoplot_width>3.94 MIL</photoplot_width>
+      <text_height>0.6350 MM</text_height>
+      <text_width>0.4064 MM</text_width>
+      <character_space>0.1524 MM</character_space>
+      <line_space>0.7874 MM</line_space>
+      <text_font>0.0000 MM</text_font>
+      <photoplot_width>0.1001 MM</photoplot_width>
     </array>
     <array>
       <text_slant>0.000</text_slant>
-      <text_height>7.87 MIL</text_height>
-      <text_width>3.94 MIL</text_width>
-      <character_space>0.98 MIL</character_space>
-      <line_space>0.00 MIL</line_space>
-      <text_font>0.00 MIL</text_font>
-      <photoplot_width>0.98 MIL</photoplot_width>
+      <text_height>0.1999 MM</text_height>
+      <text_width>0.1001 MM</text_width>
+      <character_space>0.0249 MM</character_space>
+      <line_space>0.0000 MM</line_space>
+      <text_font>0.0000 MM</text_font>
+      <photoplot_width>0.0249 MM</photoplot_width>
     </array>
     <array>
       <text_slant>0.000</text_slant>
-      <text_height>31.50 MIL</text_height>
-      <text_width>19.68 MIL</text_width>
-      <character_space>5.00 MIL</character_space>
-      <line_space>0.00 MIL</line_space>
-      <text_font>0.00 MIL</text_font>
-      <photoplot_width>5.91 MIL</photoplot_width>
+      <text_height>0.8001 MM</text_height>
+      <text_width>0.4999 MM</text_width>
+      <character_space>0.1270 MM</character_space>
+      <line_space>0.0000 MM</line_space>
+      <text_font>0.0000 MM</text_font>
+      <photoplot_width>0.1501 MM</photoplot_width>
     </array>
     <array>
       <text_slant>0.000</text_slant>
-      <text_height>40.00 MIL</text_height>
-      <text_width>25.00 MIL</text_width>
-      <character_space>7.00 MIL</character_space>
-      <line_space>31.00 MIL</line_space>
-      <text_font>0.00 MIL</text_font>
-      <photoplot_width>0.00 MIL</photoplot_width>
+      <text_height>1.0160 MM</text_height>
+      <text_width>0.6350 MM</text_width>
+      <character_space>0.1778 MM</character_space>
+      <line_space>0.7874 MM</line_space>
+      <text_font>0.0000 MM</text_font>
+      <photoplot_width>0.0000 MM</photoplot_width>
     </array>
     <array>
       <text_slant>0.000</text_slant>
-      <text_height>50.00 MIL</text_height>
-      <text_width>38.00 MIL</text_width>
-      <character_space>3.94 MIL</character_space>
-      <line_space>39.37 MIL</line_space>
-      <text_font>0.00 MIL</text_font>
-      <photoplot_width>6.00 MIL</photoplot_width>
+      <text_height>1.2700 MM</text_height>
+      <text_width>0.9652 MM</text_width>
+      <character_space>0.1001 MM</character_space>
+      <line_space>1.0000 MM</line_space>
+      <text_font>0.0000 MM</text_font>
+      <photoplot_width>0.1524 MM</photoplot_width>
     </array>
   </text_size_table>
 
