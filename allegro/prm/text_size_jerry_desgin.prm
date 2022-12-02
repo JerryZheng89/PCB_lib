@@ -919,7 +919,7 @@
     <wb_pad_name/>
     <de_wb_via_pad_name/>
     <crfan_via_pad_name/>
-    <apin_pin_number>69</apin_pin_number>
+    <apin_pin_number>1</apin_pin_number>
     <cp_symbol_pin_num>1</cp_symbol_pin_num>
     <mv_symbol_pin_num>1</mv_symbol_pin_num>
     <spn_symbol_pin_num>1</spn_symbol_pin_num>
