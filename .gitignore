@@ -5,3 +5,4 @@
 *.copy
 /psm_draSymbols/signoise.run
 .DS_Store
+*/.DS_Store
