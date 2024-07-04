@@ -5,221 +5,6 @@
     <version>16.6-2015</version>
   </parameter_header>
 
-  <db_common_type>
-    <db_mask1>1</db_mask1>
-    <fat_rats_flag>0</fat_rats_flag>
-    <scm_dirpath/>
-    <max_rband_count>501</max_rband_count>
-    <dispflag>
-      <flags>49152</flags>
-    </dispflag>
-    <drc_marker_size>25.00 MIL</drc_marker_size>
-    <component_both_sides>false</component_both_sides>
-    <auto_45>false</auto_45>
-    <stacked_via>false</stacked_via>
-    <gridmode>false</gridmode>
-    <line_lock>1</line_lock>
-    <mirror>0</mirror>
-    <justification>1</justification>
-    <active_line_font_id>0</active_line_font_id>
-    <text_increment>0</text_increment>
-    <max_45>25.00 MIL</max_45>
-    <tpointsize>50.00 MIL</tpointsize>
-    <ratsnest_pin2pin>0</ratsnest_pin2pin>
-    <cset_apply_rip_etch>0</cset_apply_rip_etch>
-    <rotate>0.000</rotate>
-    <active_class>ETCH</active_class>
-    <active_subclass>TOP</active_subclass>
-    <alternate_subclass>BOTTOM</alternate_subclass>
-    <active_text_size>1</active_text_size>
-    <geomextract_uptodate>0</geomextract_uptodate>
-    <ratsnest_nojog>0</ratsnest_nojog>
-    <dflt_sym_height>150.00 MIL</dflt_sym_height>
-    <waived_drc_display>0</waived_drc_display>
-    <fixed_objects_color>0</fixed_objects_color>
-    <stacked_via_label_color>82</stacked_via_label_color>
-    <via_label_color>82</via_label_color>
-    <rplan_drc_color>57</rplan_drc_color>
-    <ratsnest_color_top>59</ratsnest_color_top>
-    <ratsnest_color_btm>59</ratsnest_color_btm>
-    <drill_hole_color>50</drill_hole_color>
-    <waived_drc_color>17</waived_drc_color>
-    <hilite_color>82</hilite_color>
-    <grid_color>82</grid_color>
-    <ratsnest_color>59</ratsnest_color>
-    <rat_t_size>35.00 MIL</rat_t_size>
-    <cpoint_size>10.00 MIL</cpoint_size>
-    <class_table>
-      <BOARD_GEOMETRY>
-        <user_defined_subclass>NCROUTE_PATH</user_defined_subclass>
-      </BOARD_GEOMETRY>
-      <COMPONENT_VALUE/>
-      <DEVICE_TYPE/>
-      <DRAWING_FORMAT/>
-      <MANUFACTURING/>
-      <ANALYSIS/>
-      <PACKAGE_GEOMETRY>
-        <user_defined_subclass>PXLIB_INFO</user_defined_subclass>
-      </PACKAGE_GEOMETRY>
-      <REF_DES/>
-      <TOLERANCE/>
-      <USER_PART_NUMBER/>
-    </class_table>
-  </db_common_type>
-
-  <grid_parms_type>
-    <rev>2</rev>
-    <etchcount>2</etchcount>
-    <nonetch>
-      <number_x_grids>1</number_x_grids>
-      <number_y_grids>1</number_y_grids>
-      <x_grids>8.00 MIL</x_grids>
-      <x_grids>0.00 MIL</x_grids>
-      <x_grids>0.00 MIL</x_grids>
-      <x_grids>0.00 MIL</x_grids>
-      <x_grids>0.00 MIL</x_grids>
-      <x_grids>0.00 MIL</x_grids>
-      <x_grids>0.00 MIL</x_grids>
-      <x_grids>0.00 MIL</x_grids>
-      <x_grids>0.00 MIL</x_grids>
-      <x_grids>0.00 MIL</x_grids>
-      <x_grids>0.00 MIL</x_grids>
-      <x_grids>0.00 MIL</x_grids>
-      <x_grids>0.00 MIL</x_grids>
-      <x_grids>0.00 MIL</x_grids>
-      <x_grids>0.00 MIL</x_grids>
-      <x_grids>0.00 MIL</x_grids>
-      <x_grids>0.00 MIL</x_grids>
-      <x_grids>0.00 MIL</x_grids>
-      <x_grids>0.00 MIL</x_grids>
-      <x_grids>0.00 MIL</x_grids>
-      <y_grids>8.00 MIL</y_grids>
-      <y_grids>0.00 MIL</y_grids>
-      <y_grids>0.00 MIL</y_grids>
-      <y_grids>0.00 MIL</y_grids>
-      <y_grids>0.00 MIL</y_grids>
-      <y_grids>0.00 MIL</y_grids>
-      <y_grids>0.00 MIL</y_grids>
-      <y_grids>0.00 MIL</y_grids>
-      <y_grids>0.00 MIL</y_grids>
-      <y_grids>0.00 MIL</y_grids>
-      <y_grids>0.00 MIL</y_grids>
-      <y_grids>0.00 MIL</y_grids>
-      <y_grids>0.00 MIL</y_grids>
-      <y_grids>0.00 MIL</y_grids>
-      <y_grids>0.00 MIL</y_grids>
-      <y_grids>0.00 MIL</y_grids>
-      <y_grids>0.00 MIL</y_grids>
-      <y_grids>0.00 MIL</y_grids>
-      <y_grids>0.00 MIL</y_grids>
-      <y_grids>0.00 MIL</y_grids>
-      <x_major_grid>8.00 MIL</x_major_grid>
-      <y_major_grid>8.00 MIL</y_major_grid>
-      <x_origin>0.00 MIL</x_origin>
-      <y_origin>0.00 MIL</y_origin>
-    </nonetch>
-    <etch>
-      <number_x_grids>1</number_x_grids>
-      <number_y_grids>1</number_y_grids>
-      <x_grids>8.00 MIL</x_grids>
-      <x_grids>0.00 MIL</x_grids>
-      <x_grids>0.00 MIL</x_grids>
-      <x_grids>0.00 MIL</x_grids>
-      <x_grids>0.00 MIL</x_grids>
-      <x_grids>0.00 MIL</x_grids>
-      <x_grids>0.00 MIL</x_grids>
-      <x_grids>0.00 MIL</x_grids>
-      <x_grids>0.00 MIL</x_grids>
-      <x_grids>0.00 MIL</x_grids>
-      <x_grids>0.00 MIL</x_grids>
-      <x_grids>0.00 MIL</x_grids>
-      <x_grids>0.00 MIL</x_grids>
-      <x_grids>0.00 MIL</x_grids>
-      <x_grids>0.00 MIL</x_grids>
-      <x_grids>0.00 MIL</x_grids>
-      <x_grids>0.00 MIL</x_grids>
-      <x_grids>0.00 MIL</x_grids>
-      <x_grids>0.00 MIL</x_grids>
-      <x_grids>0.00 MIL</x_grids>
-      <y_grids>8.00 MIL</y_grids>
-      <y_grids>0.00 MIL</y_grids>
-      <y_grids>0.00 MIL</y_grids>
-      <y_grids>0.00 MIL</y_grids>
-      <y_grids>0.00 MIL</y_grids>
-      <y_grids>0.00 MIL</y_grids>
-      <y_grids>0.00 MIL</y_grids>
-      <y_grids>0.00 MIL</y_grids>
-      <y_grids>0.00 MIL</y_grids>
-      <y_grids>0.00 MIL</y_grids>
-      <y_grids>0.00 MIL</y_grids>
-      <y_grids>0.00 MIL</y_grids>
-      <y_grids>0.00 MIL</y_grids>
-      <y_grids>0.00 MIL</y_grids>
-      <y_grids>0.00 MIL</y_grids>
-      <y_grids>0.00 MIL</y_grids>
-      <y_grids>0.00 MIL</y_grids>
-      <y_grids>0.00 MIL</y_grids>
-      <y_grids>0.00 MIL</y_grids>
-      <y_grids>0.00 MIL</y_grids>
-      <x_major_grid>8.00 MIL</x_major_grid>
-      <y_major_grid>8.00 MIL</y_major_grid>
-      <x_origin>0.00 MIL</x_origin>
-      <y_origin>0.00 MIL</y_origin>
-    </etch>
-    <etch>
-      <number_x_grids>1</number_x_grids>
-      <number_y_grids>1</number_y_grids>
-      <x_grids>8.00 MIL</x_grids>
-      <x_grids>0.00 MIL</x_grids>
-      <x_grids>0.00 MIL</x_grids>
-      <x_grids>0.00 MIL</x_grids>
-      <x_grids>0.00 MIL</x_grids>
-      <x_grids>0.00 MIL</x_grids>
-      <x_grids>0.00 MIL</x_grids>
-      <x_grids>0.00 MIL</x_grids>
-      <x_grids>0.00 MIL</x_grids>
-      <x_grids>0.00 MIL</x_grids>
-      <x_grids>0.00 MIL</x_grids>
-      <x_grids>0.00 MIL</x_grids>
-      <x_grids>0.00 MIL</x_grids>
-      <x_grids>0.00 MIL</x_grids>
-      <x_grids>0.00 MIL</x_grids>
-      <x_grids>0.00 MIL</x_grids>
-      <x_grids>0.00 MIL</x_grids>
-      <x_grids>0.00 MIL</x_grids>
-      <x_grids>0.00 MIL</x_grids>
-      <x_grids>0.00 MIL</x_grids>
-      <y_grids>8.00 MIL</y_grids>
-      <y_grids>0.00 MIL</y_grids>
-      <y_grids>0.00 MIL</y_grids>
-      <y_grids>0.00 MIL</y_grids>
-      <y_grids>0.00 MIL</y_grids>
-      <y_grids>0.00 MIL</y_grids>
-      <y_grids>0.00 MIL</y_grids>
-      <y_grids>0.00 MIL</y_grids>
-      <y_grids>0.00 MIL</y_grids>
-      <y_grids>0.00 MIL</y_grids>
-      <y_grids>0.00 MIL</y_grids>
-      <y_grids>0.00 MIL</y_grids>
-      <y_grids>0.00 MIL</y_grids>
-      <y_grids>0.00 MIL</y_grids>
-      <y_grids>0.00 MIL</y_grids>
-      <y_grids>0.00 MIL</y_grids>
-      <y_grids>0.00 MIL</y_grids>
-      <y_grids>0.00 MIL</y_grids>
-      <y_grids>0.00 MIL</y_grids>
-      <y_grids>0.00 MIL</y_grids>
-      <x_major_grid>8.00 MIL</x_major_grid>
-      <y_major_grid>8.00 MIL</y_major_grid>
-      <x_origin>0.00 MIL</x_origin>
-      <y_origin>0.00 MIL</y_origin>
-    </etch>
-  </grid_parms_type>
-
-  <UnusedPadsSuppressionSettings>
-    <masterFlag>false</masterFlag>
-  </UnusedPadsSuppressionSettings>
-
   <color_table_table>
     <header>
       <num_of_entries>31</num_of_entries>
@@ -246,7 +31,7 @@
       <_TOOLING_CORNERS>327704</_TOOLING_CORNERS>
       <_ASSEMBLY_NOTES>327704</_ASSEMBLY_NOTES>
       <_PLATING_BAR>327704</_PLATING_BAR>
-      <_OUTLINE>458802</_OUTLINE>
+      <_OUTLINE>327730</_OUTLINE>
     </BOARD_GEOMETRY>
     <COMPONENT_VALUE>
       <_ASSEMBLY_EMBEDDED>262168</_ASSEMBLY_EMBEDDED>
@@ -289,7 +74,7 @@
       <_ALL>327681</_ALL>
     </DRC_ERROR_CLASS>
     <ETCH>
-      <_TOP>327737</_TOP>
+      <_TOP>458809</_TOP>
       <_BOTTOM>327697</_BOTTOM>
       <_WIRE>262161</_WIRE>
     </ETCH>
@@ -318,6 +103,10 @@
       <_LOW_ISOCONTOUR>327704</_LOW_ISOCONTOUR>
     </ANALYSIS>
     <PACKAGE_GEOMETRY>
+      <_SFLIB_INFO>262168</_SFLIB_INFO>
+      <_SYM_BODY>327704</_SYM_BODY>
+      <_LIB_APPROVED>262168</_LIB_APPROVED>
+      <_SOFER_SYM_NAME>262168</_SOFER_SYM_NAME>
       <_PXLIB_INFO>262168</_PXLIB_INFO>
       <_PASTEMASK_BOTTOM>327704</_PASTEMASK_BOTTOM>
       <_PASTEMASK_TOP>327704</_PASTEMASK_TOP>
@@ -332,7 +121,7 @@
       <_SILKSCREEN_BOTTOM>327704</_SILKSCREEN_BOTTOM>
       <_SILKSCREEN_TOP>327704</_SILKSCREEN_TOP>
       <_PAD_STACK_NAME>327704</_PAD_STACK_NAME>
-      <_PIN_NUMBER>327704</_PIN_NUMBER>
+      <_PIN_NUMBER>262168</_PIN_NUMBER>
       <_PLACE_BOUND_BOTTOM>327704</_PLACE_BOUND_BOTTOM>
       <_PLACE_BOUND_TOP>327704</_PLACE_BOUND_TOP>
       <_ASSEMBLY_BOTTOM>327685</_ASSEMBLY_BOTTOM>
@@ -362,7 +151,7 @@
       <_DISPLAY_BOTTOM>327707</_DISPLAY_BOTTOM>
       <_DISPLAY_TOP>327707</_DISPLAY_TOP>
       <_SILKSCREEN_BOTTOM>327707</_SILKSCREEN_BOTTOM>
-      <_SILKSCREEN_TOP>327707</_SILKSCREEN_TOP>
+      <_SILKSCREEN_TOP>262171</_SILKSCREEN_TOP>
       <_ASSEMBLY_BOTTOM>327707</_ASSEMBLY_BOTTOM>
       <_ASSEMBLY_TOP>262171</_ASSEMBLY_TOP>
     </REF_DES>
