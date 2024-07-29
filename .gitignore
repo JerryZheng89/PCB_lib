@@ -6,3 +6,10 @@
 /psm_draSymbols/signoise.run
 .DS_Store
 */.DS_Store
+signoise.run
+*.cfg
+*.cfg,1
+*.cfg,2
+*.cfg,3
+*.OBK
+*.OLBlck
